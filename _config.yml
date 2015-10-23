@@ -4,3 +4,6 @@ github_username:  pankdm
 
 # Build settings
 markdown: kramdown
+
+#Other
+permalink: /:categories/:title.html

@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>A simple map</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="rainbowvis.js"></script>
+<script src='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.css' rel='stylesheet' />
+<!-- <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css' rel='stylesheet' /> -->
+
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+
+<body>
+
+<style>
+.legend label,
+.legend span {
+  display:block;
+  float:left;
+  height:15px;
+  width:20%;
+  text-align:center;
+  font-size:9px;
+  color:#808080;
+  }
+</style>
+
+
+<div id='legend' style='display:none;'>
+<!--   <strong>The Title or Explanation of your Map</strong>
+  <nav class='legend clearfix'>
+    <span style='background:#F1EEF6;'></span>
+    <span style='background:#BDC9E1;'></span>
+    <span style='background:#74A9CF;'></span>
+    <span style='background:#2B8CBE;'></span>
+    <span style='background:#045A8D;'></span>
+    <label>0 - 20%</label>
+    <label>40%</label>
+    <label>60%</label>
+    <label>80%</label>
+    <label>100%</label>
+    <small>Source: <a href="#link to source">Name of source</a></small>
+ -->
+ </div>
+
+<div id='map'></div>
+<script>
+startPoint = [37.47, -122.14];
+L.mapbox.accessToken = 'pk.eyJ1IjoicGFua2RtIiwiYSI6Ik5rdUFuak0ifQ.zDNPCTkra_ocxGs-SxwcYA';
+var map = L.mapbox.map('map', null)
+    .setView(startPoint, 7);
+
+// var layers = {
+//   Mabox: L.mapbox.tileLayer('examples.map-i86nkdio'),
+//   Streets: L.mapbox.tileLayer('examples.map-i87786ca'),
+//   Outdoors: L.mapbox.tileLayer('examples.ik7djhcc'),
+//   Satellite: L.mapbox.tileLayer('examples.map-igb471ik')
+// };
+
+L.control.layers({
+    'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
+    'Mapbox Light': L.mapbox.tileLayer('mapbox.light')
+}).addTo(map);
+
+// layers.Mabox.addTo(map);
+// L.control.layers(layers).addTo(map);
+
+var startMarker = L.marker(startPoint, {
+    icon: L.mapbox.marker.icon({
+        'marker-color': '#1087bf',
+        // 'marker-size': 'large',
+        'marker-symbol': 'rocket',
+    })
+});
+startMarker.addTo(map);
+
+</script>
+
+<script>
+
+var hour = 3600
+var rainbow = new Rainbow();
+// rainbow.setSpectrum('black', 'blue', 'aqua', 'lime', 'yellow', 'red');
+// rainbow.setSpectrum('blue', 'aqua', 'lime', 'yellow', 'red');
+rainbow.setSpectrum('aqua', 'lime', 'lawngreen', 'yellow', 'orange', 'orangered', 'red', 'red');
+rainbow.setNumberRange(1 * hour, 8 * hour);
+
+
+legend = document.getElementById('legend').innerHTML;
+// legend += '<strong>The Title or Explanation of your Map</strong>'
+var table = '<table>';
+
+for (var i = 1 * hour; i <= 7 * hour; i += hour / 2) {
+    hexColor = '#' + rainbow.colourAt(i);
+    table += '<tr><td style="background-color:' + hexColor + '">' + i/3600. + '</td></tr>';
+}
+legend += table
+
+$.getJSON('predictions-google.json', function(data) {
+// $.getJSON('osrm.json', function(data) {
+    for (i in data) {
+        var camping = data[i];
+        // console.log(camping);
+        if (camping.time === null) {
+            color = 'D3D3D3'
+            continue
+        } else {
+            color = rainbow.colourAt(camping.time);
+        }
+
+        // console.log(color)
+        var marker = L.marker(camping.point, {
+            icon: L.mapbox.marker.icon({
+                'marker-color': '#' + color,
+                'marker-size': 'small',
+            })
+        });
+
+        // var marker = L.circleMarker(camping.point, {
+        //     color: '#' + color,
+        //     radius: 3,
+        //     opacity: 0.3,
+        //     fill: true,
+        //     fillOpacity: 1,
+        //     weight: 8,
+        //     // icon: L.mapbox.marker.icon({
+        //     //     'marker-color': '#' + color,
+        //     //     'marker-size': 'small',
+        //     // })
+        // });
+        // console.log(marker)
+
+
+        hours = parseInt(camping.time / 3600, 10)
+        mins = parseInt((camping.time % 3600) / 60, 10)
+        popupContent = '<strong>' + camping.name + '</strong>'
+        popupContent += '<br> time = ' + hours + 'h ' + mins + 'm'
+        marker.bindPopup(popupContent, {
+            closeButton: false,
+        })
+        marker.on('mouseover', function(e) {
+            // console.log(e);
+            e.target.openPopup();
+        });
+        marker.on('mouseout', function(e) {
+            e.target.closePopup();
+        });
+
+        marker.addTo(map);
+    }
+});
+
+map.legendControl.addLegend(legend);
+
+// var myLayer = L.mapbox.featureLayer().addTo(map);
+</script>
+
+</body>
+</html>

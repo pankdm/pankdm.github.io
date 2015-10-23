@@ -1,0 +1,7794 @@
+[
+  {
+    "name": "AGNEW MEADOWS GROUP CAMP", 
+    "point": [
+      37.682222222222, 
+      -119.089444444444
+    ], 
+    "time": 22891
+  }, 
+  {
+    "name": "ARROYO SECO", 
+    "point": [
+      36.239722222222, 
+      -121.478611111111
+    ], 
+    "time": 8109
+  }, 
+  {
+    "name": "ALMANOR", 
+    "point": [
+      40.216944444444, 
+      -121.167777777778
+    ], 
+    "time": 16629
+  }, 
+  {
+    "name": "AGNEW HORSE CAMP", 
+    "point": [
+      37.686111111111, 
+      -119.093611111111
+    ], 
+    "time": 22891
+  }, 
+  {
+    "name": "ANACAPA ISLAND", 
+    "point": [
+      34.004444444444, 
+      -119.398611111111
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "ANTLERS", 
+    "point": [
+      40.8875, 
+      -122.3775
+    ], 
+    "time": 14624
+  }, 
+  {
+    "name": "BAILEY COVE", 
+    "point": [
+      40.801666666667, 
+      -122.281944444444
+    ], 
+    "time": 14589
+  }, 
+  {
+    "name": "ASPEN HOLLOW GROUP", 
+    "point": [
+      36.781111111111, 
+      -118.902777777778
+    ], 
+    "time": 14903
+  }, 
+  {
+    "name": "BADGER FLATS GROUP", 
+    "point": [
+      37.269444444444, 
+      -119.115
+    ], 
+    "time": 14956
+  }, 
+  {
+    "name": "ASPEN GROUP (TAHOE)", 
+    "point": [
+      39.507222222222, 
+      -120.54
+    ], 
+    "time": 15877
+  }, 
+  {
+    "name": "ASPEN GROUP (INYO)", 
+    "point": [
+      37.523611111111, 
+      -118.711944444444
+    ], 
+    "time": 22998
+  }, 
+  {
+    "name": "ALPINE VIEW CAMPGROUND", 
+    "point": [
+      40.887063888889, 
+      -122.765813888889
+    ], 
+    "time": 18632
+  }, 
+  {
+    "name": "ACKERMAN CAMPGROUND", 
+    "point": [
+      40.785555555556, 
+      -122.771666666667
+    ], 
+    "time": 16712
+  }, 
+  {
+    "name": "ACORN CAMPGROUND", 
+    "point": [
+      38.176261111111, 
+      -120.799722222222
+    ], 
+    "time": 7501
+  }, 
+  {
+    "name": "BANDIDO GROUP CAMPGROUND", 
+    "point": [
+      34.345277777778, 
+      -118.004722222222
+    ], 
+    "time": 21841
+  }, 
+  {
+    "name": "Airport Flat Campground", 
+    "point": [
+      38.985241, 
+      -120.379464
+    ], 
+    "time": 14393
+  }, 
+  {
+    "name": "Azalea Cove Campground", 
+    "point": [
+      38.884012, 
+      -120.369558
+    ], 
+    "time": 12942
+  }, 
+  {
+    "name": "AhDiNa Campground", 
+    "point": [
+      41.10985758, 
+      -122.0972068
+    ], 
+    "time": 19541
+  }, 
+  {
+    "name": "Algoma Campground", 
+    "point": [
+      41.25635808, 
+      -121.8830887
+    ], 
+    "time": 17860
+  }, 
+  {
+    "name": "Bailey Canyon Campground", 
+    "point": [
+      40.339723, 
+      -123.400669
+    ], 
+    "time": 19390
+  }, 
+  {
+    "name": "Aikens Creek West Campground", 
+    "point": [
+      41.228918, 
+      -123.654428
+    ], 
+    "time": 22985
+  }, 
+  {
+    "name": "Atchison Campground", 
+    "point": [
+      39.750227, 
+      -122.924974
+    ], 
+    "time": 17818
+  }, 
+  {
+    "name": "Alder Creek Campground", 
+    "point": [
+      35.71978609, 
+      -118.6117588
+    ], 
+    "time": 15098
+  }, 
+  {
+    "name": "Auxiliary Dam Campground", 
+    "point": [
+      35.64319, 
+      -118.46289
+    ], 
+    "time": 16956
+  }, 
+  {
+    "name": "Alder Creek Camp", 
+    "point": [
+      35.875, 
+      -121.3875
+    ], 
+    "time": 12573
+  }, 
+  {
+    "name": "Aliso Park Campground", 
+    "point": [
+      34.910878, 
+      -119.766182
+    ], 
+    "time": 16438
+  }, 
+  {
+    "name": "Ballinger Campground", 
+    "point": [
+      34.88333333, 
+      -119.4444444
+    ], 
+    "time": 16122
+  }, 
+  {
+    "name": "Appletree Campground", 
+    "point": [
+      34.386599, 
+      -117.713431
+    ], 
+    "time": 21077
+  }, 
+  {
+    "name": "Badger Flat Campground", 
+    "point": [
+      37.26936, 
+      -119.1156
+    ], 
+    "time": 14954
+  }, 
+  {
+    "name": "Austin Ranger District Office", 
+    "point": [
+      39.50153, 
+      -117.089309
+    ], 
+    "time": 23393
+  }, 
+  {
+    "name": "Baker Campground", 
+    "point": [
+      38.3259, 
+      -119.7546
+    ], 
+    "time": 12315
+  }, 
+  {
+    "name": "Ash Creek Campground", 
+    "point": [
+      41.16138889, 
+      -120.8280556
+    ], 
+    "time": 21677
+  }, 
+  {
+    "name": "A.H. Hogue Campground", 
+    "point": [
+      41.58661389, 
+      -121.5916667
+    ], 
+    "time": 21293
+  }, 
+  {
+    "name": "Ahart Campground", 
+    "point": [
+      39.145997, 
+      -120.408204
+    ], 
+    "time": 16173
+  }, 
+  {
+    "name": "Alder Creek Campground", 
+    "point": [
+      40.209283, 
+      -121.496702
+    ], 
+    "time": 15098
+  }, 
+  {
+    "name": "Antelope Lake Recreation Area", 
+    "point": [
+      40.183, 
+      -120.59
+    ], 
+    "time": 19380
+  }, 
+  {
+    "name": "Applewhite Campground", 
+    "point": [
+      34.25981, 
+      -117.493268
+    ], 
+    "time": 22328
+  }, 
+  {
+    "name": "ASPEN GROVE CAMPGROUND", 
+    "point": [
+      40.555019444444, 
+      -120.774413888889
+    ], 
+    "time": 20009
+  }, 
+  {
+    "name": "Abbott Creek Campground", 
+    "point": [
+      42.8813371, 
+      -122.5075859
+    ], 
+    "time": 25763
+  }, 
+  {
+    "name": "Big Pine Equestrian Group Campground", 
+    "point": [
+      34.316944444444, 
+      -116.685555555556
+    ], 
+    "time": 24958
+  }, 
+  {
+    "name": "BARTON FLATS", 
+    "point": [
+      34.172222222222, 
+      -116.874444444444
+    ], 
+    "time": 24976
+  }, 
+  {
+    "name": "BASS LAKE RECREATION AREA", 
+    "point": [
+      37.359444444444, 
+      -119.643611111111
+    ], 
+    "time": 11568
+  }, 
+  {
+    "name": "BIG PINE CANYON", 
+    "point": [
+      37.128333333333, 
+      -118.422222222222
+    ], 
+    "time": 26505
+  }, 
+  {
+    "name": "BIG MEADOW STANISLAUS NATL FS", 
+    "point": [
+      38.416388888889, 
+      -120.105
+    ], 
+    "time": 11366
+  }, 
+  {
+    "name": "BIG PINE CREEK CAMPGROUND", 
+    "point": [
+      37.125833333333, 
+      -118.4325
+    ], 
+    "time": 26849
+  }, 
+  {
+    "name": "BELKNAP", 
+    "point": [
+      36.141666666667, 
+      -118.599722222222
+    ], 
+    "time": 16244
+  }, 
+  {
+    "name": "BIG COVE", 
+    "point": [
+      39.901944444444, 
+      -120.1725
+    ], 
+    "time": 16862
+  }, 
+  {
+    "name": "BIG SILVER GROUP", 
+    "point": [
+      38.879166666667, 
+      -120.3625
+    ], 
+    "time": 12879
+  }, 
+  {
+    "name": "BEAR RIVER GROUP CAMPGROUND", 
+    "point": [
+      38.533888888889, 
+      -120.218888888889
+    ], 
+    "time": 11659
+  }, 
+  {
+    "name": "BEAR BASIN LOOKOUT AND CABIN", 
+    "point": [
+      41.809166666667, 
+      -123.74
+    ], 
+    "time": 28113
+  }, 
+  {
+    "name": "BIG MEADOWS CABIN", 
+    "point": [
+      36.718888888889, 
+      -118.835
+    ], 
+    "time": 14674
+  }, 
+  {
+    "name": "BERGER", 
+    "point": [
+      39.627777777778, 
+      -120.644722222222
+    ], 
+    "time": 15199
+  }, 
+  {
+    "name": "BIG BEND GROUP (YUBA RIVER)", 
+    "point": [
+      39.306388888889, 
+      -120.519444444444
+    ], 
+    "time": 11303
+  }, 
+  {
+    "name": "Beaver Creek Campground", 
+    "point": [
+      41.92708, 
+      -122.83115
+    ], 
+    "time": 21087
+  }, 
+  {
+    "name": "Big Flat Campground", 
+    "point": [
+      41.068191, 
+      -122.934797
+    ], 
+    "time": 27203
+  }, 
+  {
+    "name": "Big Meadows Campground", 
+    "point": [
+      39.074868, 
+      -120.426015
+    ], 
+    "time": 15733
+  }, 
+  {
+    "name": "Big Flat Campground (Klamath NF)", 
+    "point": [
+      41.0673, 
+      -122.9352
+    ], 
+    "time": 23307
+  }, 
+  {
+    "name": "Big Bar Area", 
+    "point": [
+      40.88594011, 
+      -123.2556112
+    ], 
+    "time": 21453
+  }, 
+  {
+    "name": "Big Bar Campground", 
+    "point": [
+      40.73685021, 
+      -123.253179
+    ], 
+    "time": 18278
+  }, 
+  {
+    "name": "Big Flat Campground", 
+    "point": [
+      40.7392, 
+      -123.2046
+    ], 
+    "time": 27203
+  }, 
+  {
+    "name": "Big Slide Campground", 
+    "point": [
+      40.66458438, 
+      -123.4974892
+    ], 
+    "time": 20362
+  }, 
+  {
+    "name": "Basin Gulch Campground", 
+    "point": [
+      40.35207599, 
+      -122.958743
+    ], 
+    "time": 15352
+  }, 
+  {
+    "name": "Beegum Gorge Campground", 
+    "point": [
+      40.31378305, 
+      -122.9333562
+    ], 
+    "time": 16324
+  }, 
+  {
+    "name": "Big Flat Campground", 
+    "point": [
+      41.68645, 
+      -123.912778
+    ], 
+    "time": 27203
+  }, 
+  {
+    "name": "Bayview Campground", 
+    "point": [
+      38.9446, 
+      -120.1005
+    ], 
+    "time": 13980
+  }, 
+  {
+    "name": "Bear Creek Campground", 
+    "point": [
+      39.319839, 
+      -122.839861
+    ], 
+    "time": 15092
+  }, 
+  {
+    "name": "Big Meadow Campground", 
+    "point": [
+      36.72049723, 
+      -118.8200602
+    ], 
+    "time": 14797
+  }, 
+  {
+    "name": "Big Rock Campground Seasonal/Hike-In", 
+    "point": [
+      34.387932, 
+      -117.776933
+    ], 
+    "time": 20873
+  }, 
+  {
+    "name": "Bear Campground--Closed-Powerhouse Closure Area", 
+    "point": [
+      34.712652, 
+      -118.632448
+    ], 
+    "time": 18087
+  }, 
+  {
+    "name": "Basin Campground - Closed", 
+    "point": [
+      34.458446, 
+      -118.019047
+    ], 
+    "time": 19656
+  }, 
+  {
+    "name": "Big Sandy Campground", 
+    "point": [
+      37.46775796, 
+      -119.5816113
+    ], 
+    "time": 13766
+  }, 
+  {
+    "name": "Big Creek Campground", 
+    "point": [
+      39.34639006, 
+      -117.13610994
+    ], 
+    "time": 26210
+  }, 
+  {
+    "name": "Big Bend Campground", 
+    "point": [
+      41.763, 
+      -115.7019
+    ], 
+    "time": 33676
+  }, 
+  {
+    "name": "Beardsley Dam Campground", 
+    "point": [
+      38.2119, 
+      -120.0755
+    ], 
+    "time": 15263
+  }, 
+  {
+    "name": "Big Sage Campground", 
+    "point": [
+      41.57888889, 
+      -120.6280556
+    ], 
+    "time": 23852
+  }, 
+  {
+    "name": "Big Reservoir Campground", 
+    "point": [
+      39.143696, 
+      -120.755314
+    ], 
+    "time": 12294
+  }, 
+  {
+    "name": "Bear Valley Campground", 
+    "point": [
+      39.557381, 
+      -120.235736
+    ], 
+    "time": 14870
+  }, 
+  {
+    "name": "Battle Creek Campground", 
+    "point": [
+      40.348144, 
+      -121.627731
+    ], 
+    "time": 14157
+  }, 
+  {
+    "name": "Beckwourth Ranger District", 
+    "point": [
+      39.82, 
+      -120.37
+    ], 
+    "time": 15610
+  }, 
+  {
+    "name": "Big Pine Flat Family Campground", 
+    "point": [
+      34.319528, 
+      -117.013125
+    ], 
+    "time": 26284
+  }, 
+  {
+    "name": "Big Bear Lake Recreation Area", 
+    "point": [
+      34.2636, 
+      -116.90526
+    ], 
+    "time": 25072
+  }, 
+  {
+    "name": "Big Pine Campground", 
+    "point": [
+      42.45858519, 
+      -123.6760175
+    ], 
+    "time": 25592
+  }, 
+  {
+    "name": "BOULDER OAKS EQST", 
+    "point": [
+      32.730277777778, 
+      -116.4825
+    ], 
+    "time": 28492
+  }, 
+  {
+    "name": "BLUFF MESA GROUP CAMP", 
+    "point": [
+      34.223333333333, 
+      -116.975
+    ], 
+    "time": 26423
+  }, 
+  {
+    "name": "BOULDER GROUP CAMP", 
+    "point": [
+      41.326388888889, 
+      -106.378055555556
+    ], 
+    "time": 58473
+  }, 
+  {
+    "name": "BLACK MOUNTAIN (SAN BERNARDINO)", 
+    "point": [
+      33.834166666667, 
+      -116.738888888889
+    ], 
+    "time": 26725
+  }, 
+  {
+    "name": "BLACK OAK", 
+    "point": [
+      38.904166666667, 
+      -120.5875
+    ], 
+    "time": 12322
+  }, 
+  {
+    "name": "BOULDER BASIN", 
+    "point": [
+      33.826388888889, 
+      -116.753888888889
+    ], 
+    "time": 26409
+  }, 
+  {
+    "name": "BISHOP PARK GROUP", 
+    "point": [
+      37.243888888889, 
+      -118.593333333333
+    ], 
+    "time": 24564
+  }, 
+  {
+    "name": "BLACK ROCK CAMPGROUND", 
+    "point": [
+      34.071666666667, 
+      -116.389166666667
+    ], 
+    "time": 26377
+  }, 
+  {
+    "name": "BOULDER GULCH", 
+    "point": [
+      35.6725, 
+      -118.469166666667
+    ], 
+    "time": 17067
+  }, 
+  {
+    "name": "BOULDER CREEK (CA)", 
+    "point": [
+      40.183333333333, 
+      -120.611944444444
+    ], 
+    "time": 18664
+  }, 
+  {
+    "name": "BOISE CREEK", 
+    "point": [
+      40.944722222222, 
+      -123.658333333333
+    ], 
+    "time": 20772
+  }, 
+  {
+    "name": "BLACK MOUNTAIN LOOKOUT", 
+    "point": [
+      40.115277777778, 
+      -120.321111111111
+    ], 
+    "time": 18787
+  }, 
+  {
+    "name": "BOAT-IN SITES (LAKE SONOMA)", 
+    "point": [
+      38.708333333333, 
+      -123
+    ], 
+    "time": 7678
+  }, 
+  {
+    "name": "BOYINGTON MILL", 
+    "point": [
+      39.4375, 
+      -120.090833333333
+    ], 
+    "time": 13372
+  }, 
+  {
+    "name": "BOCA CAMPGROUND", 
+    "point": [
+      39.394166666667, 
+      -120.105555555556
+    ], 
+    "time": 13161
+  }, 
+  {
+    "name": "BOCA REST CAMPGROUND", 
+    "point": [
+      39.419166666667, 
+      -120.086388888889
+    ], 
+    "time": 13199
+  }, 
+  {
+    "name": "BOCA SPRING", 
+    "point": [
+      39.4225, 
+      -120.078611111111
+    ], 
+    "time": 13331
+  }, 
+  {
+    "name": "BLACK ROCK EQUESTRIAN CAMPGROUND", 
+    "point": [
+      34.071666666667, 
+      -116.389166666667
+    ], 
+    "time": 26377
+  }, 
+  {
+    "name": "Bobcat Meadow Campground", 
+    "point": [
+      32.7125, 
+      -116.5563889
+    ], 
+    "time": 29651
+  }, 
+  {
+    "name": "Blue Jay Campground", 
+    "point": [
+      33.65277778, 
+      -117.4497222
+    ], 
+    "time": 24152
+  }, 
+  {
+    "name": "Breckenridge Campground", 
+    "point": [
+      35.46734297, 
+      -118.5808247
+    ], 
+    "time": 18910
+  }, 
+  {
+    "name": "Bottchers Gap Campround", 
+    "point": [
+      36.353721, 
+      -121.813073
+    ], 
+    "time": 7668
+  }, 
+  {
+    "name": "Blue Ridge Campground", 
+    "point": [
+      34.359675, 
+      -117.687263
+    ], 
+    "time": 22040
+  }, 
+  {
+    "name": "Bretz Mill Campground", 
+    "point": [
+      37.0378463, 
+      -119.2412079
+    ], 
+    "time": 13467
+  }, 
+  {
+    "name": "Bolsillo Campground", 
+    "point": [
+      37.3151251, 
+      -119.0411814
+    ], 
+    "time": 16582
+  }, 
+  {
+    "name": "Bob Scott Campground", 
+    "point": [
+      39.4551, 
+      -117.0011
+    ], 
+    "time": 24359
+  }, 
+  {
+    "name": "Bootleg Campground", 
+    "point": [
+      38.4177, 
+      -119.4535
+    ], 
+    "time": 17441
+  }, 
+  {
+    "name": "Boulder Flat Campground", 
+    "point": [
+      38.359, 
+      -119.8711
+    ], 
+    "time": 11832
+  }, 
+  {
+    "name": "Big Trees Campground", 
+    "point": [
+      37.2657, 
+      -118.5784
+    ], 
+    "time": 24551
+  }, 
+  {
+    "name": "Bitterbrush Campground", 
+    "point": [
+      37.2868, 
+      -118.5584
+    ], 
+    "time": 24287
+  }, 
+  {
+    "name": "Bishop Park Campground", 
+    "point": [
+      37.2443, 
+      -118.5968
+    ], 
+    "time": 24596
+  }, 
+  {
+    "name": "Blanche Lake Campground", 
+    "point": [
+      41.55733056, 
+      -121.57021945
+    ], 
+    "time": 21092
+  }, 
+  {
+    "name": "Blue Lake Campground", 
+    "point": [
+      41.14277778, 
+      -120.28
+    ], 
+    "time": 25133
+  }, 
+  {
+    "name": "Bowman Campground", 
+    "point": [
+      39.459317, 
+      -120.612392
+    ], 
+    "time": 14947
+  }, 
+  {
+    "name": "Brady's Camp Campground", 
+    "point": [
+      39.95, 
+      -120.75
+    ], 
+    "time": 18544
+  }, 
+  {
+    "name": "Big Tree Observation Site", 
+    "point": [
+      42.80705414, 
+      -124.008206
+    ], 
+    "time": 32912
+  }, 
+  {
+    "name": "Bolan Lake Campground", 
+    "point": [
+      42.02350503, 
+      -123.4582443
+    ], 
+    "time": 28469
+  }, 
+  {
+    "name": "BUTTERCUP GROUP CAMP", 
+    "point": [
+      34.235277777778, 
+      -116.880277777778
+    ], 
+    "time": 25311
+  }, 
+  {
+    "name": "BURNT RANCHERIA", 
+    "point": [
+      32.861388888889, 
+      -116.416111111111
+    ], 
+    "time": 29026
+  }, 
+  {
+    "name": "BUSHYTAIL", 
+    "point": [
+      40.855, 
+      -122.818888888889
+    ], 
+    "time": 17672
+  }, 
+  {
+    "name": "BRIDALVEIL CREEK GROUP AND HORSE CAMP", 
+    "point": [
+      37.662222222222, 
+      -119.619722222222
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "CAMP THREE CAMPGROUND", 
+    "point": [
+      35.806666666667, 
+      -118.452777777778
+    ], 
+    "time": 18092
+  }, 
+  {
+    "name": "CAMP 4 GROUP CAMPGROUND", 
+    "point": [
+      41.233888888889, 
+      -121.983888888889
+    ], 
+    "time": 18198
+  }, 
+  {
+    "name": "BUTTE LAKE STOCK CORRAL", 
+    "point": [
+      40.565, 
+      -121.305277777778
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "BUSHAY RECREATION AREA", 
+    "point": [
+      39.235005555556, 
+      -123.165933333333
+    ], 
+    "time": 9964
+  }, 
+  {
+    "name": "BUCKHORN", 
+    "point": [
+      39.812097222222, 
+      -122.366838888889
+    ], 
+    "time": 11265
+  }, 
+  {
+    "name": "BUCK RIDGE", 
+    "point": [
+      37.125, 
+      -119.875
+    ], 
+    "time": 9832
+  }, 
+  {
+    "name": "CAMP 9", 
+    "point": [
+      35.698333333333, 
+      -118.429166666667
+    ], 
+    "time": 17944
+  }, 
+  {
+    "name": "CALPINE LOOKOUT", 
+    "point": [
+      39.678888888889, 
+      -120.462222222222
+    ], 
+    "time": 15167
+  }, 
+  {
+    "name": "BUTTE LAKE", 
+    "point": [
+      40.565, 
+      -121.305277777778
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "BUTTE LAKE GROUP", 
+    "point": [
+      40.565, 
+      -121.305277777778
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "CAMP FOUR AND HALF CABIN", 
+    "point": [
+      36.862222222222, 
+      -119.288611111111
+    ], 
+    "time": 12400
+  }, 
+  {
+    "name": "CAL-IDA", 
+    "point": [
+      39.52, 
+      -120.996666666667
+    ], 
+    "time": 12800
+  }, 
+  {
+    "name": "CANYON VIEW GROUP SITES", 
+    "point": [
+      36.787222222222, 
+      -118.665277777778
+    ], 
+    "time": 15993
+  }, 
+  {
+    "name": "Bridge Flat River Access", 
+    "point": [
+      41.65049471, 
+      -123.1136106
+    ], 
+    "time": 21057
+  }, 
+  {
+    "name": "Camino Cove Campground", 
+    "point": [
+      38.879395, 
+      -120.428463
+    ], 
+    "time": 13256
+  }, 
+  {
+    "name": "Bridge Camp Campground", 
+    "point": [
+      40.87287582, 
+      -122.9153598
+    ], 
+    "time": 17633
+  }, 
+  {
+    "name": "Burnt Ranch Campground", 
+    "point": [
+      40.82799522, 
+      -123.4823004
+    ], 
+    "time": 19595
+  }, 
+  {
+    "name": "Camp Richardson", 
+    "point": [
+      38.9346, 
+      -120.0408
+    ], 
+    "time": 13420
+  }, 
+  {
+    "name": "Buck Rock Campground", 
+    "point": [
+      36.72272517, 
+      -118.8505372
+    ], 
+    "time": 14635
+  }, 
+  {
+    "name": "Brush Creek Campground", 
+    "point": [
+      35.964361, 
+      -118.478222
+    ], 
+    "time": 19538
+  }, 
+  {
+    "name": "Caballo Campground", 
+    "point": [
+      34.868562, 
+      -119.22672
+    ], 
+    "time": 17105
+  }, 
+  {
+    "name": "Campo Alto Campground", 
+    "point": [
+      34.83333333, 
+      -119.2041667
+    ], 
+    "time": 17948
+  }, 
+  {
+    "name": "Brookshire Campground", 
+    "point": [
+      35.01257, 
+      -120.06867
+    ], 
+    "time": 16333
+  }, 
+  {
+    "name": "Buckhorn Campground-Closed for Season", 
+    "point": [
+      34.346691, 
+      -117.912784
+    ], 
+    "time": 22177
+  }, 
+  {
+    "name": "Buck Meadow Campground", 
+    "point": [
+      37.01127451, 
+      -119.0627124
+    ], 
+    "time": 14923
+  }, 
+  {
+    "name": "Bridgeport Ranger District Office", 
+    "point": [
+      38.267929, 
+      -119.281055
+    ], 
+    "time": 18516
+  }, 
+  {
+    "name": "Buckeye Campground", 
+    "point": [
+      38.2389, 
+      -119.3254
+    ], 
+    "time": 19589
+  }, 
+  {
+    "name": "Campgrounds - Highway 120 Corridor", 
+    "point": [
+      37.839, 
+      -119.928
+    ], 
+    "time": 11206
+  }, 
+  {
+    "name": "Campgrounds - Mi-Wok RD", 
+    "point": [
+      38.0663, 
+      -120.1815
+    ], 
+    "time": 9406
+  }, 
+  {
+    "name": "Brightman Flat Campground", 
+    "point": [
+      38.3522, 
+      -119.833
+    ], 
+    "time": 12443
+  }, 
+  {
+    "name": "Campgrounds - Highway 108 Corridor", 
+    "point": [
+      38.1925, 
+      -120.01
+    ], 
+    "time": 10401
+  }, 
+  {
+    "name": "Bullseye Lake Campground", 
+    "point": [
+      41.55444, 
+      -121.57333
+    ], 
+    "time": 21061
+  }, 
+  {
+    "name": "Canyon Creek Campground", 
+    "point": [
+      39.436863, 
+      -120.579564
+    ], 
+    "time": 15734
+  }, 
+  {
+    "name": "Bucks Lake Recreation Area", 
+    "point": [
+      39.891, 
+      -121.185
+    ], 
+    "time": 15656
+  }, 
+  {
+    "name": "BUCKEYE FLAT CAMPGROUND", 
+    "point": [
+      36.521055555556, 
+      -118.762597222222
+    ], 
+    "time": 15438
+  }, 
+  {
+    "name": "Butler Bar Campground", 
+    "point": [
+      42.72567534, 
+      -124.2708417
+    ], 
+    "time": 34113
+  }, 
+  {
+    "name": "Briggs Creek Campground", 
+    "point": [
+      42.37723761, 
+      -123.8046364
+    ], 
+    "time": 27783
+  }, 
+  {
+    "name": "CATAVEE", 
+    "point": [
+      37.2525, 
+      -119.176944444444
+    ], 
+    "time": 14389
+  }, 
+  {
+    "name": "CHILCOOT", 
+    "point": [
+      39.865555555556, 
+      -120.166111111111
+    ], 
+    "time": 16244
+  }, 
+  {
+    "name": "COLD CREEK", 
+    "point": [
+      39.542777777778, 
+      -120.314722222222
+    ], 
+    "time": 13763
+  }, 
+  {
+    "name": "CHILKOOT", 
+    "point": [
+      37.362777777778, 
+      -119.538611111111
+    ], 
+    "time": 12644
+  }, 
+  {
+    "name": "CHRISTIE CAMPGROUND", 
+    "point": [
+      40.566388888889, 
+      -120.838783333333
+    ], 
+    "time": 20054
+  }, 
+  {
+    "name": "CEDAR BLUFF", 
+    "point": [
+      37.307777777778, 
+      -119.544166666667
+    ], 
+    "time": 12011
+  }, 
+  {
+    "name": "CERRO ALTO CAMPGROUND", 
+    "point": [
+      35.4275, 
+      -120.738333333333
+    ], 
+    "time": 11014
+  }, 
+  {
+    "name": "CIRCLE X RANCH GROUP CAMPGROUND", 
+    "point": [
+      34.109722222222, 
+      -118.937222222222
+    ], 
+    "time": 20319
+  }, 
+  {
+    "name": "Codorniz Recreation Area Campground", 
+    "point": [
+      37.215833333333, 
+      -119.968611111111
+    ], 
+    "time": 10603
+  }, 
+  {
+    "name": "Chowchilla Recreation Area Day Use", 
+    "point": [
+      37.225, 
+      -119.983055555556
+    ], 
+    "time": 10413
+  }, 
+  {
+    "name": "CHEKAKA RECREATION AREA LAKE MENDOCINO", 
+    "point": [
+      39.203055555556, 
+      -123.186388888889
+    ], 
+    "time": 9663
+  }, 
+  {
+    "name": "CAPPS CROSSING", 
+    "point": [
+      38.651111111111, 
+      -120.406111111111
+    ], 
+    "time": 12548
+  }, 
+  {
+    "name": "CARTER MEADOWS HORSE GROUP", 
+    "point": [
+      41.221111111111, 
+      -122.910277777778
+    ], 
+    "time": 22096
+  }, 
+  {
+    "name": "CHAPMAN", 
+    "point": [
+      39.629444444444, 
+      -120.544722222222
+    ], 
+    "time": 14862
+  }, 
+  {
+    "name": "CARLTON", 
+    "point": [
+      39.519166666667, 
+      -120.999722222222
+    ], 
+    "time": 12730
+  }, 
+  {
+    "name": "CHERRY VALLEY", 
+    "point": [
+      37.985555555556, 
+      -119.916944444444
+    ], 
+    "time": 13738
+  }, 
+  {
+    "name": "China Flat Campground", 
+    "point": [
+      38.754166, 
+      -120.268429
+    ], 
+    "time": 11521
+  }, 
+  {
+    "name": "Caples Lake Campground", 
+    "point": [
+      38.705126, 
+      -120.053628
+    ], 
+    "time": 12360
+  }, 
+  {
+    "name": "Clark Springs Campground", 
+    "point": [
+      40.8571, 
+      -122.8135
+    ], 
+    "time": 17766
+  }, 
+  {
+    "name": "Clear Creek Campground", 
+    "point": [
+      40.93079995, 
+      -122.5859239
+    ], 
+    "time": 18226
+  }, 
+  {
+    "name": "Castle Lake Campground", 
+    "point": [
+      41.2356673, 
+      -122.3790052
+    ], 
+    "time": 17877
+  }, 
+  {
+    "name": "Cattle Camp Campground", 
+    "point": [
+      41.25937011, 
+      -121.9396524
+    ], 
+    "time": 17590
+  }, 
+  {
+    "name": "Chirpchatter Campground", 
+    "point": [
+      40.8687326, 
+      -122.1197489
+    ], 
+    "time": 20356
+  }, 
+  {
+    "name": "Cibbets Flat Campground", 
+    "point": [
+      32.77722222, 
+      -116.4466667
+    ], 
+    "time": 29089
+  }, 
+  {
+    "name": "Cedar Creek Campground", 
+    "point": [
+      35.74903001, 
+      -118.5823877
+    ], 
+    "time": 17893
+  }, 
+  {
+    "name": "Chico Flat Campground", 
+    "point": [
+      35.8235, 
+      -118.462
+    ], 
+    "time": 18224
+  }, 
+  {
+    "name": "China Camp Campground", 
+    "point": [
+      36.29554, 
+      -121.567507
+    ], 
+    "time": 9823
+  }, 
+  {
+    "name": "Chuchupate Campground", 
+    "point": [
+      34.785301, 
+      -119.000967
+    ], 
+    "time": 16171
+  }, 
+  {
+    "name": "Chula Vista Campground", 
+    "point": [
+      34.81333333, 
+      -119.1227778
+    ], 
+    "time": 17213
+  }, 
+  {
+    "name": "Cienaga Campground - Closed", 
+    "point": [
+      34.618773, 
+      -118.637153
+    ], 
+    "time": 17796
+  }, 
+  {
+    "name": "Chilao Campground- Manzanita Loop Only", 
+    "point": [
+      34.323785, 
+      -118.016678
+    ], 
+    "time": 21241
+  }, 
+  {
+    "name": "China Bar Camping Area", 
+    "point": [
+      37.3700952, 
+      -119.3007317
+    ], 
+    "time": 18223
+  }, 
+  {
+    "name": "Clover Meadow Campground", 
+    "point": [
+      37.52898556, 
+      -119.280382
+    ], 
+    "time": 17009
+  }, 
+  {
+    "name": "Carson Ranger District Office", 
+    "point": [
+      39.15203, 
+      -119.767199
+    ], 
+    "time": 15645
+  }, 
+  {
+    "name": "Chris Flat Campground", 
+    "point": [
+      38.3943, 
+      -119.4562
+    ], 
+    "time": 17522
+  }, 
+  {
+    "name": "Cherry Creek Campground", 
+    "point": [
+      38.15349, 
+      -115.62531
+    ], 
+    "time": 40924
+  }, 
+  {
+    "name": "Cascade Creek Campground", 
+    "point": [
+      38.2833, 
+      -119.9698
+    ], 
+    "time": 11239
+  }, 
+  {
+    "name": "Clark Fork Campground", 
+    "point": [
+      38.3986, 
+      -119.8022
+    ], 
+    "time": 12667
+  }, 
+  {
+    "name": "Carr Lake Campground", 
+    "point": [
+      39.401863, 
+      -120.642131
+    ], 
+    "time": 13499
+  }, 
+  {
+    "name": "Carberry Campground", 
+    "point": [
+      42.02555002, 
+      -123.1652923
+    ], 
+    "time": 24101
+  }, 
+  {
+    "name": "Cave Creek Campground", 
+    "point": [
+      42.11782941, 
+      -123.4331572
+    ], 
+    "time": 26870
+  }, 
+  {
+    "name": "CRESTLINE GROUP", 
+    "point": [
+      33.312777777778, 
+      -116.864722222222
+    ], 
+    "time": 26753
+  }, 
+  {
+    "name": "COON CREEK GROUP CAMPGROUND", 
+    "point": [
+      34.148888888889, 
+      -116.709444444444
+    ], 
+    "time": 26116
+  }, 
+  {
+    "name": "COUNCIL", 
+    "point": [
+      34.171388888889, 
+      -116.881666666667
+    ], 
+    "time": 24865
+  }, 
+  {
+    "name": "COYOTE GROUP", 
+    "point": [
+      39.135555555556, 
+      -120.410555555556
+    ], 
+    "time": 16052
+  }, 
+  {
+    "name": "CRYSTAL LAKE", 
+    "point": [
+      34.325555555556, 
+      -117.837222222222
+    ], 
+    "time": 22811
+  }, 
+  {
+    "name": "CRAGS CAMPGROUND", 
+    "point": [
+      38.173611111111, 
+      -119.304166666667
+    ], 
+    "time": 20387
+  }, 
+  {
+    "name": "CRAB FLATS", 
+    "point": [
+      34.261666666667, 
+      -117.083333333333
+    ], 
+    "time": 24967
+  }, 
+  {
+    "name": "CRANE FLAT", 
+    "point": [
+      37.763888888889, 
+      -119.844444444444
+    ], 
+    "time": 11270
+  }, 
+  {
+    "name": "COTTONWOOD GROUP", 
+    "point": [
+      33.75, 
+      -115.825
+    ], 
+    "time": 27661
+  }, 
+  {
+    "name": "COVE GROUP", 
+    "point": [
+      36.665, 
+      -118.838055555556
+    ], 
+    "time": 14438
+  }, 
+  {
+    "name": "COLLEGE", 
+    "point": [
+      37.251944444444, 
+      -119.168888888889
+    ], 
+    "time": 14338
+  }, 
+  {
+    "name": "COTTONWOOD (CA)", 
+    "point": [
+      39.884722222222, 
+      -120.236666666667
+    ], 
+    "time": 17279
+  }, 
+  {
+    "name": "COTTONWOOD CREEK", 
+    "point": [
+      39.549444444444, 
+      -120.316388888889
+    ], 
+    "time": 13989
+  }, 
+  {
+    "name": "COY FLAT", 
+    "point": [
+      36.129166666667, 
+      -118.618055555556
+    ], 
+    "time": 16285
+  }, 
+  {
+    "name": "CRANE VALLEY", 
+    "point": [
+      37.333055555556, 
+      -119.585277777778
+    ], 
+    "time": 12119
+  }, 
+  {
+    "name": "COYOTE POINT", 
+    "point": [
+      37.984444444444, 
+      -120.844722222222
+    ], 
+    "time": 6773
+  }, 
+  {
+    "name": "COLDWATER CAMPGROUND", 
+    "point": [
+      37.599166666667, 
+      -118.996944444444
+    ], 
+    "time": 22542
+  }, 
+  {
+    "name": "CONVICT LAKE CAMPGROUND", 
+    "point": [
+      37.598888888889, 
+      -118.850833333333
+    ], 
+    "time": 22195
+  }, 
+  {
+    "name": "CURLY JACK CAMPGROUND", 
+    "point": [
+      41.793611111111, 
+      -123.382777777778
+    ], 
+    "time": 24286
+  }, 
+  {
+    "name": "COULTER GROUP CAMPGROUND", 
+    "point": [
+      34.322777777778, 
+      -118.017777777778
+    ], 
+    "time": 21291
+  }, 
+  {
+    "name": "Cooper Gulch Campground", 
+    "point": [
+      40.74592569, 
+      -122.8042848
+    ], 
+    "time": 16244
+  }, 
+  {
+    "name": "Deadlun Campground", 
+    "point": [
+      41.06184354, 
+      -121.9748836
+    ], 
+    "time": 19138
+  }, 
+  {
+    "name": "Corral Canyon Campground", 
+    "point": [
+      32.71138889, 
+      -116.5725
+    ], 
+    "time": 29720
+  }, 
+  {
+    "name": "Corral Canyon Area", 
+    "point": [
+      32.7146, 
+      -116.5404
+    ], 
+    "time": 29066
+  }, 
+  {
+    "name": "Convict Flat Campground", 
+    "point": [
+      36.819, 
+      -118.833
+    ], 
+    "time": 14987
+  }, 
+  {
+    "name": "Corral Creek Campground", 
+    "point": [
+      35.855861, 
+      -118.450138
+    ], 
+    "time": 18493
+  }, 
+  {
+    "name": "Cottonwood Campground--Closed", 
+    "point": [
+      34.63955, 
+      -118.502468
+    ], 
+    "time": 17864
+  }, 
+  {
+    "name": "Coldbrook Campground", 
+    "point": [
+      34.291484, 
+      -117.840418
+    ], 
+    "time": 21820
+  }, 
+  {
+    "name": "Columbine Campground", 
+    "point": [
+      38.9475, 
+      -117.5694
+    ], 
+    "time": 26433
+  }, 
+  {
+    "name": "Day Use Areas - Highway 108 Corridor", 
+    "point": [
+      38.3537, 
+      -119.8828
+    ], 
+    "time": 11784
+  }, 
+  {
+    "name": "Dardanelle Campground", 
+    "point": [
+      38.3423, 
+      -119.8323
+    ], 
+    "time": 12081
+  }, 
+  {
+    "name": "Deadman Campground", 
+    "point": [
+      38.3196, 
+      -119.7489
+    ], 
+    "time": 12397
+  }, 
+  {
+    "name": "Cottonwood Lakes Trailhead Campground", 
+    "point": [
+      36.453409, 
+      -118.168988
+    ], 
+    "time": 25638
+  }, 
+  {
+    "name": "Crystal Springs Campground", 
+    "point": [
+      38.7642, 
+      -119.8453
+    ], 
+    "time": 13637
+  }, 
+  {
+    "name": "Conklin Park Campground", 
+    "point": [
+      40.047, 
+      -120.366
+    ], 
+    "time": 18847
+  }, 
+  {
+    "name": "Crocker Campground", 
+    "point": [
+      39.891, 
+      -120.422
+    ], 
+    "time": 16661
+  }, 
+  {
+    "name": "Deanes Valley Campground", 
+    "point": [
+      39.88, 
+      -121.022
+    ], 
+    "time": 18235
+  }, 
+  {
+    "name": "Dark Canyon Campground", 
+    "point": [
+      33.803978, 
+      -116.732053
+    ], 
+    "time": 25839
+  }, 
+  {
+    "name": "Daley Creek Campground", 
+    "point": [
+      42.30653629, 
+      -122.3665835
+    ], 
+    "time": 23015
+  }, 
+  {
+    "name": "Daphne Grove Campground", 
+    "point": [
+      42.73667437, 
+      -124.0546463
+    ], 
+    "time": 32764
+  }, 
+  {
+    "name": "Crystal Springs Campground Mid-Sized Group Sites", 
+    "point": [
+      36.744675, 
+      -118.961786111111
+    ], 
+    "time": 13742
+  }, 
+  {
+    "name": "EL PRADO GROUP", 
+    "point": [
+      32.886944444444, 
+      -116.455555555556
+    ], 
+    "time": 29500
+  }, 
+  {
+    "name": "DEER GROUP CAMP", 
+    "point": [
+      34.225, 
+      -116.914166666667
+    ], 
+    "time": 26022
+  }, 
+  {
+    "name": "DOGWOOD", 
+    "point": [
+      34.235277777778, 
+      -117.209166666667
+    ], 
+    "time": 23601
+  }, 
+  {
+    "name": "DINKEY CREEK", 
+    "point": [
+      37.073055555556, 
+      -119.153888888889
+    ], 
+    "time": 13891
+  }, 
+  {
+    "name": "EAGLE CAMPGROUND", 
+    "point": [
+      40.54785, 
+      -120.783055555556
+    ], 
+    "time": 19874
+  }, 
+  {
+    "name": "EAST FORK CALIFORNIA", 
+    "point": [
+      37.483611111111, 
+      -118.7175
+    ], 
+    "time": 23495
+  }, 
+  {
+    "name": "DRY CREEK GROUP CAMPGROUND (Whiskeytown NRA)", 
+    "point": [
+      40.625555555556, 
+      -122.580833333333
+    ], 
+    "time": 14705
+  }, 
+  {
+    "name": "Dorst Creek Campground-Sequoia and Kings Canyon National Par", 
+    "point": [
+      36.636111111111, 
+      -118.809722222222
+    ], 
+    "time": 15029
+  }, 
+  {
+    "name": "DEKKAS ROCK", 
+    "point": [
+      40.874722222222, 
+      -122.2375
+    ], 
+    "time": 15808
+  }, 
+  {
+    "name": "EAST MEADOW CAMPGROUND", 
+    "point": [
+      39.500833333333, 
+      -120.5325
+    ], 
+    "time": 15946
+  }, 
+  {
+    "name": "DEER CREEK", 
+    "point": [
+      37.251944444444, 
+      -119.176944444444
+    ], 
+    "time": 14389
+  }, 
+  {
+    "name": "DORABELLE CAMPGROUND", 
+    "point": [
+      37.113888888889, 
+      -119.309722222222
+    ], 
+    "time": 12688
+  }, 
+  {
+    "name": "DIMOND O", 
+    "point": [
+      37.825, 
+      -119.861111111111
+    ], 
+    "time": 11150
+  }, 
+  {
+    "name": "DIRT FLAT", 
+    "point": [
+      37.663333333333, 
+      -119.844444444444
+    ], 
+    "time": 12465
+  }, 
+  {
+    "name": "DRY GULCH", 
+    "point": [
+      37.663333333333, 
+      -119.844444444444
+    ], 
+    "time": 12465
+  }, 
+  {
+    "name": "DIABLO", 
+    "point": [
+      39.633055555556, 
+      -120.637777777778
+    ], 
+    "time": 15189
+  }, 
+  {
+    "name": "DILLON CREEK CAMPGROUND", 
+    "point": [
+      41.573333333333, 
+      -123.543055555556
+    ], 
+    "time": 25513
+  }, 
+  {
+    "name": "DRIPPING SPRINGS CAMPGROUND (CA)", 
+    "point": [
+      33.463888888889, 
+      -116.970833333333
+    ], 
+    "time": 24579
+  }, 
+  {
+    "name": "East Fork Campground", 
+    "point": [
+      41.15403, 
+      -123.10865
+    ], 
+    "time": 21145
+  }, 
+  {
+    "name": "Deer Mountain / Chuck Best Snowmobile Park", 
+    "point": [
+      41.5685, 
+      -122.1353
+    ], 
+    "time": 18437
+  }, 
+  {
+    "name": "Dru Barner Campground", 
+    "point": [
+      38.941953, 
+      -120.765898
+    ], 
+    "time": 11348
+  }, 
+  {
+    "name": "Eagle Creek Campground", 
+    "point": [
+      41.15290955, 
+      -122.6684578
+    ], 
+    "time": 19762
+  }, 
+  {
+    "name": "East Weaver Campground", 
+    "point": [
+      40.77300079, 
+      -122.9209875
+    ], 
+    "time": 16978
+  }, 
+  {
+    "name": "Denny Campground", 
+    "point": [
+      40.93310237, 
+      -123.3932757
+    ], 
+    "time": 22507
+  }, 
+  {
+    "name": "Deerlick Springs Campground", 
+    "point": [
+      40.47026159, 
+      -122.9255841
+    ], 
+    "time": 17705
+  }, 
+  {
+    "name": "East Fork Campground", 
+    "point": [
+      40.90465, 
+      -123.706055
+    ], 
+    "time": 21145
+  }, 
+  {
+    "name": "E-Ne-Nuck Campground", 
+    "point": [
+      41.233953, 
+      -123.660178
+    ], 
+    "time": 22891
+  }, 
+  {
+    "name": "Dixie Glade Campground", 
+    "point": [
+      39.336276, 
+      -122.703479
+    ], 
+    "time": 13496
+  }, 
+  {
+    "name": "Eel River Campground", 
+    "point": [
+      39.824719, 
+      -123.084391
+    ], 
+    "time": 15548
+  }, 
+  {
+    "name": "El Cariso Campground", 
+    "point": [
+      33.65138889, 
+      -117.4127778
+    ], 
+    "time": 23564
+  }, 
+  {
+    "name": "Dome Springs Campground", 
+    "point": [
+      34.762988, 
+      -119.232302
+    ], 
+    "time": 18006
+  }, 
+  {
+    "name": "Dutchman Campground", 
+    "point": [
+      34.675, 
+      -118.9769444
+    ], 
+    "time": 18491
+  }, 
+  {
+    "name": "East Creek Campground", 
+    "point": [
+      39.4967, 
+      -114.6548
+    ], 
+    "time": 34815
+  }, 
+  {
+    "name": "Desert Creek Campground", 
+    "point": [
+      38.62138993, 
+      -119.33999995
+    ], 
+    "time": 18579
+  }, 
+  {
+    "name": "Eagle Lake Ranger District", 
+    "point": [
+      40.421703, 
+      -120.702861
+    ], 
+    "time": 18313
+  }, 
+  {
+    "name": "Elko Dispersed Camping", 
+    "point": [
+      42.38542933, 
+      -124.229356
+    ], 
+    "time": 30781
+  }, 
+  {
+    "name": "Eden Valley Campground", 
+    "point": [
+      42.80860963, 
+      -123.890326
+    ], 
+    "time": 30832
+  }, 
+  {
+    "name": "Elk Creek Falls Observation Site", 
+    "point": [
+      42.783889, 
+      -123.971389
+    ], 
+    "time": 34440
+  }, 
+  {
+    "name": "FALCON GROUP", 
+    "point": [
+      33.655833333333, 
+      -117.460277777778
+    ], 
+    "time": 24301
+  }, 
+  {
+    "name": "FERN BASIN", 
+    "point": [
+      33.788611111111, 
+      -116.737777777778
+    ], 
+    "time": 25673
+  }, 
+  {
+    "name": "FORBES CREEK", 
+    "point": [
+      39.131111111111, 
+      -120.781944444444
+    ], 
+    "time": 12136
+  }, 
+  {
+    "name": "FRENCH MEADOWS", 
+    "point": [
+      39.113888888889, 
+      -120.423888888889
+    ], 
+    "time": 15737
+  }, 
+  {
+    "name": "FRENCHMAN", 
+    "point": [
+      39.899722222222, 
+      -120.186666666667
+    ], 
+    "time": 16714
+  }, 
+  {
+    "name": "FAUCHERIE", 
+    "point": [
+      39.416666666667, 
+      -120.599722222222
+    ], 
+    "time": 15836
+  }, 
+  {
+    "name": "FAWN", 
+    "point": [
+      40.844444444444, 
+      -122.843333333333
+    ], 
+    "time": 17538
+  }, 
+  {
+    "name": "FRENCH CAMP", 
+    "point": [
+      37.5525, 
+      -118.679166666667
+    ], 
+    "time": 22565
+  }, 
+  {
+    "name": "FIR TOP CAMPGROUND", 
+    "point": [
+      39.485555555556, 
+      -120.550277777778
+    ], 
+    "time": 16561
+  }, 
+  {
+    "name": "FINDLEY CAMPGROUND", 
+    "point": [
+      39.484722222222, 
+      -120.553055555556
+    ], 
+    "time": 16510
+  }, 
+  {
+    "name": "ELLERY CREEK", 
+    "point": [
+      40.915833333333, 
+      -122.240833333333
+    ], 
+    "time": 16425
+  }, 
+  {
+    "name": "FALLEN LEAF CAMPGROUND", 
+    "point": [
+      38.926388888889, 
+      -120.05
+    ], 
+    "time": 13562
+  }, 
+  {
+    "name": "FIR GROUP", 
+    "point": [
+      36.664166666667, 
+      -118.841666666667
+    ], 
+    "time": 14420
+  }, 
+  {
+    "name": "FRENCH GULCH", 
+    "point": [
+      35.670833333333, 
+      -118.472222222222
+    ], 
+    "time": 17067
+  }, 
+  {
+    "name": "FISH CREEK (CA)", 
+    "point": [
+      37.260277777778, 
+      -119.352777777778
+    ], 
+    "time": 13926
+  }, 
+  {
+    "name": "EMIGRANT GROUP", 
+    "point": [
+      39.470555555556, 
+      -120.116388888889
+    ], 
+    "time": 13910
+  }, 
+  {
+    "name": "FORKS CAMPGROUND", 
+    "point": [
+      37.313055555556, 
+      -119.57
+    ], 
+    "time": 11930
+  }, 
+  {
+    "name": "FAIRVIEW CAMPGROUND", 
+    "point": [
+      35.928888888889, 
+      -118.492222222222
+    ], 
+    "time": 19206
+  }, 
+  {
+    "name": "FIR COVE CAMPGROUND", 
+    "point": [
+      40.344166666667, 
+      -123.403055555556
+    ], 
+    "time": 19283
+  }, 
+  {
+    "name": "ESHOM CAMPGROUND", 
+    "point": [
+      36.6891, 
+      -118.9504
+    ], 
+    "time": 14962
+  }, 
+  {
+    "name": "FOUR JEFFREY", 
+    "point": [
+      37.25, 
+      -118.55
+    ], 
+    "time": 25745
+  }, 
+  {
+    "name": "FISHERMANS GROUP", 
+    "point": [
+      34.246708333333, 
+      -117.110822222222
+    ], 
+    "time": 25367
+  }, 
+  {
+    "name": "FREMONT CAMPGROUND", 
+    "point": [
+      34.543055555556, 
+      -119.820277777778
+    ], 
+    "time": 15623
+  }, 
+  {
+    "name": "FASHODA", 
+    "point": [
+      38.8682, 
+      -120.397461111111
+    ], 
+    "time": 12808
+  }, 
+  {
+    "name": "FOREST GLEN GUARD STATION", 
+    "point": [
+      40.366944444444, 
+      -123.316944444444
+    ], 
+    "time": 16796
+  }, 
+  {
+    "name": "FIDDLE CREEK", 
+    "point": [
+      39.518333333333, 
+      -120.9925
+    ], 
+    "time": 12756
+  }, 
+  {
+    "name": "FISH LAKE CAMPGROUND", 
+    "point": [
+      41.264166666667, 
+      -123.684444444444
+    ], 
+    "time": 23656
+  }, 
+  {
+    "name": "Fort Goff Campground", 
+    "point": [
+      41.86513, 
+      -123.25755
+    ], 
+    "time": 22996
+  }, 
+  {
+    "name": "Forest Glen Campground", 
+    "point": [
+      40.37702315, 
+      -123.3269428
+    ], 
+    "time": 16786
+  }, 
+  {
+    "name": "Fowlers Camp Campground", 
+    "point": [
+      41.24485508, 
+      -122.0232549
+    ], 
+    "time": 17433
+  }, 
+  {
+    "name": "Evans Flat Campground", 
+    "point": [
+      35.64274024, 
+      -118.5889835
+    ], 
+    "time": 18776
+  }, 
+  {
+    "name": "Escondido Campground", 
+    "point": [
+      36.141467, 
+      -121.494751
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "Ely Ranger District Office", 
+    "point": [
+      39.255005, 
+      -114.872365
+    ], 
+    "time": 32578
+  }, 
+  {
+    "name": "Fraser Flat Campground", 
+    "point": [
+      38.1694, 
+      -120.0713
+    ], 
+    "time": 10636
+  }, 
+  {
+    "name": "Eureka Valley Campground", 
+    "point": [
+      38.3387, 
+      -119.7811
+    ], 
+    "time": 12196
+  }, 
+  {
+    "name": "Fence Creek Campground", 
+    "point": [
+      38.3648, 
+      -119.8783
+    ], 
+    "time": 12040
+  }, 
+  {
+    "name": "Forks Campground", 
+    "point": [
+      37.2546, 
+      -118.5791
+    ], 
+    "time": 24535
+  }, 
+  {
+    "name": "Emerson Campground", 
+    "point": [
+      41.26388889, 
+      -120.1377778
+    ], 
+    "time": 26048
+  }, 
+  {
+    "name": "Feather River Ranger District", 
+    "point": [
+      39.504, 
+      -121.563
+    ], 
+    "time": 10828
+  }, 
+  {
+    "name": "Foster Bar Campground", 
+    "point": [
+      42.63457405, 
+      -124.0561522
+    ], 
+    "time": 32208
+  }, 
+  {
+    "name": "Fourbit Ford Campground", 
+    "point": [
+      42.50089, 
+      -122.40345
+    ], 
+    "time": 24908
+  }, 
+  {
+    "name": "Fisherman's Pullout Picnic Site", 
+    "point": [
+      42.76187567, 
+      -124.0681863
+    ], 
+    "time": 32545
+  }, 
+  {
+    "name": "GRAYS PEAK GROUP CAMP", 
+    "point": [
+      34.273333333333, 
+      -116.970555555556
+    ], 
+    "time": 25654
+  }, 
+  {
+    "name": "GATES GROUP", 
+    "point": [
+      39.141388888889, 
+      -120.409166666667
+    ], 
+    "time": 16217
+  }, 
+  {
+    "name": "GERLE CREEK", 
+    "point": [
+      38.975, 
+      -120.391666666667
+    ], 
+    "time": 14235
+  }, 
+  {
+    "name": "GRAYS MEADOWS", 
+    "point": [
+      36.768888888889, 
+      -118.295
+    ], 
+    "time": 25040
+  }, 
+  {
+    "name": "GREEN CREEK GROUP", 
+    "point": [
+      38.110833333333, 
+      -119.276111111111
+    ], 
+    "time": 20996
+  }, 
+  {
+    "name": "GREEN VALLEY", 
+    "point": [
+      34.244722222222, 
+      -117.061944444444
+    ], 
+    "time": 24498
+  }, 
+  {
+    "name": "GRASSY FLAT CAMPGROUND", 
+    "point": [
+      41.856388888889, 
+      -123.888888888889
+    ], 
+    "time": 25981
+  }, 
+  {
+    "name": "GREEN SPOT EQUESTRIAN GROUP CAMP", 
+    "point": [
+      34.223333333333, 
+      -116.806111111111
+    ], 
+    "time": 25191
+  }, 
+  {
+    "name": "FURNACE CREEK", 
+    "point": [
+      36.463055555556, 
+      -116.867777777778
+    ], 
+    "time": 28022
+  }, 
+  {
+    "name": "GOOSE MEADOWS", 
+    "point": [
+      39.2575, 
+      -120.209166666667
+    ], 
+    "time": 12807
+  }, 
+  {
+    "name": "GRASSHOPPER FLAT", 
+    "point": [
+      39.890555555556, 
+      -120.476944444444
+    ], 
+    "time": 16180
+  }, 
+  {
+    "name": "GRANITE FLAT (CALIFORNIA)", 
+    "point": [
+      39.299166666667, 
+      -120.203611111111
+    ], 
+    "time": 12583
+  }, 
+  {
+    "name": "GIANT GAP", 
+    "point": [
+      39.138888888889, 
+      -120.792222222222
+    ], 
+    "time": 12725
+  }, 
+  {
+    "name": "GOLDLEDGE CAMPGROUND", 
+    "point": [
+      35.877777777778, 
+      -118.456388888889
+    ], 
+    "time": 18689
+  }, 
+  {
+    "name": "GRAY PINE GROUP CAMPGROUND", 
+    "point": [
+      39.357222222222, 
+      -122.653333333333
+    ], 
+    "time": 12878
+  }, 
+  {
+    "name": "FRY CREEK CAMPGROUND", 
+    "point": [
+      33.345, 
+      -116.88
+    ], 
+    "time": 27141
+  }, 
+  {
+    "name": "GLORY HOLE RECREATION AREA", 
+    "point": [
+      38.0075, 
+      -120.540277777778
+    ], 
+    "time": 9003
+  }, 
+  {
+    "name": "FROG MEADOW GUARD STATION", 
+    "point": [
+      35.873888888889, 
+      -118.568611111111
+    ], 
+    "time": 21188
+  }, 
+  {
+    "name": "GIRARD RIDGE LOOKOUT", 
+    "point": [
+      41.128055555556, 
+      -122.278611111111
+    ], 
+    "time": 17622
+  }, 
+  {
+    "name": "Grider Creek Campground", 
+    "point": [
+      41.80632773, 
+      -123.2183366
+    ], 
+    "time": 23517
+  }, 
+  {
+    "name": "Goosenest Ranger District", 
+    "point": [
+      41.7818157, 
+      -122.0450082
+    ], 
+    "time": 19084
+  }, 
+  {
+    "name": "Goldfield Campground", 
+    "point": [
+      41.10000775, 
+      -122.7786336
+    ], 
+    "time": 20090
+  }, 
+  {
+    "name": "Gregory Creek Campground", 
+    "point": [
+      40.88797251, 
+      -122.3681486
+    ], 
+    "time": 14962
+  }, 
+  {
+    "name": "Fuller Grove Campground", 
+    "point": [
+      39.436244, 
+      -122.96975
+    ], 
+    "time": 13306
+  }, 
+  {
+    "name": "Green Springs Campground", 
+    "point": [
+      39.973724, 
+      -122.929974
+    ], 
+    "time": 19976
+  }, 
+  {
+    "name": "General Campgrounds &amp; Trailheads", 
+    "point": [
+      39.865866, 
+      -122.849808
+    ], 
+    "time": 18130
+  }, 
+  {
+    "name": "Green Cabin Flat Campground", 
+    "point": [
+      36.85958604, 
+      -119.1025228
+    ], 
+    "time": 16023
+  }, 
+  {
+    "name": "Glenn Camp Campground", 
+    "point": [
+      34.240833, 
+      -117.951666
+    ], 
+    "time": 22190
+  }, 
+  {
+    "name": "Gigantea Campground", 
+    "point": [
+      37.01556431, 
+      -119.1054159
+    ], 
+    "time": 14520
+  }, 
+  {
+    "name": "Granite Creek Campground", 
+    "point": [
+      37.53820799, 
+      -119.2645568
+    ], 
+    "time": 17526
+  }, 
+  {
+    "name": "Greys Mountain Campground", 
+    "point": [
+      37.39885784, 
+      -119.5647401
+    ], 
+    "time": 13151
+  }, 
+  {
+    "name": "Fresno Dome Campground", 
+    "point": [
+      37.45551374, 
+      -119.5483234
+    ], 
+    "time": 13903
+  }, 
+  {
+    "name": "Green Creek Campground", 
+    "point": [
+      38.1066, 
+      -119.2733
+    ], 
+    "time": 21024
+  }, 
+  {
+    "name": "Gold Lake 4x4 Campground", 
+    "point": [
+      39.668, 
+      -120.661
+    ], 
+    "time": 15752
+  }, 
+  {
+    "name": "Golden Trout", 
+    "point": [
+      39.605, 
+      -121.139
+    ], 
+    "time": 13937
+  }, 
+  {
+    "name": "Gold Lake Campground", 
+    "point": [
+      39.668, 
+      -120.661
+    ], 
+    "time": 15752
+  }, 
+  {
+    "name": "Greenville Campground", 
+    "point": [
+      40.157, 
+      -120.954
+    ], 
+    "time": 16450
+  }, 
+  {
+    "name": "Gansner Bar Campground", 
+    "point": [
+      40.019, 
+      -121.221
+    ], 
+    "time": 14331
+  }, 
+  {
+    "name": "Grayback Campground", 
+    "point": [
+      42.14846023, 
+      -123.4653963
+    ], 
+    "time": 26107
+  }, 
+  {
+    "name": "HEART BAR EQUESTRIAN", 
+    "point": [
+      34.158611111111, 
+      -116.785833333333
+    ], 
+    "time": 25402
+  }, 
+  {
+    "name": "HAYWARD FLAT", 
+    "point": [
+      40.874444444444, 
+      -122.769166666667
+    ], 
+    "time": 18256
+  }, 
+  {
+    "name": "HAT CREEK", 
+    "point": [
+      40.667777777778, 
+      -121.445555555556
+    ], 
+    "time": 16240
+  }, 
+  {
+    "name": "HANNA FLAT", 
+    "point": [
+      34.287777777778, 
+      -116.974444444444
+    ], 
+    "time": 25735
+  }, 
+  {
+    "name": "HAMPSHIRE ROCKS", 
+    "point": [
+      39.310555555556, 
+      -120.496666666667
+    ], 
+    "time": 11447
+  }, 
+  {
+    "name": "HALLSTED", 
+    "point": [
+      40.0175, 
+      -121.073055555556
+    ], 
+    "time": 14988
+  }, 
+  {
+    "name": "GURNSEY CREEK", 
+    "point": [
+      40.308888888889, 
+      -121.426666666667
+    ], 
+    "time": 15223
+  }, 
+  {
+    "name": "HEART BAR CAMPGROUND", 
+    "point": [
+      34.158611111111, 
+      -116.785833333333
+    ], 
+    "time": 25402
+  }, 
+  {
+    "name": "HEADQUARTERS", 
+    "point": [
+      35.795833333333, 
+      -118.451111111111
+    ], 
+    "time": 18015
+  }, 
+  {
+    "name": "GRIZZLY", 
+    "point": [
+      39.887222222222, 
+      -120.4725
+    ], 
+    "time": 16113
+  }, 
+  {
+    "name": "GROUSE VALLEY", 
+    "point": [
+      36.300333333333, 
+      -118.810277777778
+    ], 
+    "time": 16938
+  }, 
+  {
+    "name": "HIDDEN VIEW", 
+    "point": [
+      37.124722222222, 
+      -119.897222222222
+    ], 
+    "time": 9675
+  }, 
+  {
+    "name": "HARVEY WEST CABIN", 
+    "point": [
+      38.755, 
+      -120.275
+    ], 
+    "time": 11472
+  }, 
+  {
+    "name": "Happy Camp/Oak Knoll Ranger District", 
+    "point": [
+      41.7968802, 
+      -123.375352
+    ], 
+    "time": 24176
+  }, 
+  {
+    "name": "Hidden Horse Campground", 
+    "point": [
+      41.21881032, 
+      -122.912094
+    ], 
+    "time": 22219
+  }, 
+  {
+    "name": "Hell Hole Campground", 
+    "point": [
+      39.068846, 
+      -120.416846
+    ], 
+    "time": 15916
+  }, 
+  {
+    "name": "Hayden Flat Campground", 
+    "point": [
+      40.78389513, 
+      -123.3433206
+    ], 
+    "time": 18756
+  }, 
+  {
+    "name": "Hayfork Area", 
+    "point": [
+      40.52135195, 
+      -123.2738924
+    ], 
+    "time": 18341
+  }, 
+  {
+    "name": "Hells Gate Campground", 
+    "point": [
+      40.37069058, 
+      -123.313568
+    ], 
+    "time": 16791
+  }, 
+  {
+    "name": "Gumboot Campground", 
+    "point": [
+      41.21333545, 
+      -122.5094142
+    ], 
+    "time": 18727
+  }, 
+  {
+    "name": "Harris Springs Campground", 
+    "point": [
+      41.45656342, 
+      -121.7847204
+    ], 
+    "time": 19685
+  }, 
+  {
+    "name": "Hammerhorn Campground", 
+    "point": [
+      39.948838, 
+      -122.991396
+    ], 
+    "time": 19208
+  }, 
+  {
+    "name": "Halfmoon Campground", 
+    "point": [
+      34.65138889, 
+      -119.0680556
+    ], 
+    "time": 18579
+  }, 
+  {
+    "name": "Guffy Campground", 
+    "point": [
+      34.341053, 
+      -117.655247
+    ], 
+    "time": 22586
+  }, 
+  {
+    "name": "High Sierra RD", 
+    "point": [
+      37.036666, 
+      -119.5144444
+    ], 
+    "time": 11477
+  }, 
+  {
+    "name": "Highway 108 Corridor", 
+    "point": [
+      38.35756, 
+      -119.87026
+    ], 
+    "time": 11835
+  }, 
+  {
+    "name": "Highway 120 Corridor", 
+    "point": [
+      37.8266, 
+      -119.975
+    ], 
+    "time": 10314
+  }, 
+  {
+    "name": "Hemlock Campground", 
+    "point": [
+      41.58611111, 
+      -121.5886111
+    ], 
+    "time": 21267
+  }, 
+  {
+    "name": "Headquarters Campground", 
+    "point": [
+      41.585, 
+      -121.6147222
+    ], 
+    "time": 21492
+  }, 
+  {
+    "name": "Grouse Ridge Campground", 
+    "point": [
+      39.389717, 
+      -120.609636
+    ], 
+    "time": 13580
+  }, 
+  {
+    "name": "Harr Point Campground", 
+    "point": [
+      42.03492011, 
+      -123.1127922
+    ], 
+    "time": 24708
+  }, 
+  {
+    "name": "HORSE HEAVEN GROUP", 
+    "point": [
+      32.8875, 
+      -116.440833333333
+    ], 
+    "time": 29273
+  }, 
+  {
+    "name": "HONEYMOON FLAT", 
+    "point": [
+      38.201388888889, 
+      -119.32
+    ], 
+    "time": 19867
+  }, 
+  {
+    "name": "ICE HOUSE", 
+    "point": [
+      38.823333333333, 
+      -120.358888888889
+    ], 
+    "time": 12146
+  }, 
+  {
+    "name": "HOPE VALLEY", 
+    "point": [
+      38.897277777778, 
+      -119.930125
+    ], 
+    "time": 13419
+  }, 
+  {
+    "name": "HUTCHINS", 
+    "point": [
+      39.883055555556, 
+      -121.199166666667
+    ], 
+    "time": 15660
+  }, 
+  {
+    "name": "HOLIDAY GROUP CAMPGROUND", 
+    "point": [
+      34.517222222222, 
+      -119.276944444444
+    ], 
+    "time": 18814
+  }, 
+  {
+    "name": "HODGDON MEADOW", 
+    "point": [
+      37.798888888889, 
+      -119.865833333333
+    ], 
+    "time": 11062
+  }, 
+  {
+    "name": "INDIAN COVE CAMPGROUND", 
+    "point": [
+      34.12, 
+      -116.155833333333
+    ], 
+    "time": 26776
+  }, 
+  {
+    "name": "HIRZ BAY", 
+    "point": [
+      40.866666666667, 
+      -122.253055555556
+    ], 
+    "time": 15712
+  }, 
+  {
+    "name": "HUME LAKE", 
+    "point": [
+      36.794722222222, 
+      -118.904722222222
+    ], 
+    "time": 14565
+  }, 
+  {
+    "name": "HUNGRY GULCH", 
+    "point": [
+      35.671944444444, 
+      -118.472222222222
+    ], 
+    "time": 17072
+  }, 
+  {
+    "name": "HOSPITAL FLAT", 
+    "point": [
+      35.828611111111, 
+      -118.457777777778
+    ], 
+    "time": 18282
+  }, 
+  {
+    "name": "HOLEY MEADOW", 
+    "point": [
+      35.954166666667, 
+      -118.618055555556
+    ], 
+    "time": 18070
+  }, 
+  {
+    "name": "HIRZ BAY GROUP 1", 
+    "point": [
+      40.866666666667, 
+      -122.253055555556
+    ], 
+    "time": 15712
+  }, 
+  {
+    "name": "HIRZ BAY GROUP 2", 
+    "point": [
+      40.866666666667, 
+      -122.253055555556
+    ], 
+    "time": 15712
+  }, 
+  {
+    "name": "HORSE CREEK", 
+    "point": [
+      36.390555555556, 
+      -118.954722222222
+    ], 
+    "time": 13417
+  }, 
+  {
+    "name": "HORSE CAMPGROUND", 
+    "point": [
+      39.735277777778, 
+      -120.953055555556
+    ], 
+    "time": 14815
+  }, 
+  {
+    "name": "HIRZ MOUNTAIN LOOKOUT", 
+    "point": [
+      40.913611111111, 
+      -122.2625
+    ], 
+    "time": 16456
+  }, 
+  {
+    "name": "Hotelling Campground", 
+    "point": [
+      41.2396, 
+      -123.2753
+    ], 
+    "time": 25329
+  }, 
+  {
+    "name": "Idlewild Campground", 
+    "point": [
+      41.33153, 
+      -123.06004
+    ], 
+    "time": 22505
+  }, 
+  {
+    "name": "Horse Flat Campground", 
+    "point": [
+      41.16651618, 
+      -122.6910963
+    ], 
+    "time": 19825
+  }, 
+  {
+    "name": "Hobo Gulch Campground", 
+    "point": [
+      40.92895966, 
+      -123.1533285
+    ], 
+    "time": 21040
+  }, 
+  {
+    "name": "Howard Lake Campground", 
+    "point": [
+      39.87849, 
+      -122.991874
+    ], 
+    "time": 17480
+  }, 
+  {
+    "name": "Horse Meadow Campground", 
+    "point": [
+      35.90201213, 
+      -118.3712506
+    ], 
+    "time": 22724
+  }, 
+  {
+    "name": "Hobo Campground", 
+    "point": [
+      35.5744592, 
+      -118.5287783
+    ], 
+    "time": 16843
+  }, 
+  {
+    "name": "Horse Camp Campground", 
+    "point": [
+      36.717527, 
+      -118.848972
+    ], 
+    "time": 14544
+  }, 
+  {
+    "name": "Horse Flats Campground", 
+    "point": [
+      34.342777, 
+      -118.01
+    ], 
+    "time": 21865
+  }, 
+  {
+    "name": "Hull Creek Campground", 
+    "point": [
+      38.0939, 
+      -120.0422
+    ], 
+    "time": 11270
+  }, 
+  {
+    "name": "Horseshoe Meadow Campground", 
+    "point": [
+      36.447678, 
+      -118.169739
+    ], 
+    "time": 25615
+  }, 
+  {
+    "name": "Horseshoe Meadow Equestrian Camp", 
+    "point": [
+      36.452218, 
+      -118.169911
+    ], 
+    "time": 25658
+  }, 
+  {
+    "name": "Horseshoe Meadow Area", 
+    "point": [
+      36.445676, 
+      -118.171606
+    ], 
+    "time": 25617
+  }, 
+  {
+    "name": "Howard's Gulch Campground", 
+    "point": [
+      41.48583333, 
+      -120.9688889
+    ], 
+    "time": 21532
+  }, 
+  {
+    "name": "HONN CAMPGROUND", 
+    "point": [
+      40.77925, 
+      -121.503
+    ], 
+    "time": 16924
+  }, 
+  {
+    "name": "Horse Camp", 
+    "point": [
+      39.749, 
+      -121.99
+    ], 
+    "time": 11100
+  }, 
+  {
+    "name": "Holcomb Valley Campground", 
+    "point": [
+      34.302593, 
+      -116.895933
+    ], 
+    "time": 25691
+  }, 
+  {
+    "name": "Horse Springs Campground", 
+    "point": [
+      34.352124, 
+      -117.070488
+    ], 
+    "time": 24923
+  }, 
+  {
+    "name": "Imnaha Campground", 
+    "point": [
+      42.70271583, 
+      -122.3344705
+    ], 
+    "time": 26963
+  }, 
+  {
+    "name": "Huckleberry Mountain Campground", 
+    "point": [
+      42.8766341, 
+      -122.3368443
+    ], 
+    "time": 26601
+  }, 
+  {
+    "name": "IRONWOOD GROUP CAMP", 
+    "point": [
+      34.303888888889, 
+      -117.011944444444
+    ], 
+    "time": 26853
+  }, 
+  {
+    "name": "JUNIPER SPRINGS GROUP CAMP", 
+    "point": [
+      34.219722222222, 
+      -116.716388888889
+    ], 
+    "time": 26290
+  }, 
+  {
+    "name": "JUNE LAKE", 
+    "point": [
+      37.781944444444, 
+      -119.073888888889
+    ], 
+    "time": 21077
+  }, 
+  {
+    "name": "KIRBY COVE CAMPGROUND", 
+    "point": [
+      37.84035, 
+      -122.488888888889
+    ], 
+    "time": 3138
+  }, 
+  {
+    "name": "JACKASS MEADOW", 
+    "point": [
+      37.279722222222, 
+      -118.963611111111
+    ], 
+    "time": 18426
+  }, 
+  {
+    "name": "KINNIKINNICK", 
+    "point": [
+      37.252777777778, 
+      -119.177777777778
+    ], 
+    "time": 14401
+  }, 
+  {
+    "name": "KASPIAN CAMPGROUND", 
+    "point": [
+      39.114444444444, 
+      -120.158611111111
+    ], 
+    "time": 13796
+  }, 
+  {
+    "name": "KELTY MEADOW", 
+    "point": [
+      37.440277777778, 
+      -119.543888888889
+    ], 
+    "time": 13404
+  }, 
+  {
+    "name": "KIRK CREEK CAMPGROUND", 
+    "point": [
+      35.991666666667, 
+      -121.494166666667
+    ], 
+    "time": 10102
+  }, 
+  {
+    "name": "JUNIPER LAKE STOCK CORRAL", 
+    "point": [
+      40.451111111111, 
+      -121.295833333333
+    ], 
+    "time": 18272
+  }, 
+  {
+    "name": "ISLAND PARK", 
+    "point": [
+      36.864644444444, 
+      -119.315727777778
+    ], 
+    "time": 12290
+  }, 
+  {
+    "name": "JACKSON FLATS", 
+    "point": [
+      34.360833333333, 
+      -117.799166666667
+    ], 
+    "time": 21823
+  }, 
+  {
+    "name": "INDIAN SCOTTY GROUP SITE", 
+    "point": [
+      41.632222222222, 
+      -123.081944444444
+    ], 
+    "time": 20897
+  }, 
+  {
+    "name": "JUNIPER LAKE GROUP", 
+    "point": [
+      40.451111111111, 
+      -121.295833333333
+    ], 
+    "time": 18272
+  }, 
+  {
+    "name": "INDIAN VALLEY", 
+    "point": [
+      39.513333333333, 
+      -120.983333333333
+    ], 
+    "time": 12821
+  }, 
+  {
+    "name": "INDIAN SPRINGS", 
+    "point": [
+      39.329338888889, 
+      -120.569430555556
+    ], 
+    "time": 11316
+  }, 
+  {
+    "name": "JUANITA LAKE GROUP CAMPSITE", 
+    "point": [
+      41.816111111111, 
+      -122.121666666667
+    ], 
+    "time": 20671
+  }, 
+  {
+    "name": "Kangaroo Lake Campground", 
+    "point": [
+      41.33431, 
+      -122.6389
+    ], 
+    "time": 20671
+  }, 
+  {
+    "name": "Kirkwood Campground", 
+    "point": [
+      38.707341, 
+      -120.087342
+    ], 
+    "time": 12263
+  }, 
+  {
+    "name": "Jones Fork Campground", 
+    "point": [
+      38.859392, 
+      -120.384318
+    ], 
+    "time": 12520
+  }, 
+  {
+    "name": "Jackass Springs Campground", 
+    "point": [
+      40.96183574, 
+      -122.6609193
+    ], 
+    "time": 18879
+  }, 
+  {
+    "name": "Kingsley Glade Campground", 
+    "point": [
+      39.903396, 
+      -122.767371
+    ], 
+    "time": 16286
+  }, 
+  {
+    "name": "Indian Flats Campground", 
+    "point": [
+      33.34888889, 
+      -116.6594444
+    ], 
+    "time": 27347
+  }, 
+  {
+    "name": "Kennedy Meadows Campground", 
+    "point": [
+      36.05310891, 
+      -118.12938
+    ], 
+    "time": 22647
+  }, 
+  {
+    "name": "Kern River Ranger District", 
+    "point": [
+      35.75579, 
+      -118.42706
+    ], 
+    "time": 17589
+  }, 
+  {
+    "name": "Kings Campground", 
+    "point": [
+      34.71638889, 
+      -118.9283333
+    ], 
+    "time": 17112
+  }, 
+  {
+    "name": "Kirch Flat Campground", 
+    "point": [
+      36.87921576, 
+      -119.1490899
+    ], 
+    "time": 15221
+  }, 
+  {
+    "name": "Jerseydale Campground", 
+    "point": [
+      37.54563967, 
+      -119.8387058
+    ], 
+    "time": 11207
+  }, 
+  {
+    "name": "Jarbidge Ranger District Office", 
+    "point": [
+      41.11137, 
+      -114.977029
+    ], 
+    "time": 30817
+  }, 
+  {
+    "name": "Kingston Campground", 
+    "point": [
+      39.2229, 
+      -117.1432
+    ], 
+    "time": 26305
+  }, 
+  {
+    "name": "Jack Creek Campground", 
+    "point": [
+      41.5192, 
+      -116.0582
+    ], 
+    "time": 33618
+  }, 
+  {
+    "name": "Intake 2 Campground", 
+    "point": [
+      37.2454, 
+      -118.5889
+    ], 
+    "time": 24546
+  }, 
+  {
+    "name": "Jane's Reservoir Campground", 
+    "point": [
+      41.87981111, 
+      -120.764
+    ], 
+    "time": 26813
+  }, 
+  {
+    "name": "Jackson Point Boat In Campground", 
+    "point": [
+      39.498954, 
+      -120.544329
+    ], 
+    "time": 15922
+  }, 
+  {
+    "name": "Jackson Creek Campground", 
+    "point": [
+      39.457433, 
+      -120.600776
+    ], 
+    "time": 15165
+  }, 
+  {
+    "name": "Josephine Campground", 
+    "point": [
+      42.24237957, 
+      -123.686259
+    ], 
+    "time": 25012
+  }, 
+  {
+    "name": "Jackson Campground", 
+    "point": [
+      42.11404306, 
+      -123.0870647
+    ], 
+    "time": 23364
+  }, 
+  {
+    "name": "Island Campground", 
+    "point": [
+      42.72352891, 
+      -124.041968
+    ], 
+    "time": 32911
+  }, 
+  {
+    "name": "LAKES BASIN", 
+    "point": [
+      39.666666666667, 
+      -120.657777777778
+    ], 
+    "time": 15738
+  }, 
+  {
+    "name": "LAGUNA", 
+    "point": [
+      32.887222222222, 
+      -116.446388888889
+    ], 
+    "time": 29431
+  }, 
+  {
+    "name": "LAKESHORE EAST", 
+    "point": [
+      40.871944444444, 
+      -122.388055555556
+    ], 
+    "time": 14772
+  }, 
+  {
+    "name": "LIGHTNING TREE", 
+    "point": [
+      39.925455555556, 
+      -120.510494444444
+    ], 
+    "time": 16487
+  }, 
+  {
+    "name": "LEWIS at FRENCH MEADOWS", 
+    "point": [
+      39.130277777778, 
+      -120.416944444444
+    ], 
+    "time": 16163
+  }, 
+  {
+    "name": "LAKE GEORGE", 
+    "point": [
+      37.6, 
+      -119.008055555556
+    ], 
+    "time": 22645
+  }, 
+  {
+    "name": "LAKE MARY CAMPGROUND", 
+    "point": [
+      37.606944444444, 
+      -119.0075
+    ], 
+    "time": 22564
+  }, 
+  {
+    "name": "KYEN CAMPGROUND AND OAK GROVE DAY USE AREA", 
+    "point": [
+      39.236666666667, 
+      -123.177777777778
+    ], 
+    "time": 9767
+  }, 
+  {
+    "name": "LIBERTY GLEN (LAKE SONOMA)", 
+    "point": [
+      38.713611111111, 
+      -123.056388888889
+    ], 
+    "time": 8294
+  }, 
+  {
+    "name": "LAKE CAMPGROUND", 
+    "point": [
+      34.390555555556, 
+      -117.723333333333
+    ], 
+    "time": 21002
+  }, 
+  {
+    "name": "LAKESIDE (TRUCKEE)", 
+    "point": [
+      39.384444444444, 
+      -120.172222222222
+    ], 
+    "time": 13010
+  }, 
+  {
+    "name": "LIGHTNING POINT GROUP CAMPGROUND", 
+    "point": [
+      34.371944444444, 
+      -118.183055555556
+    ], 
+    "time": 21662
+  }, 
+  {
+    "name": "KIT CARSON CAMPGROUND", 
+    "point": [
+      38.776777777778, 
+      -119.894611111111
+    ], 
+    "time": 13465
+  }, 
+  {
+    "name": "Lake Tahoe - East Shore", 
+    "point": [
+      39.1063, 
+      -119.96
+    ], 
+    "time": 14898
+  }, 
+  {
+    "name": "Lake Tahoe - South Shore", 
+    "point": [
+      38.9139, 
+      -120.005
+    ], 
+    "time": 13176
+  }, 
+  {
+    "name": "Lake Tahoe - West Shore", 
+    "point": [
+      39.1088, 
+      -120.1808
+    ], 
+    "time": 13981
+  }, 
+  {
+    "name": "Letts Lake Campground", 
+    "point": [
+      39.302844, 
+      -122.707693
+    ], 
+    "time": 14720
+  }, 
+  {
+    "name": "Lake Pillsbury", 
+    "point": [
+      39.424914, 
+      -122.954178
+    ], 
+    "time": 13236
+  }, 
+  {
+    "name": "Limestone Campground", 
+    "point": [
+      35.96345686, 
+      -118.4783067
+    ], 
+    "time": 19540
+  }, 
+  {
+    "name": "Landslide Campground", 
+    "point": [
+      36.765, 
+      -118.882
+    ], 
+    "time": 14547
+  }, 
+  {
+    "name": "Leavitt Meadows Campground", 
+    "point": [
+      38.3378, 
+      -119.5542
+    ], 
+    "time": 13509
+  }, 
+  {
+    "name": "Lassen Creek Campground", 
+    "point": [
+      41.82611111, 
+      -120.295
+    ], 
+    "time": 25768
+  }, 
+  {
+    "name": "Lindsey Lake Campground", 
+    "point": [
+      39.412487, 
+      -120.644428
+    ], 
+    "time": 13421
+  }, 
+  {
+    "name": "Laufman Campground", 
+    "point": [
+      40.135, 
+      -120.347
+    ], 
+    "time": 18045
+  }, 
+  {
+    "name": "Lake Davis Recreation Area", 
+    "point": [
+      39.911, 
+      -120.5
+    ], 
+    "time": 16273
+  }, 
+  {
+    "name": "Lake Arrowhead - Green Valley Lake Recreation Area", 
+    "point": [
+      34.251007, 
+      -117.171859
+    ], 
+    "time": 24137
+  }, 
+  {
+    "name": "Laird Lake Campground", 
+    "point": [
+      42.70127145, 
+      -124.2046116
+    ], 
+    "time": 35299
+  }, 
+  {
+    "name": "LOBO GROUP", 
+    "point": [
+      34.175555555556, 
+      -116.8625
+    ], 
+    "time": 25111
+  }, 
+  {
+    "name": "LONE PINE", 
+    "point": [
+      36.597611111111, 
+      -118.184805555556
+    ], 
+    "time": 24110
+  }, 
+  {
+    "name": "LOON LAKE", 
+    "point": [
+      38.983333333333, 
+      -120.33
+    ], 
+    "time": 14723
+  }, 
+  {
+    "name": "LOWER TWIN LAKES AT BRIDGEPORT", 
+    "point": [
+      38.172777777778, 
+      -119.331111111111
+    ], 
+    "time": 20208
+  }, 
+  {
+    "name": "LODGEPOLE GROUP LAKE ALPINE", 
+    "point": [
+      38.416388888889, 
+      -120.105
+    ], 
+    "time": 11366
+  }, 
+  {
+    "name": "LOON LAKE CHALET", 
+    "point": [
+      38.98, 
+      -120.32
+    ], 
+    "time": 14657
+  }, 
+  {
+    "name": "LOWER PINES", 
+    "point": [
+      37.740833333333, 
+      -119.566666666667
+    ], 
+    "time": 13672
+  }, 
+  {
+    "name": "Lodgepole Campground-Sequoia and Kings Canyon National Park", 
+    "point": [
+      36.501388888889, 
+      -118.626388888889
+    ], 
+    "time": 17613
+  }, 
+  {
+    "name": "LOGGER FLAT GROUP", 
+    "point": [
+      36.775555555556, 
+      -118.893611111111
+    ], 
+    "time": 14671
+  }, 
+  {
+    "name": "LIVE OAK", 
+    "point": [
+      35.702777777778, 
+      -118.461111111111
+    ], 
+    "time": 17259
+  }, 
+  {
+    "name": "LONG MEADOW GROUP", 
+    "point": [
+      35.979166666667, 
+      -118.580555555556
+    ], 
+    "time": 18458
+  }, 
+  {
+    "name": "LOGGER CAMPGROUND", 
+    "point": [
+      39.466388888889, 
+      -120.128611111111
+    ], 
+    "time": 14127
+  }, 
+  {
+    "name": "LOWER BILLY CREEK", 
+    "point": [
+      37.238055555556, 
+      -119.227777777778
+    ], 
+    "time": 14533
+  }, 
+  {
+    "name": "LOWER LITTLE TRUCKEE", 
+    "point": [
+      39.485555555556, 
+      -120.236388888889
+    ], 
+    "time": 13299
+  }, 
+  {
+    "name": "LONE ROCK (CA)", 
+    "point": [
+      40.195277777778, 
+      -120.617222222222
+    ], 
+    "time": 18963
+  }, 
+  {
+    "name": "LONG POINT (CA)", 
+    "point": [
+      40.178333333333, 
+      -120.578333333333
+    ], 
+    "time": 19318
+  }, 
+  {
+    "name": "LITTLE LASIER MEADOWS CAMPGROUND", 
+    "point": [
+      39.490555555556, 
+      -120.515555555556
+    ], 
+    "time": 16164
+  }, 
+  {
+    "name": "LOS PRIETOS", 
+    "point": [
+      34.541666666667, 
+      -119.809166666667
+    ], 
+    "time": 15701
+  }, 
+  {
+    "name": "LOST CREEK GROUP", 
+    "point": [
+      40.5625, 
+      -121.516666666667
+    ], 
+    "time": 15979
+  }, 
+  {
+    "name": "LIVE OAK SOUTH", 
+    "point": [
+      35.702777777778, 
+      -118.461111111111
+    ], 
+    "time": 17259
+  }, 
+  {
+    "name": "LITTLE MT. HOFFMAN LOOKOUT", 
+    "point": [
+      41.578611111111, 
+      -121.659722222222
+    ], 
+    "time": 21422
+  }, 
+  {
+    "name": "LOGANVILLE", 
+    "point": [
+      39.564722222222, 
+      -120.661111111111
+    ], 
+    "time": 14237
+  }, 
+  {
+    "name": "Lookout Campground", 
+    "point": [
+      39.588897222222, 
+      -120.073611111111
+    ], 
+    "time": 15686
+  }, 
+  {
+    "name": "LOST CLAIM", 
+    "point": [
+      37.821111111111, 
+      -120.048611111111
+    ], 
+    "time": 9964
+  }, 
+  {
+    "name": "Lovers Camp Campground", 
+    "point": [
+      41.58874, 
+      -123.14699
+    ], 
+    "time": 21882
+  }, 
+  {
+    "name": "Lovers Leap Campground", 
+    "point": [
+      38.800224, 
+      -120.140421
+    ], 
+    "time": 11853
+  }, 
+  {
+    "name": "Lower Jones Valley Campground", 
+    "point": [
+      40.72756035, 
+      -122.2280825
+    ], 
+    "time": 14410
+  }, 
+  {
+    "name": "Lower Trinity Ranger District", 
+    "point": [
+      40.918892, 
+      -123.651123
+    ], 
+    "time": 21568
+  }, 
+  {
+    "name": "Little Doe Campground", 
+    "point": [
+      39.894702, 
+      -122.986098
+    ], 
+    "time": 17810
+  }, 
+  {
+    "name": "Los Angeles River Ranger District", 
+    "point": [
+      34.29413, 
+      -118.36164
+    ], 
+    "time": 18187
+  }, 
+  {
+    "name": "Live Oak Campground - Decommissioned", 
+    "point": [
+      34.379062, 
+      -118.403171
+    ], 
+    "time": 18109
+  }, 
+  {
+    "name": "Lower Chiquito Campground", 
+    "point": [
+      37.41313778, 
+      -119.3844946
+    ], 
+    "time": 16464
+  }, 
+  {
+    "name": "Little Jackass Campground", 
+    "point": [
+      37.39975927, 
+      -119.3361573
+    ], 
+    "time": 17293
+  }, 
+  {
+    "name": "Lower Virginia Creek Primitive Campground", 
+    "point": [
+      38.0676, 
+      -119.2261
+    ], 
+    "time": 20033
+  }, 
+  {
+    "name": "Lower Bluster Campground", 
+    "point": [
+      41.8398, 
+      -115.4251
+    ], 
+    "time": 39723
+  }, 
+  {
+    "name": "Lower Highway 108 Corridor - Mi-Wok", 
+    "point": [
+      38.1329, 
+      -120.0991
+    ], 
+    "time": 10478
+  }, 
+  {
+    "name": "Lower Rush Creek Campground", 
+    "point": [
+      41.29333333, 
+      -120.8780556
+    ], 
+    "time": 20442
+  }, 
+  {
+    "name": "Lower Bucks Campground", 
+    "point": [
+      39.901, 
+      -121.213
+    ], 
+    "time": 15896
+  }, 
+  {
+    "name": "Little North Fork Campground", 
+    "point": [
+      39.782, 
+      -121.259
+    ], 
+    "time": 14742
+  }, 
+  {
+    "name": "Lobster Creek Campground", 
+    "point": [
+      42.50149646, 
+      -124.296024
+    ], 
+    "time": 29245
+  }, 
+  {
+    "name": "Little Falls Campground", 
+    "point": [
+      42.24033631, 
+      -123.6755358
+    ], 
+    "time": 24830
+  }, 
+  {
+    "name": "Ludlum Campground", 
+    "point": [
+      42.035066, 
+      -124.1084054
+    ], 
+    "time": 27170
+  }, 
+  {
+    "name": "MCGILL CAMPGROUND", 
+    "point": [
+      34.815555555556, 
+      -119.098333333333
+    ], 
+    "time": 16636
+  }, 
+  {
+    "name": "MARION MOUNTAIN", 
+    "point": [
+      33.791666666667, 
+      -116.731944444444
+    ], 
+    "time": 25822
+  }, 
+  {
+    "name": "MCGEE CREEK", 
+    "point": [
+      37.564444444444, 
+      -118.784722222222
+    ], 
+    "time": 22437
+  }, 
+  {
+    "name": "LUPINE", 
+    "point": [
+      37.307777777778, 
+      -119.544166666667
+    ], 
+    "time": 12011
+  }, 
+  {
+    "name": "MAMMOTH POOL", 
+    "point": [
+      37.344166666667, 
+      -119.331111111111
+    ], 
+    "time": 17858
+  }, 
+  {
+    "name": "MEEKS BAY", 
+    "point": [
+      39.037777777778, 
+      -120.123611111111
+    ], 
+    "time": 14485
+  }, 
+  {
+    "name": "MERRILL CAMPGROUND", 
+    "point": [
+      40.548119444444, 
+      -120.812005555556
+    ], 
+    "time": 19834
+  }, 
+  {
+    "name": "MASTERSON GROUP CAMPGROUND", 
+    "point": [
+      39.737777777778, 
+      -122.847222222222
+    ], 
+    "time": 15535
+  }, 
+  {
+    "name": "MANZANITA LAKE CAMPING CABINS", 
+    "point": [
+      40.53, 
+      -121.561944444444
+    ], 
+    "time": 15747
+  }, 
+  {
+    "name": "MARY SMITH CAMPGROUND", 
+    "point": [
+      40.926111111111, 
+      -122.915277777778
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "MEADOW GROUP CAMPGROUND", 
+    "point": [
+      34.323888888889, 
+      -118.017777777778
+    ], 
+    "time": 21302
+  }, 
+  {
+    "name": "MANZANITA LAKE GROUP CAMPGROUND", 
+    "point": [
+      40.529166666667, 
+      -121.563888888889
+    ], 
+    "time": 15768
+  }, 
+  {
+    "name": "MANZANITA LAKE", 
+    "point": [
+      40.529166666667, 
+      -121.563888888889
+    ], 
+    "time": 15768
+  }, 
+  {
+    "name": "MCCARTHY POINT LOOKOUT", 
+    "point": [
+      40.187777777778, 
+      -121.683333333333
+    ], 
+    "time": 18906
+  }, 
+  {
+    "name": "MAD RIVER CAMPGROUND", 
+    "point": [
+      40.403611111111, 
+      -123.467222222222
+    ], 
+    "time": 18307
+  }, 
+  {
+    "name": "Matthews Creek Campground", 
+    "point": [
+      41.1868, 
+      -123.21393
+    ], 
+    "time": 24881
+  }, 
+  {
+    "name": "Matthews Creek River Access", 
+    "point": [
+      41.18874539, 
+      -123.2159882
+    ], 
+    "time": 24959
+  }, 
+  {
+    "name": "Martins Dairy Campground", 
+    "point": [
+      41.79737, 
+      -122.20835
+    ], 
+    "time": 21789
+  }, 
+  {
+    "name": "Martins Dairy Horse Camp", 
+    "point": [
+      41.7974, 
+      -122.2083
+    ], 
+    "time": 21789
+  }, 
+  {
+    "name": "Mariners Roost Boat-In Campground", 
+    "point": [
+      40.83980467, 
+      -122.7697451
+    ], 
+    "time": 19988
+  }, 
+  {
+    "name": "McBride Springs Campground", 
+    "point": [
+      41.35262385, 
+      -122.2820076
+    ], 
+    "time": 17074
+  }, 
+  {
+    "name": "McCloud Area", 
+    "point": [
+      41.33381277, 
+      -121.8821676
+    ], 
+    "time": 20593
+  }, 
+  {
+    "name": "McCloud Bridge Campground", 
+    "point": [
+      40.938333, 
+      -122.245
+    ], 
+    "time": 16761
+  }, 
+  {
+    "name": "Madrone Campground", 
+    "point": [
+      40.92445613, 
+      -122.0944304
+    ], 
+    "time": 19862
+  }, 
+  {
+    "name": "Mad River Ranger District", 
+    "point": [
+      40.177544, 
+      -123.184204
+    ], 
+    "time": 20665
+  }, 
+  {
+    "name": "Memorial Park Campground", 
+    "point": [
+      36.118173, 
+      -121.466459
+    ], 
+    "time": 10911
+  }, 
+  {
+    "name": "Marian Campground", 
+    "point": [
+      34.88027778, 
+      -119.2155556
+    ], 
+    "time": 17257
+  }, 
+  {
+    "name": "Lupine Campground-Closed", 
+    "point": [
+      34.329593, 
+      -117.668071
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "Manker Campground", 
+    "point": [
+      34.265, 
+      -117.630833
+    ], 
+    "time": 22495
+  }, 
+  {
+    "name": "Lye Creek Campground", 
+    "point": [
+      41.6878, 
+      -117.5608
+    ], 
+    "time": 30342
+  }, 
+  {
+    "name": "Markleeville Campground", 
+    "point": [
+      38.6977, 
+      -119.7764
+    ], 
+    "time": 14359
+  }, 
+  {
+    "name": "Lumsden Campground", 
+    "point": [
+      37.838214, 
+      -120.051145
+    ], 
+    "time": 11096
+  }, 
+  {
+    "name": "Lumsden Bridge Campground", 
+    "point": [
+      37.848496, 
+      -120.030278
+    ], 
+    "time": 11501
+  }, 
+  {
+    "name": "Meadowview Campground", 
+    "point": [
+      38.1881, 
+      -120.0031
+    ], 
+    "time": 10433
+  }, 
+  {
+    "name": "Medicine Campground", 
+    "point": [
+      41.5875, 
+      -121.5947222
+    ], 
+    "time": 21319
+  }, 
+  {
+    "name": "Meadow View Equestrian Campground", 
+    "point": [
+      40.035, 
+      -120.212
+    ], 
+    "time": 17979
+  }, 
+  {
+    "name": "Lytle Creek - Cajon Pass Recreation Area", 
+    "point": [
+      34.233377, 
+      -117.480412
+    ], 
+    "time": 21972
+  }, 
+  {
+    "name": "MIDDLE MEADOWS", 
+    "point": [
+      39.051111111111, 
+      -120.466111111111
+    ], 
+    "time": 15333
+  }, 
+  {
+    "name": "MOUNT ROSE (NV)", 
+    "point": [
+      39.312277777778, 
+      -119.897361111111
+    ], 
+    "time": 14535
+  }, 
+  {
+    "name": "MOORE CREEK", 
+    "point": [
+      40.883888888889, 
+      -122.217777777778
+    ], 
+    "time": 16016
+  }, 
+  {
+    "name": "MONO CREEK", 
+    "point": [
+      37.358611111111, 
+      -118.9975
+    ], 
+    "time": 17423
+  }, 
+  {
+    "name": "MONO HOT SPRINGS", 
+    "point": [
+      37.326388888889, 
+      -119.017777777778
+    ], 
+    "time": 17113
+  }, 
+  {
+    "name": "MINERSVILLE CAMPGROUND", 
+    "point": [
+      40.851666666667, 
+      -122.811388888889
+    ], 
+    "time": 17801
+  }, 
+  {
+    "name": "MOUNTAIN OAK", 
+    "point": [
+      34.394722222222, 
+      -117.729444444444
+    ], 
+    "time": 20954
+  }, 
+  {
+    "name": "MOUNTAIN HOME GUARD STATION CABIN", 
+    "point": [
+      36.232777777778, 
+      -118.700277777778
+    ], 
+    "time": 17662
+  }, 
+  {
+    "name": "Mt. Ashland Campground", 
+    "point": [
+      42.07557922, 
+      -122.7145153
+    ], 
+    "time": 21493
+  }, 
+  {
+    "name": "Mulebridge Campground", 
+    "point": [
+      41.35625, 
+      -123.0756
+    ], 
+    "time": 23004
+  }, 
+  {
+    "name": "Mule Bridge Trailhead", 
+    "point": [
+      41.3583, 
+      -123.0752
+    ], 
+    "time": 23050
+  }, 
+  {
+    "name": "Middle Fork Cosumnes Campground", 
+    "point": [
+      38.583496, 
+      -120.302051
+    ], 
+    "time": 11598
+  }, 
+  {
+    "name": "Mokelumne Campground", 
+    "point": [
+      38.478134, 
+      -120.270991
+    ], 
+    "time": 12280
+  }, 
+  {
+    "name": "Mt. Shasta Area", 
+    "point": [
+      41.22919737, 
+      -122.4153116
+    ], 
+    "time": 19164
+  }, 
+  {
+    "name": "Mt. Palomar North Side Area", 
+    "point": [
+      33.4251, 
+      -116.9391
+    ], 
+    "time": 25808
+  }, 
+  {
+    "name": "Mill Flat Campground", 
+    "point": [
+      36.8565, 
+      -119.097
+    ], 
+    "time": 16118
+  }, 
+  {
+    "name": "Monterey Ranger District", 
+    "point": [
+      36.182225, 
+      -121.525269
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "Mt. Pinos Ranger District", 
+    "point": [
+      34.759666, 
+      -119.174194
+    ], 
+    "time": 17071
+  }, 
+  {
+    "name": "Mt. Pinos Campground", 
+    "point": [
+      34.81, 
+      -119.1072222
+    ], 
+    "time": 16944
+  }, 
+  {
+    "name": "Middle Lion Campground", 
+    "point": [
+      34.549528, 
+      -119.166302
+    ], 
+    "time": 19276
+  }, 
+  {
+    "name": "Miranda Pine Campground", 
+    "point": [
+      35.82214, 
+      -120.02353
+    ], 
+    "time": 11104
+  }, 
+  {
+    "name": "Mt. Pacifico Campground", 
+    "point": [
+      34.382562, 
+      -118.034211
+    ], 
+    "time": 21587
+  }, 
+  {
+    "name": "Messenger Flats Campground", 
+    "point": [
+      34.379869, 
+      -118.189781
+    ], 
+    "time": 21414
+  }, 
+  {
+    "name": "Monte Cristo Campground", 
+    "point": [
+      34.34135, 
+      -118.109452
+    ], 
+    "time": 20102
+  }, 
+  {
+    "name": "Mountain City Ranger District Office", 
+    "point": [
+      40.835436, 
+      -115.739296
+    ], 
+    "time": 28654
+  }, 
+  {
+    "name": "Mill Creek Campground", 
+    "point": [
+      38.3016, 
+      -119.9412
+    ], 
+    "time": 24838
+  }, 
+  {
+    "name": "Mill Creek Falls Campground", 
+    "point": [
+      41.27666667, 
+      -120.2880556
+    ], 
+    "time": 24305
+  }, 
+  {
+    "name": "Mill Creek Campground", 
+    "point": [
+      39.913, 
+      -121.186
+    ], 
+    "time": 24838
+  }, 
+  {
+    "name": "Mt. Hough Ranger District", 
+    "point": [
+      39.977, 
+      -120.93
+    ], 
+    "time": 16617
+  }, 
+  {
+    "name": "Milsap Bar Campground", 
+    "point": [
+      39.706, 
+      -121.268
+    ], 
+    "time": 14623
+  }, 
+  {
+    "name": "Mill Creek Campground", 
+    "point": [
+      42.79437527, 
+      -122.4676644
+    ], 
+    "time": 24838
+  }, 
+  {
+    "name": "Myrtle Grove Campground", 
+    "point": [
+      42.786, 
+      -124.023
+    ], 
+    "time": 32167
+  }, 
+  {
+    "name": "Miller Bar Campground", 
+    "point": [
+      42.13845564, 
+      -124.1749151
+    ], 
+    "time": 27405
+  }, 
+  {
+    "name": "OBSIDIAN FLAT", 
+    "point": [
+      37.733333333333, 
+      -119.016666666667
+    ], 
+    "time": 22374
+  }, 
+  {
+    "name": "ONION VALLEY", 
+    "point": [
+      36.774722222222, 
+      -118.345555555556
+    ], 
+    "time": 25961
+  }, 
+  {
+    "name": "OH RIDGE", 
+    "point": [
+      37.796944444444, 
+      -119.061666666667
+    ], 
+    "time": 20968
+  }, 
+  {
+    "name": "NORTH SHORE (CA)", 
+    "point": [
+      34.267222222222, 
+      -117.163333333333
+    ], 
+    "time": 24185
+  }, 
+  {
+    "name": "NORTH PINES", 
+    "point": [
+      37.741944444444, 
+      -119.565555555556
+    ], 
+    "time": 13657
+  }, 
+  {
+    "name": "NELSON POINT", 
+    "point": [
+      40.848333333333, 
+      -122.345833333333
+    ], 
+    "time": 14354
+  }, 
+  {
+    "name": "NEVADA BEACH CAMPGROUND", 
+    "point": [
+      38.981944444444, 
+      -119.948611111111
+    ], 
+    "time": 13964
+  }, 
+  {
+    "name": "OBSERVATORY CAMPGROUND", 
+    "point": [
+      33.341666666667, 
+      -116.878611111111
+    ], 
+    "time": 27104
+  }, 
+  {
+    "name": "OAK KNOLL CAMPGROUND", 
+    "point": [
+      38.18265, 
+      -120.803055555556
+    ], 
+    "time": 7537
+  }, 
+  {
+    "name": "OLD SHADY REST CAMPGROUND", 
+    "point": [
+      37.65, 
+      -118.961666666667
+    ], 
+    "time": 21909
+  }, 
+  {
+    "name": "NEW SHADY REST CAMPGROUND", 
+    "point": [
+      37.65, 
+      -118.959166666667
+    ], 
+    "time": 21948
+  }, 
+  {
+    "name": "NORDHEIMER GROUP SITES", 
+    "point": [
+      41.298611111111, 
+      -123.363888888889
+    ], 
+    "time": 25421
+  }, 
+  {
+    "name": "NORTH FORK (CA)", 
+    "point": [
+      39.270555555556, 
+      -120.658888888889
+    ], 
+    "time": 11796
+  }, 
+  {
+    "name": "OAK FLAT LOOKOUT", 
+    "point": [
+      35.535277777778, 
+      -118.706944444444
+    ], 
+    "time": 17242
+  }, 
+  {
+    "name": "OAK BOTTOM CAMPGROUND", 
+    "point": [
+      41.377222222222, 
+      -123.451388888889
+    ], 
+    "time": 24519
+  }, 
+  {
+    "name": "OAK GROVE CAMPGROUND", 
+    "point": [
+      33.386525, 
+      -116.791369444444
+    ], 
+    "time": 25532
+  }, 
+  {
+    "name": "Norcross Campground", 
+    "point": [
+      41.64585355, 
+      -123.3091109
+    ], 
+    "time": 29693
+  }, 
+  {
+    "name": "Nordheimer Flat River Access", 
+    "point": [
+      41.29884157, 
+      -123.3635266
+    ], 
+    "time": 25420
+  }, 
+  {
+    "name": "Northwind Campground", 
+    "point": [
+      38.831592, 
+      -120.347926
+    ], 
+    "time": 12495
+  }, 
+  {
+    "name": "Northshore Campground", 
+    "point": [
+      38.998791, 
+      -120.317995
+    ], 
+    "time": 15015
+  }, 
+  {
+    "name": "North Fork Campground", 
+    "point": [
+      41.979064, 
+      -123.960714
+    ], 
+    "time": 23746
+  }, 
+  {
+    "name": "Nordheimer", 
+    "point": [
+      41.297524, 
+      -123.360758
+    ], 
+    "time": 25410
+  }, 
+  {
+    "name": "Nevada Beach Day Use Area", 
+    "point": [
+      38.9811, 
+      -119.9521
+    ], 
+    "time": 14022
+  }, 
+  {
+    "name": "Navy Camp Campground", 
+    "point": [
+      39.442989, 
+      -122.957839
+    ], 
+    "time": 13476
+  }, 
+  {
+    "name": "Oak Flat Campground", 
+    "point": [
+      39.442639, 
+      -122.953956
+    ], 
+    "time": 31589
+  }, 
+  {
+    "name": "Old Isabella", 
+    "point": [
+      35.652472, 
+      -118.456888
+    ], 
+    "time": 16842
+  }, 
+  {
+    "name": "Nacimiento Campground", 
+    "point": [
+      36.00753, 
+      -121.40123
+    ], 
+    "time": 9808
+  }, 
+  {
+    "name": "Nettle Springs Campground", 
+    "point": [
+      34.803294, 
+      -119.292063
+    ], 
+    "time": 18406
+  }, 
+  {
+    "name": "Ojai Ranger District", 
+    "point": [
+      34.587997, 
+      -119.174194
+    ], 
+    "time": 19256
+  }, 
+  {
+    "name": "Oakwilde Campground", 
+    "point": [
+      34.245786, 
+      -118.183583
+    ], 
+    "time": 19058
+  }, 
+  {
+    "name": "Oak Flat Campground", 
+    "point": [
+      34.600451, 
+      -118.722081
+    ], 
+    "time": 31589
+  }, 
+  {
+    "name": "Nelder Grove Campground", 
+    "point": [
+      37.43118561, 
+      -119.5821422
+    ], 
+    "time": 13178
+  }, 
+  {
+    "name": "Obsidian Campground", 
+    "point": [
+      38.2999, 
+      -119.4492
+    ], 
+    "time": 18570
+  }, 
+  {
+    "name": "Niagara Creek Campground", 
+    "point": [
+      38.3239, 
+      -119.917
+    ], 
+    "time": 11673
+  }, 
+  {
+    "name": "North Lake Campground", 
+    "point": [
+      37.2274, 
+      -118.6268
+    ], 
+    "time": 25027
+  }, 
+  {
+    "name": "North Fork Campground", 
+    "point": [
+      40.04, 
+      -121.219
+    ], 
+    "time": 23746
+  }, 
+  {
+    "name": "OAK SHORES DAY USE AREA (CA)", 
+    "point": [
+      30.56, 
+      -122.234444444444
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "Natural Bridge Campground", 
+    "point": [
+      42.89250883, 
+      -122.4628256
+    ], 
+    "time": 25301
+  }, 
+  {
+    "name": "Oak Flat Campground", 
+    "point": [
+      42.51873947, 
+      -124.0419302
+    ], 
+    "time": 31589
+  }, 
+  {
+    "name": "Nook Bar Campground", 
+    "point": [
+      42.146, 
+      -124.155
+    ], 
+    "time": 27627
+  }, 
+  {
+    "name": "North Fork Campground", 
+    "point": [
+      42.3772645, 
+      -122.3605139
+    ], 
+    "time": 23746
+  }, 
+  {
+    "name": "PAHA", 
+    "point": [
+      38.179166666667, 
+      -119.325
+    ], 
+    "time": 20139
+  }, 
+  {
+    "name": "PINECREST", 
+    "point": [
+      38.190833333333, 
+      -119.997222222222
+    ], 
+    "time": 10490
+  }, 
+  {
+    "name": "PINE GLEN", 
+    "point": [
+      37.649166666667, 
+      -118.955277777778
+    ], 
+    "time": 21905
+  }, 
+  {
+    "name": "PATRICK CREEK CAMPGROUND", 
+    "point": [
+      41.871944444444, 
+      -123.846666666667
+    ], 
+    "time": 26118
+  }, 
+  {
+    "name": "PANTHER FLAT CAMPGROUND", 
+    "point": [
+      41.843055555556, 
+      -123.930555555556
+    ], 
+    "time": 25894
+  }, 
+  {
+    "name": "PINE POINT", 
+    "point": [
+      40.927222222222, 
+      -122.248055555556
+    ], 
+    "time": 16578
+  }, 
+  {
+    "name": "PASS CREEK CAMPGROUND", 
+    "point": [
+      39.504066666667, 
+      -120.534377777778
+    ], 
+    "time": 15843
+  }, 
+  {
+    "name": "PARADISE COVE", 
+    "point": [
+      35.649166666667, 
+      -118.425
+    ], 
+    "time": 17006
+  }, 
+  {
+    "name": "PINE CITY", 
+    "point": [
+      37.603055555556, 
+      -118.998888888889
+    ], 
+    "time": 22485
+  }, 
+  {
+    "name": "ORLAND BUTTES", 
+    "point": [
+      39.772197222222, 
+      -122.352847222222
+    ], 
+    "time": 11182
+  }, 
+  {
+    "name": "OSO GROUP", 
+    "point": [
+      34.545277777778, 
+      -119.774722222222
+    ], 
+    "time": 15992
+  }, 
+  {
+    "name": "PARADISE", 
+    "point": [
+      34.542222222222, 
+      -119.812777777778
+    ], 
+    "time": 15664
+  }, 
+  {
+    "name": "PACKSADDLE", 
+    "point": [
+      39.623888888889, 
+      -120.649722222222
+    ], 
+    "time": 15264
+  }, 
+  {
+    "name": "PEARCH CREEK CAMPGROUND", 
+    "point": [
+      41.308888888889, 
+      -123.520833333333
+    ], 
+    "time": 23794
+  }, 
+  {
+    "name": "PINE MOUNTAIN LOOKOUT", 
+    "point": [
+      39.366944444444, 
+      -123.020555555556
+    ], 
+    "time": 13746
+  }, 
+  {
+    "name": "PALISADES GROUP CAMPGROUND", 
+    "point": [
+      37.483333333333, 
+      -118.716666666667
+    ], 
+    "time": 23495
+  }, 
+  {
+    "name": "Orr Lake Campground", 
+    "point": [
+      41.6623741, 
+      -121.9927836
+    ], 
+    "time": 20243
+  }, 
+  {
+    "name": "Pardoes Point Campground", 
+    "point": [
+      38.536305, 
+      -120.238582
+    ], 
+    "time": 11242
+  }, 
+  {
+    "name": "Pigeon Point Campground", 
+    "point": [
+      40.76705358, 
+      -123.1302704
+    ], 
+    "time": 17609
+  }, 
+  {
+    "name": "Philpot Campground", 
+    "point": [
+      40.46596576, 
+      -123.190829
+    ], 
+    "time": 16751
+  }, 
+  {
+    "name": "Panther Meadows Campground", 
+    "point": [
+      41.35501402, 
+      -122.2018076
+    ], 
+    "time": 18223
+  }, 
+  {
+    "name": "Orleans Ranger District", 
+    "point": [
+      41.300942, 
+      -123.542118
+    ], 
+    "time": 23636
+  }, 
+  {
+    "name": "Ortega Highway Area", 
+    "point": [
+      33.6413, 
+      -117.393
+    ], 
+    "time": 23736
+  }, 
+  {
+    "name": "Pine Springs Campground", 
+    "point": [
+      34.69222222, 
+      -119.1333333
+    ], 
+    "time": 17167
+  }, 
+  {
+    "name": "Pine Mountain Campground", 
+    "point": [
+      34.638747, 
+      -119.329101
+    ], 
+    "time": 18885
+  }, 
+  {
+    "name": "Peavine Campground", 
+    "point": [
+      34.389624, 
+      -117.718706
+    ], 
+    "time": 21033
+  }, 
+  {
+    "name": "Pine Creek Campground", 
+    "point": [
+      38.7869, 
+      -116.8482
+    ], 
+    "time": 39685
+  }, 
+  {
+    "name": "Peavine Creek Campground", 
+    "point": [
+      38.6205, 
+      -117.3124
+    ], 
+    "time": 30513
+  }, 
+  {
+    "name": "Pavlak Campground", 
+    "point": [
+      41.8468, 
+      -115.4285
+    ], 
+    "time": 39579
+  }, 
+  {
+    "name": "Pine Creek Campground", 
+    "point": [
+      41.8382, 
+      -115.4291
+    ], 
+    "time": 39685
+  }, 
+  {
+    "name": "Pigeon Flat Campground", 
+    "point": [
+      38.33991, 
+      -119.80389
+    ], 
+    "time": 12126
+  }, 
+  {
+    "name": "Patterson Campground", 
+    "point": [
+      41.19805556, 
+      -120.1861111
+    ], 
+    "time": 26023
+  }, 
+  {
+    "name": "Payne Springs Campground", 
+    "point": [
+      41.55472222, 
+      -121.5608333
+    ], 
+    "time": 21290
+  }, 
+  {
+    "name": "Pepperdine Campground", 
+    "point": [
+      41.45027778, 
+      -120.2408333
+    ], 
+    "time": 25875
+  }, 
+  {
+    "name": "Pepperdine Equestrian Campground", 
+    "point": [
+      41.45027778, 
+      -120.2408333
+    ], 
+    "time": 25875
+  }, 
+  {
+    "name": "Peninsula Tent Campground", 
+    "point": [
+      39.72, 
+      -120.979
+    ], 
+    "time": 14301
+  }, 
+  {
+    "name": "Parker Meadows Campground", 
+    "point": [
+      42.60008054, 
+      -122.3235894
+    ], 
+    "time": 27090
+  }, 
+  {
+    "name": "PINNACLES CAMPGROUND (CA)", 
+    "point": [
+      36.46639, 
+      -121.17611
+    ], 
+    "time": 6866
+  }, 
+  {
+    "name": "PUMICE FLAT GROUP CAMP", 
+    "point": [
+      37.648888888889, 
+      -119.073611111111
+    ], 
+    "time": 23194
+  }, 
+  {
+    "name": "PLASKETT CREEK CAMPGROUND", 
+    "point": [
+      35.917222222222, 
+      -121.465
+    ], 
+    "time": 10585
+  }, 
+  {
+    "name": "PROSSER RANCH GROUP", 
+    "point": [
+      39.378797222222, 
+      -120.1552
+    ], 
+    "time": 13116
+  }, 
+  {
+    "name": "PIPI CAMPGROUND", 
+    "point": [
+      38.573611111111, 
+      -120.4375
+    ], 
+    "time": 11118
+  }, 
+  {
+    "name": "PINEKNOT", 
+    "point": [
+      34.235277777778, 
+      -116.883055555556
+    ], 
+    "time": 25352
+  }, 
+  {
+    "name": "PIONEER TRAIL", 
+    "point": [
+      38.1875, 
+      -119.9875
+    ], 
+    "time": 10654
+  }, 
+  {
+    "name": "PRINCESS", 
+    "point": [
+      36.802777777778, 
+      -118.936944444444
+    ], 
+    "time": 14118
+  }, 
+  {
+    "name": "PIONEER POINT", 
+    "point": [
+      35.651666666667, 
+      -118.486111111111
+    ], 
+    "time": 16871
+  }, 
+  {
+    "name": "RANCHERIA", 
+    "point": [
+      37.247777777778, 
+      -119.161111111111
+    ], 
+    "time": 14234
+  }, 
+  {
+    "name": "QUAKING ASPEN", 
+    "point": [
+      36.120833333333, 
+      -118.547222222222
+    ], 
+    "time": 17009
+  }, 
+  {
+    "name": "RECREATION POINT", 
+    "point": [
+      37.328611111111, 
+      -119.577777777778
+    ], 
+    "time": 12024
+  }, 
+  {
+    "name": "PONDEROSA CAMPGROUND", 
+    "point": [
+      36.005, 
+      -121.376388888889
+    ], 
+    "time": 9635
+  }, 
+  {
+    "name": "POMO DAY USE AREA", 
+    "point": [
+      39.235555555556, 
+      -123.183055555556
+    ], 
+    "time": 9810
+  }, 
+  {
+    "name": "PINES GROUP SITE - STONY GORGE RESERVOIR", 
+    "point": [
+      39.594166666667, 
+      -122.529444444444
+    ], 
+    "time": 10938
+  }, 
+  {
+    "name": "PYRAMID LAKE - LOS ALAMOS CAMPGROUND", 
+    "point": [
+      34.65, 
+      -118.766666666667
+    ], 
+    "time": 18560
+  }, 
+  {
+    "name": "PONDEROSA COVE CAMPGROUND", 
+    "point": [
+      38.874166666667, 
+      -120.602777777778
+    ], 
+    "time": 12724
+  }, 
+  {
+    "name": "PYRAMID LAKE - EMIGRANT LANDING DAY USE AREA", 
+    "point": [
+      34.65, 
+      -118.766666666667
+    ], 
+    "time": 18560
+  }, 
+  {
+    "name": "Point Reyes National Seashore Campground", 
+    "point": [
+      37.996666666667, 
+      -122.975
+    ], 
+    "time": 8365
+  }, 
+  {
+    "name": "PINES GROUP STANISLAUS", 
+    "point": [
+      37.816666666667, 
+      -120.083333333333
+    ], 
+    "time": 10018
+  }, 
+  {
+    "name": "QUAKING ASPEN CABIN", 
+    "point": [
+      36.124166666667, 
+      -118.549722222222
+    ], 
+    "time": 16954
+  }, 
+  {
+    "name": "PINNACLES CAMPGROUND", 
+    "point": [
+      36.466388888889, 
+      -121.176111111111
+    ], 
+    "time": 6866
+  }, 
+  {
+    "name": "PROSSER FAMILY", 
+    "point": [
+      39.377777777778, 
+      -120.160555555556
+    ], 
+    "time": 13106
+  }, 
+  {
+    "name": "POSO GUARD STATION CABIN", 
+    "point": [
+      35.8075, 
+      -118.643333333333
+    ], 
+    "time": 17174
+  }, 
+  {
+    "name": "POST CREEK GUARD STATION", 
+    "point": [
+      40.233333333333, 
+      -122.916944444444
+    ], 
+    "time": 17573
+  }, 
+  {
+    "name": "RAMSHORN", 
+    "point": [
+      39.539444444444, 
+      -120.911388888889
+    ], 
+    "time": 13198
+  }, 
+  {
+    "name": "Red Bank Campground", 
+    "point": [
+      41.29791, 
+      -123.23032
+    ], 
+    "time": 24081
+  }, 
+  {
+    "name": "Pleasant Campground", 
+    "point": [
+      39.014164, 
+      -120.292721
+    ], 
+    "time": 16663
+  }, 
+  {
+    "name": "Preacher Meadow Campground", 
+    "point": [
+      40.96313183, 
+      -122.7304608
+    ], 
+    "time": 18490
+  }, 
+  {
+    "name": "Pogie Point Campground", 
+    "point": [
+      39.441444, 
+      -122.968911
+    ], 
+    "time": 13312
+  }, 
+  {
+    "name": "Plaskett Meadows Campground", 
+    "point": [
+      39.728513, 
+      -122.845772
+    ], 
+    "time": 15564
+  }, 
+  {
+    "name": "Portal Forebay Campground", 
+    "point": [
+      37.3202132, 
+      -119.0671447
+    ], 
+    "time": 16431
+  }, 
+  {
+    "name": "Placer Campground", 
+    "point": [
+      37.3704482, 
+      -119.3619284
+    ], 
+    "time": 17085
+  }, 
+  {
+    "name": "Pines Campground", 
+    "point": [
+      37.818951, 
+      -120.093929
+    ], 
+    "time": 9834
+  }, 
+  {
+    "name": "Poppy Campground", 
+    "point": [
+      39.120029, 
+      -120.436573
+    ], 
+    "time": 15749
+  }, 
+  {
+    "name": "Potato Patch Campground", 
+    "point": [
+      40.188347, 
+      -121.532717
+    ], 
+    "time": 14878
+  }, 
+  {
+    "name": "Queen Lily Campground", 
+    "point": [
+      40.045, 
+      -121.217
+    ], 
+    "time": 14641
+  }, 
+  {
+    "name": "Pinyon Flat Campground", 
+    "point": [
+      33.584877, 
+      -116.456766
+    ], 
+    "time": 26878
+  }, 
+  {
+    "name": "POTWISHA CAMPGROUND", 
+    "point": [
+      36.517444444444, 
+      -118.800375
+    ], 
+    "time": 14903
+  }, 
+  {
+    "name": "Quosatana Campground", 
+    "point": [
+      42.49608228, 
+      -124.2296271
+    ], 
+    "time": 29690
+  }, 
+  {
+    "name": "SAGE HILL", 
+    "point": [
+      34.539166666667, 
+      -119.791111111111
+    ], 
+    "time": 15943
+  }, 
+  {
+    "name": "ROBINSON CREEK NORTH", 
+    "point": [
+      38.186111111111, 
+      -119.3175
+    ], 
+    "time": 20648
+  }, 
+  {
+    "name": "ROCK CREEK LAKE GROUP CAMP", 
+    "point": [
+      37.453822222222, 
+      -118.739013888889
+    ], 
+    "time": 23792
+  }, 
+  {
+    "name": "RED FEATHER CALIFORNIA", 
+    "point": [
+      39.735277777778, 
+      -120.953055555556
+    ], 
+    "time": 14815
+  }, 
+  {
+    "name": "RED FIR", 
+    "point": [
+      39.002222222222, 
+      -120.3125
+    ], 
+    "time": 15076
+  }, 
+  {
+    "name": "ROBBS HUT", 
+    "point": [
+      38.923611111111, 
+      -120.404166666667
+    ], 
+    "time": 14135
+  }, 
+  {
+    "name": "ROCK CREEK (SIERRA NATL FORES", 
+    "point": [
+      37.291111111111, 
+      -119.359444444444
+    ], 
+    "time": 14575
+  }, 
+  {
+    "name": "REDWOOD MEADOW", 
+    "point": [
+      35.977777777778, 
+      -118.591666666667
+    ], 
+    "time": 18359
+  }, 
+  {
+    "name": "ROBINSON CREEK SOUTH", 
+    "point": [
+      38.186111111111, 
+      -119.3175
+    ], 
+    "time": 20648
+  }, 
+  {
+    "name": "REVERSED CREEK CAMPGROUND", 
+    "point": [
+      37.770330555556, 
+      -119.084275
+    ], 
+    "time": 21206
+  }, 
+  {
+    "name": "RUNNING DEER CAMPGROUND", 
+    "point": [
+      39.735277777778, 
+      -120.953055555556
+    ], 
+    "time": 14815
+  }, 
+  {
+    "name": "ROCK CREEK LAKE", 
+    "point": [
+      37.453822222222, 
+      -118.739013888889
+    ], 
+    "time": 23792
+  }, 
+  {
+    "name": "RIBBONWOOD EQUESTRIAN CG", 
+    "point": [
+      33.576111111111, 
+      -116.454722222222
+    ], 
+    "time": 26918
+  }, 
+  {
+    "name": "SALMON CREEK", 
+    "point": [
+      39.623611111111, 
+      -120.612222222222
+    ], 
+    "time": 14872
+  }, 
+  {
+    "name": "ROCKY REST", 
+    "point": [
+      39.513888888889, 
+      -120.974444444444
+    ], 
+    "time": 12824
+  }, 
+  {
+    "name": "Rush Creek Campground", 
+    "point": [
+      40.81875082, 
+      -122.8972609
+    ], 
+    "time": 17268
+  }, 
+  {
+    "name": "Ripstein Campground", 
+    "point": [
+      40.87615103, 
+      -123.0281703
+    ], 
+    "time": 18938
+  }, 
+  {
+    "name": "Rock Cabin Trailhead", 
+    "point": [
+      40.008005, 
+      -123.085134
+    ], 
+    "time": 21243
+  }, 
+  {
+    "name": "Red Bluff Recreation Area", 
+    "point": [
+      40.155667, 
+      -122.202644
+    ], 
+    "time": 12044
+  }, 
+  {
+    "name": "Reyes Creek Campground", 
+    "point": [
+      34.67916667, 
+      -119.3069444
+    ], 
+    "time": 17500
+  }, 
+  {
+    "name": "Reyes Peak Campground", 
+    "point": [
+      34.637181, 
+      -119.314946
+    ], 
+    "time": 19271
+  }, 
+  {
+    "name": "Rose Valley Campground", 
+    "point": [
+      34.531835, 
+      -119.182806
+    ], 
+    "time": 18978
+  }, 
+  {
+    "name": "Ruby Mountains Ranger District Office", 
+    "point": [
+      41.11137, 
+      -114.977029
+    ], 
+    "time": 30817
+  }, 
+  {
+    "name": "River Ranch Campground", 
+    "point": [
+      37.9933, 
+      -120.1815
+    ], 
+    "time": 9968
+  }, 
+  {
+    "name": "Sabrina Campground", 
+    "point": [
+      37.2192, 
+      -118.6069
+    ], 
+    "time": 24750
+  }, 
+  {
+    "name": "Red Tail Rim Trail South Trailhead/Campground", 
+    "point": [
+      41.16746667, 
+      -120.82972223
+    ], 
+    "time": 21788
+  }, 
+  {
+    "name": "Reservoir C Campground", 
+    "point": [
+      41.66027778, 
+      -120.7738889
+    ], 
+    "time": 25514
+  }, 
+  {
+    "name": "Robinson Flat Campground", 
+    "point": [
+      39.1566328, 
+      -120.502018
+    ], 
+    "time": 13906
+  }, 
+  {
+    "name": "Sagehen Creek Campground", 
+    "point": [
+      39.4342043, 
+      -120.257552
+    ], 
+    "time": 13816
+  }, 
+  {
+    "name": "Rogers Cow Camp", 
+    "point": [
+      39.768, 
+      -121.31
+    ], 
+    "time": 13897
+  }, 
+  {
+    "name": "Rock Creek Campground", 
+    "point": [
+      39.9, 
+      -121
+    ], 
+    "time": 33284
+  }, 
+  {
+    "name": "Redwood Bar Dispersed Camping", 
+    "point": [
+      42.1635, 
+      -124.1433
+    ], 
+    "time": 27882
+  }, 
+  {
+    "name": "River Bridge Campground", 
+    "point": [
+      42.82145018, 
+      -122.4935928
+    ], 
+    "time": 25013
+  }, 
+  {
+    "name": "River Bench Campground", 
+    "point": [
+      42.2950791, 
+      -123.7401029
+    ], 
+    "time": 25529
+  }, 
+  {
+    "name": "Rock Creek Campground", 
+    "point": [
+      42.70761829, 
+      -124.0590483
+    ], 
+    "time": 33284
+  }, 
+  {
+    "name": "SAN GORGONIO", 
+    "point": [
+      34.174444444444, 
+      -116.866388888889
+    ], 
+    "time": 25012
+  }, 
+  {
+    "name": "SERRANO", 
+    "point": [
+      34.261388888889, 
+      -116.919444444444
+    ], 
+    "time": 25219
+  }, 
+  {
+    "name": "SANTA ROSA ISLAND", 
+    "point": [
+      33.95, 
+      -120.1
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "SANTA CRUZ SCORPION", 
+    "point": [
+      34.048611111111, 
+      -119.558055555556
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "SANTA CRUZ DEL NORTE BACKCOUNTRY", 
+    "point": [
+      34.010833333333, 
+      -119.660277777778
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "SANTA BARBARA ISLAND", 
+    "point": [
+      33.475555555556, 
+      -119.035277777778
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "SAN MIGUEL ISLAND", 
+    "point": [
+      34.039722222222, 
+      -120.374444444444
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "SANDY FLAT", 
+    "point": [
+      35.574444444444, 
+      -118.525555555556
+    ], 
+    "time": 16776
+  }, 
+  {
+    "name": "SHADY COVE GROUP CAMPGROUND", 
+    "point": [
+      34.208313888889, 
+      -117.046833333333
+    ], 
+    "time": 24308
+  }, 
+  {
+    "name": "SARAH TOTTEN CAMPGROUND", 
+    "point": [
+      41.784166666667, 
+      -123.043055555556
+    ], 
+    "time": 21813
+  }, 
+  {
+    "name": "SARDINE LAKE", 
+    "point": [
+      39.618888888889, 
+      -120.6175
+    ], 
+    "time": 14955
+  }, 
+  {
+    "name": "Salmon/Scott River Ranger District", 
+    "point": [
+      41.6012624, 
+      -122.8471501
+    ], 
+    "time": 19384
+  }, 
+  {
+    "name": "Shafter Campground", 
+    "point": [
+      41.71043, 
+      -121.98084
+    ], 
+    "time": 20551
+  }, 
+  {
+    "name": "Sand Flat Campground", 
+    "point": [
+      38.76338, 
+      -120.326015
+    ], 
+    "time": 12901
+  }, 
+  {
+    "name": "Scott Mountain Campground", 
+    "point": [
+      41.27460849, 
+      -122.6981317
+    ], 
+    "time": 20724
+  }, 
+  {
+    "name": "Scotts Flat Campground", 
+    "point": [
+      40.36607156, 
+      -123.3091884
+    ], 
+    "time": 16900
+  }, 
+  {
+    "name": "Shasta Lake Area", 
+    "point": [
+      40.90830471, 
+      -122.1625157
+    ], 
+    "time": 18952
+  }, 
+  {
+    "name": "San Mateo Wilderness South Area", 
+    "point": [
+      33.5055, 
+      -117.4185
+    ], 
+    "time": 25693
+  }, 
+  {
+    "name": "Santa Barbara Ranger District", 
+    "point": [
+      34.556335, 
+      -119.547729
+    ], 
+    "time": 21802
+  }, 
+  {
+    "name": "Santa Lucia Ranger District", 
+    "point": [
+      34.881425, 
+      -119.954224
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "San Gabriel River Ranger District", 
+    "point": [
+      34.137159, 
+      -117.862122
+    ], 
+    "time": 20266
+  }, 
+  {
+    "name": "Santa Clara/Mojave Rivers Ranger District", 
+    "point": [
+      34.43852, 
+      -118.58814
+    ], 
+    "time": 17080
+  }, 
+  {
+    "name": "Sawmill Campground--", 
+    "point": [
+      34.701007, 
+      -118.571822
+    ], 
+    "time": 18185
+  }, 
+  {
+    "name": "Sawmill Flat Campground", 
+    "point": [
+      36.96975408, 
+      -119.016552
+    ], 
+    "time": 15696
+  }, 
+  {
+    "name": "Sample Meadow Campground", 
+    "point": [
+      37.33453514, 
+      -119.1554595
+    ], 
+    "time": 16383
+  }, 
+  {
+    "name": "Santa Rosa Ranger District Office", 
+    "point": [
+      40.975968, 
+      -117.717736
+    ], 
+    "time": 22315
+  }, 
+  {
+    "name": "San Juan Campground", 
+    "point": [
+      39.1206, 
+      -117.2724
+    ], 
+    "time": 27006
+  }, 
+  {
+    "name": "Sawmill Campground", 
+    "point": [
+      41.8752, 
+      -115.4297
+    ], 
+    "time": 40068
+  }, 
+  {
+    "name": "Sand Bar Flat Campground", 
+    "point": [
+      38.1844, 
+      -120.1565
+    ], 
+    "time": 12476
+  }, 
+  {
+    "name": "Sand Flat Campground", 
+    "point": [
+      38.4087, 
+      -119.7729
+    ], 
+    "time": 12901
+  }, 
+  {
+    "name": "Schoolhouse Campground", 
+    "point": [
+      39.416613, 
+      -121.122921
+    ], 
+    "time": 11804
+  }, 
+  {
+    "name": "Santa Rosa Springs Campground", 
+    "point": [
+      33.540122, 
+      -116.456293
+    ], 
+    "time": 29062
+  }, 
+  {
+    "name": "Santa Rosa &amp; San Jacinto Mtns. National Monument", 
+    "point": [
+      33.665813, 
+      -116.394907
+    ], 
+    "time": 25971
+  }, 
+  {
+    "name": "San Jacinto - Santa Rosa Mountains Recreation Area", 
+    "point": [
+      33.74693, 
+      -116.714244
+    ], 
+    "time": 25943
+  }, 
+  {
+    "name": "Sam Brown Campground", 
+    "point": [
+      42.44308397, 
+      -123.688946
+    ], 
+    "time": 25782
+  }, 
+  {
+    "name": "Secret Creek Campground", 
+    "point": [
+      42.42242398, 
+      -123.6890631
+    ], 
+    "time": 25917
+  }, 
+  {
+    "name": "SKYLINE", 
+    "point": [
+      34.155555555556, 
+      -116.783055555556
+    ], 
+    "time": 25439
+  }, 
+  {
+    "name": "Silver Creek", 
+    "point": [
+      38.588972222222, 
+      -119.787166666667
+    ], 
+    "time": 15945
+  }, 
+  {
+    "name": "SILVER LAKE EAST- ELDORADO", 
+    "point": [
+      38.675, 
+      -119.8875
+    ], 
+    "time": 14038
+  }, 
+  {
+    "name": "SHERWIN CREEK", 
+    "point": [
+      37.63, 
+      -118.935
+    ], 
+    "time": 22459
+  }, 
+  {
+    "name": "SHEEP PASS GROUP", 
+    "point": [
+      33.999166666667, 
+      -116.118055555556
+    ], 
+    "time": 28054
+  }, 
+  {
+    "name": "SOQUEL CAMPGROUND", 
+    "point": [
+      37.405, 
+      -119.560555555556
+    ], 
+    "time": 13181
+  }, 
+  {
+    "name": "SILVER CREEK-TRUCKEE", 
+    "point": [
+      39.223055555556, 
+      -120.200833333333
+    ], 
+    "time": 13022
+  }, 
+  {
+    "name": "SILVERTIP GROUP", 
+    "point": [
+      39.486666666667, 
+      -120.5475
+    ], 
+    "time": 16604
+  }, 
+  {
+    "name": "SHIRTTAIL CREEK", 
+    "point": [
+      39.144444444444, 
+      -120.784722222222
+    ], 
+    "time": 12757
+  }, 
+  {
+    "name": "SOUTH FORK GROUP (CA)", 
+    "point": [
+      38.76, 
+      -120.520555555556
+    ], 
+    "time": 10168
+  }, 
+  {
+    "name": "SOUTH SHORE CAMPGROUND", 
+    "point": [
+      38.533055555556, 
+      -120.234722222222
+    ], 
+    "time": 11296
+  }, 
+  {
+    "name": "SILVER CREEK GROUP CAMPGROUND", 
+    "point": [
+      38.826944444444, 
+      -120.39
+    ], 
+    "time": 12018
+  }, 
+  {
+    "name": "SILVER LAKE CAMPGROUND JUNE LAKE (CA", 
+    "point": [
+      37.783055555556, 
+      -119.126388888889
+    ], 
+    "time": 23394
+  }, 
+  {
+    "name": "SIERRA", 
+    "point": [
+      39.630833333333, 
+      -120.558611111111
+    ], 
+    "time": 14804
+  }, 
+  {
+    "name": "SKILLMAN", 
+    "point": [
+      39.318611111111, 
+      -120.791111111111
+    ], 
+    "time": 11613
+  }, 
+  {
+    "name": "SLY GUARD CABIN", 
+    "point": [
+      38.708611111111, 
+      -120.595277777778
+    ], 
+    "time": 10541
+  }, 
+  {
+    "name": "Silver Fork Campground", 
+    "point": [
+      38.698906, 
+      -120.207896
+    ], 
+    "time": 12388
+  }, 
+  {
+    "name": "Slide Creek Campground", 
+    "point": [
+      40.6686, 
+      -123.5035
+    ], 
+    "time": 20426
+  }, 
+  {
+    "name": "Shiell Gulch Campground", 
+    "point": [
+      40.47047737, 
+      -123.0596271
+    ], 
+    "time": 16421
+  }, 
+  {
+    "name": "Sims Flat Campground", 
+    "point": [
+      41.06180307, 
+      -122.3593666
+    ], 
+    "time": 15501
+  }, 
+  {
+    "name": "Smith River National Recreation Area", 
+    "point": [
+      41.778856, 
+      -123.896942
+    ], 
+    "time": 30013
+  }, 
+  {
+    "name": "South Fork Rec Campground", 
+    "point": [
+      35.65856702, 
+      -118.4368909
+    ], 
+    "time": 17007
+  }, 
+  {
+    "name": "Southfork Campground", 
+    "point": [
+      34.395623, 
+      -117.820733
+    ], 
+    "time": 20526
+  }, 
+  {
+    "name": "Soda Springs Campground", 
+    "point": [
+      37.38105522, 
+      -119.3887498
+    ], 
+    "time": 16347
+  }, 
+  {
+    "name": "Sonora Bridge Campground", 
+    "point": [
+      38.3674, 
+      -119.4818
+    ], 
+    "time": 17904
+  }, 
+  {
+    "name": "South Fork Campground", 
+    "point": [
+      37.839706, 
+      -120.045765
+    ], 
+    "time": 27750
+  }, 
+  {
+    "name": "Soup Springs Campground", 
+    "point": [
+      41.30916667, 
+      -120.2772222
+    ], 
+    "time": 25232
+  }, 
+  {
+    "name": "Snag Lake Campground", 
+    "point": [
+      39.670492, 
+      -120.626792
+    ], 
+    "time": 15259
+  }, 
+  {
+    "name": "Snake Lake Campground", 
+    "point": [
+      39.97, 
+      -121.01
+    ], 
+    "time": 17053
+  }, 
+  {
+    "name": "Silver Lake Campground", 
+    "point": [
+      39.959, 
+      -121.134
+    ], 
+    "time": 17553
+  }, 
+  {
+    "name": "Sly Creek Campground", 
+    "point": [
+      39.576, 
+      -121.12
+    ], 
+    "time": 13074
+  }, 
+  {
+    "name": "Sly Creek Recreation Area", 
+    "point": [
+      39.591, 
+      -121.108
+    ], 
+    "time": 13355
+  }, 
+  {
+    "name": "South Fork Family Campground", 
+    "point": [
+      34.169634, 
+      -116.827418
+    ], 
+    "time": 25170
+  }, 
+  {
+    "name": "Spalding Pond Campground", 
+    "point": [
+      42.347, 
+      -123.702
+    ], 
+    "time": 26998
+  }, 
+  {
+    "name": "South Fork Camps Campground", 
+    "point": [
+      42.18726047, 
+      -124.1316678
+    ], 
+    "time": 28207
+  }, 
+  {
+    "name": "Sixmile Campground", 
+    "point": [
+      42.297, 
+      -123.73
+    ], 
+    "time": 25443
+  }, 
+  {
+    "name": "South Fork Campground", 
+    "point": [
+      42.64684823, 
+      -122.3358872
+    ], 
+    "time": 27750
+  }, 
+  {
+    "name": "SUNSET-UNION VALLEY", 
+    "point": [
+      38.865833333333, 
+      -120.405
+    ], 
+    "time": 12901
+  }, 
+  {
+    "name": "STUMPY MEADOWS", 
+    "point": [
+      38.904166666667, 
+      -120.591666666667
+    ], 
+    "time": 12326
+  }, 
+  {
+    "name": "STONEY GROUP SHASTA-TRINITY", 
+    "point": [
+      40.851388888889, 
+      -122.850277777778
+    ], 
+    "time": 17509
+  }, 
+  {
+    "name": "STONY CREEK SEQUOIA", 
+    "point": [
+      36.664722222222, 
+      -118.831666666667
+    ], 
+    "time": 14472
+  }, 
+  {
+    "name": "SPRING COVE", 
+    "point": [
+      37.300555555556, 
+      -119.541388888889
+    ], 
+    "time": 11929
+  }, 
+  {
+    "name": "SPRING CREEK", 
+    "point": [
+      39.895833333333, 
+      -120.176388888889
+    ], 
+    "time": 16729
+  }, 
+  {
+    "name": "SWEETWATER", 
+    "point": [
+      37.365, 
+      -119.352222222222
+    ], 
+    "time": 17329
+  }, 
+  {
+    "name": "SUMMIT LAKE STOCK CORRAL", 
+    "point": [
+      40.494444444444, 
+      -121.4175
+    ], 
+    "time": 16483
+  }, 
+  {
+    "name": "TABLE MOUNTAIN (ANGELES)", 
+    "point": [
+      34.386388888889, 
+      -117.689444444444
+    ], 
+    "time": 21581
+  }, 
+  {
+    "name": "SUMMERDALE CAMPGROUND", 
+    "point": [
+      37.470647222222, 
+      -119.642733333333
+    ], 
+    "time": 12443
+  }, 
+  {
+    "name": "SUMMIT LAKE SOUTH", 
+    "point": [
+      40.490277777778, 
+      -121.423611111111
+    ], 
+    "time": 16529
+  }, 
+  {
+    "name": "SUMMIT LAKE NORTH", 
+    "point": [
+      40.494444444444, 
+      -121.425
+    ], 
+    "time": 16508
+  }, 
+  {
+    "name": "SPANISH CREEK CAMPGROUND", 
+    "point": [
+      0, 
+      0
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "SYCAMORE GROVE CAMPGROUND", 
+    "point": [
+      40.156052777778, 
+      -122.204069444444
+    ], 
+    "time": 12034
+  }, 
+  {
+    "name": "SUNSET CAMPGROUND GROUP CAMPSITES", 
+    "point": [
+      36.737777777778, 
+      -118.964722222222
+    ], 
+    "time": 13642
+  }, 
+  {
+    "name": "Sulphur Springs Campground", 
+    "point": [
+      41.65902, 
+      -123.32033
+    ], 
+    "time": 29395
+  }, 
+  {
+    "name": "Sugar Pine Point Campground", 
+    "point": [
+      38.546733, 
+      -120.239867
+    ], 
+    "time": 11624
+  }, 
+  {
+    "name": "Strawberry Point Campground", 
+    "point": [
+      38.828054, 
+      -120.339259
+    ], 
+    "time": 12631
+  }, 
+  {
+    "name": "Stoney Point Campground", 
+    "point": [
+      40.84842468, 
+      -122.8584044
+    ], 
+    "time": 17418
+  }, 
+  {
+    "name": "Stonyford  Recreation Area", 
+    "point": [
+      39.323073, 
+      -122.643814
+    ], 
+    "time": 13522
+  }, 
+  {
+    "name": "Sunset Campground", 
+    "point": [
+      39.437928, 
+      -122.940233
+    ], 
+    "time": 13628
+  }, 
+  {
+    "name": "Sugarfoot Glade Campground", 
+    "point": [
+      39.885038, 
+      -122.777093
+    ], 
+    "time": 16905
+  }, 
+  {
+    "name": "Sugar Spring Campground", 
+    "point": [
+      39.859245, 
+      -122.915983
+    ], 
+    "time": 18156
+  }, 
+  {
+    "name": "Surveyors Camp Campground", 
+    "point": [
+      39.818678, 
+      -122.974882
+    ], 
+    "time": 17394
+  }, 
+  {
+    "name": "Spring Camp Campground", 
+    "point": [
+      34.215277, 
+      -117.977777
+    ], 
+    "time": 23731
+  }, 
+  {
+    "name": "Spunky Campground - Closed", 
+    "point": [
+      34.61037, 
+      -118.391093
+    ], 
+    "time": 18328
+  }, 
+  {
+    "name": "Streamside Campground - Closed", 
+    "point": [
+      34.549407, 
+      -118.431905
+    ], 
+    "time": 18369
+  }, 
+  {
+    "name": "Swanson Campground", 
+    "point": [
+      37.09414469, 
+      -119.2782323
+    ], 
+    "time": 12821
+  }, 
+  {
+    "name": "Spring Mountains National Recreation Area Office", 
+    "point": [
+      36.245401, 
+      -115.234035
+    ], 
+    "time": 29597
+  }, 
+  {
+    "name": "Sweetwater Campground", 
+    "point": [
+      37.82397, 
+      -120.00495
+    ], 
+    "time": 10150
+  }, 
+  {
+    "name": "Stough Reservoir Campground", 
+    "point": [
+      41.56222222, 
+      -120.2541667
+    ], 
+    "time": 23376
+  }, 
+  {
+    "name": "Sterling Lake Campground", 
+    "point": [
+      39.353549, 
+      -120.494031
+    ], 
+    "time": 12694
+  }, 
+  {
+    "name": "Sundew Campground", 
+    "point": [
+      39.9, 
+      -121.2
+    ], 
+    "time": 15878
+  }, 
+  {
+    "name": "Strawberry Campground", 
+    "point": [
+      39.588, 
+      -121.08
+    ], 
+    "time": 12993
+  }, 
+  {
+    "name": "Store Gulch Picnic Site Day Use", 
+    "point": [
+      42.29689011, 
+      -123.7514736
+    ], 
+    "time": 25637
+  }, 
+  {
+    "name": "Sunshine Bar Campground", 
+    "point": [
+      42.71214583, 
+      -124.3109278
+    ], 
+    "time": 33307
+  }, 
+  {
+    "name": "Sru Lake Campground", 
+    "point": [
+      42.73070849, 
+      -124.0060418
+    ], 
+    "time": 33430
+  }, 
+  {
+    "name": "Store Gulch Campground", 
+    "point": [
+      42.29570334, 
+      -123.7555967
+    ], 
+    "time": 25673
+  }, 
+  {
+    "name": "UPPER OSO CAMPGROUND", 
+    "point": [
+      34.555833333333, 
+      -119.753888888889
+    ], 
+    "time": 16620
+  }, 
+  {
+    "name": "TANGLEWOOD GROUP CAMP", 
+    "point": [
+      34.292222222222, 
+      -116.864444444444
+    ], 
+    "time": 25565
+  }, 
+  {
+    "name": "TRUMBULL LAKE", 
+    "point": [
+      38.050555555556, 
+      -119.257222222222
+    ], 
+    "time": 20358
+  }, 
+  {
+    "name": "TANNERY", 
+    "point": [
+      40.836666666667, 
+      -122.848055555556
+    ], 
+    "time": 17415
+  }, 
+  {
+    "name": "TABLE MOUNTAIN (INYO)", 
+    "point": [
+      37.208055555556, 
+      -118.568333333333
+    ], 
+    "time": 25098
+  }, 
+  {
+    "name": "TUFF CAMPGROUND", 
+    "point": [
+      37.5625, 
+      -118.664166666667
+    ], 
+    "time": 22763
+  }, 
+  {
+    "name": "TUNNEL MILLS II", 
+    "point": [
+      39.252777777778, 
+      -120.651666666667
+    ], 
+    "time": 12028
+  }, 
+  {
+    "name": "TRAILHEAD GROUP", 
+    "point": [
+      37.9642, 
+      -119.2724
+    ], 
+    "time": 21555
+  }, 
+  {
+    "name": "TUOLUMNE MEADOWS", 
+    "point": [
+      37.871111111111, 
+      -119.36
+    ], 
+    "time": null
+  }, 
+  {
+    "name": "TILLIE CREEK", 
+    "point": [
+      35.701388888889, 
+      -118.454444444444
+    ], 
+    "time": 17269
+  }, 
+  {
+    "name": "UPPER BILLY CREEK CG", 
+    "point": [
+      37.238055555556, 
+      -119.227777777778
+    ], 
+    "time": 14533
+  }, 
+  {
+    "name": "TEXAS FLATS", 
+    "point": [
+      37.392777777778, 
+      -119.581666666667
+    ], 
+    "time": 12975
+  }, 
+  {
+    "name": "UPPER LITTLE TRUCKEE", 
+    "point": [
+      39.490833333333, 
+      -120.243888888889
+    ], 
+    "time": 13335
+  }, 
+  {
+    "name": "TRIMMER CAMPGROUND", 
+    "point": [
+      36.904444444444, 
+      -119.293611111111
+    ], 
+    "time": 12768
+  }, 
+  {
+    "name": "TULE", 
+    "point": [
+      36.080277777778, 
+      -118.902222222222
+    ], 
+    "time": 14271
+  }, 
+  {
+    "name": "TENT PEG GROUP", 
+    "point": [
+      34.265277777778, 
+      -117.083333333333
+    ], 
+    "time": 24941
+  }, 
+  {
+    "name": "TUTTLETOWN RECREATION AREA", 
+    "point": [
+      37.983888888889, 
+      -120.508055555556
+    ], 
+    "time": 9228
+  }, 
+  {
+    "name": "TWIN LAKES CAMPGROUND", 
+    "point": [
+      37.615833333333, 
+      -119.006944444444
+    ], 
+    "time": 22336
+  }, 
+  {
+    "name": "TREE OF HEAVEN CAMPGROUND", 
+    "point": [
+      41.784166666667, 
+      -123.043055555556
+    ], 
+    "time": 21813
+  }, 
+  {
+    "name": "UNION FLAT", 
+    "point": [
+      39.5675, 
+      -120.744722222222
+    ], 
+    "time": 13894
+  }, 
+  {
+    "name": "Tunnel Rock Campground", 
+    "point": [
+      40.77239619, 
+      -122.7784136
+    ], 
+    "time": 16575
+  }, 
+  {
+    "name": "Trinity River Campground", 
+    "point": [
+      41.10877789, 
+      -122.7046158
+    ], 
+    "time": 19435
+  }, 
+  {
+    "name": "Tomhead Saddle Campground", 
+    "point": [
+      40.14053414, 
+      -122.8291488
+    ], 
+    "time": 19388
+  }, 
+  {
+    "name": "Trout Creek Campground", 
+    "point": [
+      41.44528067, 
+      -121.885576
+    ], 
+    "time": 19350
+  }, 
+  {
+    "name": "Upper Jones Valley Campground", 
+    "point": [
+      40.73007774, 
+      -122.230025
+    ], 
+    "time": 14362
+  }, 
+  {
+    "name": "Trinity Lake/Weaverville Area", 
+    "point": [
+      40.98128051, 
+      -122.7689665
+    ], 
+    "time": 20666
+  }, 
+  {
+    "name": "Ukonom Ranger District", 
+    "point": [
+      41.482588, 
+      -123.410797
+    ], 
+    "time": 27596
+  }, 
+  {
+    "name": "Upper Lake Recreation  Area", 
+    "point": [
+      39.319815, 
+      -122.891868
+    ], 
+    "time": 14028
+  }, 
+  {
+    "name": "Three Prong Campground", 
+    "point": [
+      39.920478, 
+      -122.792384
+    ], 
+    "time": 16642
+  }, 
+  {
+    "name": "Tenmile Campground", 
+    "point": [
+      36.754, 
+      -118.8935
+    ], 
+    "time": 14403
+  }, 
+  {
+    "name": "Troy Meadow Campground", 
+    "point": [
+      36.0668134, 
+      -118.235298
+    ], 
+    "time": 24237
+  }, 
+  {
+    "name": "Thorn Meadows Campground", 
+    "point": [
+      34.62694444, 
+      -119.1130556
+    ], 
+    "time": 18407
+  }, 
+  {
+    "name": "Toad Springs Campground", 
+    "point": [
+      34.860727, 
+      -119.228148
+    ], 
+    "time": 17027
+  }, 
+  {
+    "name": "Upper Chiquito Campground", 
+    "point": [
+      37.50239523, 
+      -119.4088053
+    ], 
+    "time": 15344
+  }, 
+  {
+    "name": "Tonopah Ranger District Office", 
+    "point": [
+      38.06571, 
+      -117.227849
+    ], 
+    "time": 27333
+  }, 
+  {
+    "name": "Toquima Cave Campground", 
+    "point": [
+      39.1877, 
+      -116.7905
+    ], 
+    "time": 28600
+  }, 
+  {
+    "name": "Upper Bluster Campground", 
+    "point": [
+      41.8435, 
+      -115.4259
+    ], 
+    "time": 39605
+  }, 
+  {
+    "name": "Upper Grays Meadow Campground", 
+    "point": [
+      36.78162, 
+      -118.289323
+    ], 
+    "time": 24884
+  }, 
+  {
+    "name": "Talbot Campground", 
+    "point": [
+      39.187667, 
+      -120.373904
+    ], 
+    "time": 16827
+  }, 
+  {
+    "name": "Tool Box Springs Campground", 
+    "point": [
+      33.611845, 
+      -116.661424
+    ], 
+    "time": 27701
+  }, 
+  {
+    "name": "Tipsu Tyee Campground", 
+    "point": [
+      42.03551705, 
+      -123.1254947
+    ], 
+    "time": 24882
+  }, 
+  {
+    "name": "TEN MILE CAMPGROUND (CA)", 
+    "point": [
+      36.794166666667, 
+      -118.907777777778
+    ], 
+    "time": 14596
+  }, 
+  {
+    "name": "WENCH CREEK", 
+    "point": [
+      38.890277777778, 
+      -120.377222222222
+    ], 
+    "time": 13127
+  }, 
+  {
+    "name": "WHITNEY PORTAL", 
+    "point": [
+      36.589861111111, 
+      -118.229777777778
+    ], 
+    "time": 24648
+  }, 
+  {
+    "name": "WHEELER GORGE", 
+    "point": [
+      34.511944444444, 
+      -119.273611111111
+    ], 
+    "time": 18894
+  }, 
+  {
+    "name": "UPPER SAGE FLAT", 
+    "point": [
+      37.125833333333, 
+      -118.433888888889
+    ], 
+    "time": 26826
+  }, 
+  {
+    "name": "WHITE CLOUD", 
+    "point": [
+      39.320555555556, 
+      -120.845277777778
+    ], 
+    "time": 11862
+  }, 
+  {
+    "name": "WAWONA", 
+    "point": [
+      37.573055555556, 
+      -119.665
+    ], 
+    "time": 13804
+  }, 
+  {
+    "name": "UPPER PINES", 
+    "point": [
+      37.736111111111, 
+      -119.5625
+    ], 
+    "time": 13675
+  }, 
+  {
+    "name": "Whiskey Creek Group Picnic Area (Whiskeytown NRA)", 
+    "point": [
+      40.6475, 
+      -122.553055555556
+    ], 
+    "time": 14471
+  }, 
+  {
+    "name": "WHITE RIVER", 
+    "point": [
+      35.845833333333, 
+      -118.634722222222
+    ], 
+    "time": 17646
+  }, 
+  {
+    "name": "VERMILLION", 
+    "point": [
+      37.379166666667, 
+      -119.009722222222
+    ], 
+    "time": 18307
+  }, 
+  {
+    "name": "WEST EAGLE CAMPGROUND", 
+    "point": [
+      40.548611111111, 
+      -120.781388888889
+    ], 
+    "time": 19889
+  }, 
+  {
+    "name": "VAN VLECK BUNKHOUSE", 
+    "point": [
+      38.929166666667, 
+      -120.325
+    ], 
+    "time": 14238
+  }, 
+  {
+    "name": "WARM SPRINGS REC AREA", 
+    "point": [
+      38.717777777778, 
+      -122.999166666667
+    ], 
+    "time": 7559
+  }, 
+  {
+    "name": "WILD HORSE EQUESTRIAN FAMILY", 
+    "point": [
+      34.201944444444, 
+      -116.767222222222
+    ], 
+    "time": 26948
+  }, 
+  {
+    "name": "UPPER STONY CREEK CAMPGROUND", 
+    "point": [
+      36.664722222222, 
+      -118.831666666667
+    ], 
+    "time": 14472
+  }, 
+  {
+    "name": "WHITEHORSE CAMPGROUND", 
+    "point": [
+      39.888055555556, 
+      -121.141111111111
+    ], 
+    "time": 15862
+  }, 
+  {
+    "name": "WAKALUMI RECREATION AREA", 
+    "point": [
+      37.124722222222, 
+      -119.897222222222
+    ], 
+    "time": 9675
+  }, 
+  {
+    "name": "West Branch Campground", 
+    "point": [
+      41.93151, 
+      -123.47506
+    ], 
+    "time": 26711
+  }, 
+  {
+    "name": "West Point Campground", 
+    "point": [
+      38.871327, 
+      -120.440058
+    ], 
+    "time": 12900
+  }, 
+  {
+    "name": "Wentworth Springs Campground", 
+    "point": [
+      39.01134, 
+      -120.323806
+    ], 
+    "time": 16090
+  }, 
+  {
+    "name": "White Rock Campground", 
+    "point": [
+      40.25318848, 
+      -123.0228627
+    ], 
+    "time": 18106
+  }, 
+  {
+    "name": "Wells Cabin Campground", 
+    "point": [
+      39.83652, 
+      -122.949034
+    ], 
+    "time": 18742
+  }, 
+  {
+    "name": "Whitlock Campground", 
+    "point": [
+      39.919896, 
+      -122.686533
+    ], 
+    "time": 14669
+  }, 
+  {
+    "name": "Upper San Juan Campground", 
+    "point": [
+      33.60694444, 
+      -117.4327778
+    ], 
+    "time": 23892
+  }, 
+  {
+    "name": "Western Divide Ranger District", 
+    "point": [
+      36.101522, 
+      -118.846552
+    ], 
+    "time": 14264
+  }, 
+  {
+    "name": "White Oaks Campground", 
+    "point": [
+      36.32638889, 
+      -121.5736111
+    ], 
+    "time": 9127
+  }, 
+  {
+    "name": "Valle Vista Campground", 
+    "point": [
+      34.878175, 
+      -119.341438
+    ], 
+    "time": 16371
+  }, 
+  {
+    "name": "Upper Shake Campground - Closed", 
+    "point": [
+      34.690594, 
+      -118.529636
+    ], 
+    "time": 17621
+  }, 
+  {
+    "name": "Voyager Rock Camping Area", 
+    "point": [
+      37.10947139, 
+      -118.965077
+    ], 
+    "time": 16635
+  }, 
+  {
+    "name": "Ward Lake Campground", 
+    "point": [
+      37.30163399, 
+      -118.9861025
+    ], 
+    "time": 17605
+  }, 
+  {
+    "name": "West Kaiser Campground", 
+    "point": [
+      37.34488462, 
+      -119.2380116
+    ], 
+    "time": 16749
+  }, 
+  {
+    "name": "Whiskers Campground", 
+    "point": [
+      37.33384854, 
+      -119.4914986
+    ], 
+    "time": 13289
+  }, 
+  {
+    "name": "Whisky Falls Campground", 
+    "point": [
+      37.28586164, 
+      -119.4403792
+    ], 
+    "time": 13622
+  }, 
+  {
+    "name": "Upper Virginia Creek Primitive Campground", 
+    "point": [
+      38.0599, 
+      -119.2371
+    ], 
+    "time": 20392
+  }, 
+  {
+    "name": "White Mountain Ranger District", 
+    "point": [
+      37.36898, 
+      -118.3952
+    ], 
+    "time": 23815
+  }, 
+  {
+    "name": "Watkins Campground", 
+    "point": [
+      42.02378392, 
+      -123.1586859
+    ], 
+    "time": 24025
+  }, 
+  {
+    "name": "Whiskey Springs Campground", 
+    "point": [
+      42.49278853, 
+      -122.4176341
+    ], 
+    "time": 24654
+  }, 
+  {
+    "name": "WOODED HILL GROUP", 
+    "point": [
+      32.850277777778, 
+      -116.42
+    ], 
+    "time": 29104
+  }, 
+  {
+    "name": "WRIGHTS LAKE", 
+    "point": [
+      38.849444444444, 
+      -120.231111111111
+    ], 
+    "time": 14162
+  }, 
+  {
+    "name": "YELLOWJACKET", 
+    "point": [
+      38.891666666667, 
+      -120.391666666667
+    ], 
+    "time": 13571
+  }, 
+  {
+    "name": "WOLF CREEK CALIFORNIA", 
+    "point": [
+      38.883055555556, 
+      -120.4
+    ], 
+    "time": 13671
+  }, 
+  {
+    "name": "YUBA PASS CAMPGROUND", 
+    "point": [
+      39.6175, 
+      -120.499444444444
+    ], 
+    "time": 15082
+  }, 
+  {
+    "name": "WOODCAMP CAMPGROUND", 
+    "point": [
+      39.485555555556, 
+      -120.547777777778
+    ], 
+    "time": 16593
+  }, 
+  {
+    "name": "WISHON", 
+    "point": [
+      36.1875, 
+      -118.6625
+    ], 
+    "time": 16106
+  }, 
+  {
+    "name": "WILLIAM KENT CAMPGROUND", 
+    "point": [
+      39.138333333333, 
+      -120.156111111111
+    ], 
+    "time": 13664
+  }, 
+  {
+    "name": "WISHON BASS LAKE", 
+    "point": [
+      37.297222222222, 
+      -119.533888888889
+    ], 
+    "time": 11807
+  }, 
+  {
+    "name": "WISHON CABIN", 
+    "point": [
+      36.1875, 
+      -118.6625
+    ], 
+    "time": 16106
+  }, 
+  {
+    "name": "WILD PLUM", 
+    "point": [
+      39.566388888889, 
+      -120.599166666667
+    ], 
+    "time": 14653
+  }, 
+  {
+    "name": "Woods Lake Campground", 
+    "point": [
+      38.686876, 
+      -120.009384
+    ], 
+    "time": 12680
+  }, 
+  {
+    "name": "Yolla Bolla Area", 
+    "point": [
+      40.26972341, 
+      -123.0094175
+    ], 
+    "time": 18862
+  }, 
+  {
+    "name": "Zephyr Cove Day Use Area", 
+    "point": [
+      39.0081, 
+      -119.9481
+    ], 
+    "time": 14078
+  }, 
+  {
+    "name": "Zephyr Cove Resort &amp; Campground", 
+    "point": [
+      39.0065, 
+      -119.9464
+    ], 
+    "time": 14069
+  }, 
+  {
+    "name": "William Kent Day Use Area", 
+    "point": [
+      39.1389, 
+      -120.154
+    ], 
+    "time": 13622
+  }, 
+  {
+    "name": "Yolla Bolly-Middle Eel Wilderness", 
+    "point": [
+      40.042055, 
+      -122.980957
+    ], 
+    "time": 22030
+  }, 
+  {
+    "name": "Wildomar Campground", 
+    "point": [
+      33.58166667, 
+      -117.3419444
+    ], 
+    "time": 24879
+  }, 
+  {
+    "name": "Wildomar OHV Area", 
+    "point": [
+      33.58611, 
+      -117.337046
+    ], 
+    "time": 24474
+  }, 
+  {
+    "name": "Zuni Campground - Closed", 
+    "point": [
+      34.50875, 
+      -118.453818
+    ], 
+    "time": 17993
+  }, 
+  {
+    "name": "Wildhorse Crossing Campground", 
+    "point": [
+      41.7226, 
+      -115.9001
+    ], 
+    "time": 32506
+  }, 
+  {
+    "name": "Willow Creek Campground", 
+    "point": [
+      41.01305556, 
+      -120.8280556
+    ], 
+    "time": 20703
+  }, 
+  {
+    "name": "Woodchuck Campground", 
+    "point": [
+      39.332855, 
+      -120.519262
+    ], 
+    "time": 11951
+  }, 
+  {
+    "name": "Wrangle Campground", 
+    "point": [
+      42.05025794, 
+      -122.8559198
+    ], 
+    "time": 24159
+  }
+]
