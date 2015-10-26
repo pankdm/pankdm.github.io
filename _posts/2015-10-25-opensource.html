@@ -1,0 +1,163 @@
+---
+layout: post
+title:  "Open Source Contribution"
+categories:
+---
+
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+<table id='opensource-table'
+    width=100%
+    box-sizing="border-box"
+    table-layout="fixed"
+>
+</table>
+
+
+<script>
+function tableCell(text) {
+  return '<td>' + text + '</td>';
+}
+function tableRow(text) {
+  return '<tr>' + text + '</tr>';
+}
+
+String.format = function() {
+    // The string containing the format items (e.g. "{0}")
+    // will and always has to be the first argument.
+    var theString = arguments[0];
+
+    // start with the second argument (i = 1)
+    for (var i = 1; i < arguments.length; i++) {
+        // "gm" = RegEx options for Global search (more than one instance)
+        // and for Multiline search
+        var regEx = new RegExp("\\{" + (i - 1) + "\\}", "gm");
+        theString = theString.replace(regEx, arguments[i]);
+    }
+
+    return theString;
+}
+
+
+function addToTable(table, info) {
+  currentRow = '';
+  {
+    link = String.format('https://github.com/{0}/{1}',
+      info['org'],
+      info['repo']
+    );
+    s = String.format('<a href = {0}> {1} </a>',
+      link,
+      info['repo']
+    );
+    currentRow += tableCell(s);
+  }
+  {
+    s = '<span class="github">';
+    link = String.format('https://github.com/{0}/{1}/commits/master?author={2}',
+      info['org'],
+      info['repo'],
+      info['author']
+    );
+    cc = '';
+    cc += String.format('<a href ={0}>{1} commits </a>',
+      link,
+      info['commits']
+    );
+    cc += String.format(' / <span class="a"> {0}++ </span>',
+      info['added']
+    );
+    cc += String.format(' / <span class="d">{0}-- </span>',
+      info['deleted']
+    );
+    s += '<code>' + cc + '</code>';
+    s += '</span>';
+    currentRow += tableCell(s);
+  }
+  // {
+  //   s = '<span class="github">';
+  //   link = String.format('https://github.com/{0}/{1}/commits/master?author={2}',
+  //     info['org'],
+  //     info['repo'],
+  //     info['author']
+  //   );
+  //   s += String.format('<a href ={0}><code>{1} commits </code></a>',
+  //     link,
+  //     info['commits']
+  //   );
+  //   s += '</span>';
+  //   currentRow += tableCell(s);
+  // }
+  // {
+  //   s = String.format('<span class="github"><span class="a"><code> {0}++ </code></span></span>',
+  //     info['added']
+  //   );
+  //   currentRow += tableCell(s);
+  // }
+  // {
+  //   s = String.format('<span class="github"><span class="d"><code> {0}-- </code></span></span>',
+  //     info['deleted']
+  //   );
+  //   currentRow += tableCell(s);
+  // }
+  $(table).append(tableRow(currentRow));
+}
+</script>
+
+<script>
+infos = [{
+  'org': 'facebook',
+  'repo': 'folly',
+  'author': 'pankdm-fb',
+  'commits': 2,
+  'added': 14,
+  'deleted': 7,
+}, {
+  'org': 'facebook',
+  'repo': 'hhvm',
+  'author': 'pankdm-fb',
+  'commits': 2,
+  'added': '??',
+  'deleted': '??',
+}, {
+  'org': 'php',
+  'repo': 'php-src',
+  'author': 'pankdm',
+  'commits': 3,
+  'added': '??',
+  'deleted': '??',
+}, {
+  'org': 'mpetazzoni',
+  'repo': 'ttorrent',
+  'author': 'pankdm',
+  'commits': 5,
+  'added': 117,
+  'deleted': 25,
+}, {
+  'org': 'WagicProject',
+  'repo': 'wagic',
+  'author': 'pankdm',
+  'commits': 36,
+  'added': '2,241',
+  'deleted': 329,
+}, {
+  'org': 'ErshKUS',
+  'repo': 'OpenStreetMap.ru',
+  'author': 'pankdm',
+  'commits': 29,
+  'added': 673,
+  'deleted': 433,
+}, {
+  'org': 'davidcelis',
+  'repo': 'language-thrift',
+  'author': 'pankdm',
+  'commits': 1,
+  'added': 1,
+  'deleted': 0,
+}];
+
+for (i in infos) {
+  addToTable('#opensource-table', infos[i]);
+}
+</script>
