@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Places</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.css' rel='stylesheet' />
+<!-- <script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.6/mapbox.css' rel='stylesheet' /> -->
+
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+</style>
+</head>
+
+<body>
+
+<div id='map'></div>
+
+
+<script>
+// Provide your access token
+L.mapbox.accessToken = 'pk.eyJ1IjoicGFua2RtIiwiYSI6Ik5rdUFuak0ifQ.zDNPCTkra_ocxGs-SxwcYA';
+
+// Create a map in the div #map
+startPoint = [37.47, -122.14];
+var map = L.mapbox.map('map', null)
+    .setView(startPoint, 7);
+L.control.layers({
+  'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets'),
+  'Mapbox Outdoors': L.mapbox.tileLayer('mapbox.outdoors').addTo(map),
+  'Mapbox Emerald': L.mapbox.tileLayer('mapbox.emerald'),
+  'Mapbox Light': L.mapbox.tileLayer('mapbox.light'),
+  'Mapbox Dark': L.mapbox.tileLayer('mapbox.dark'),
+}).addTo(map);
+
+var layer = L.mapbox.featureLayer('pankdm.l31a4j5d').addTo(map);
+layer.on('mouseover', function(e) {
+    e.layer.openPopup();
+});
+layer.on('mouseout', function(e) {
+    e.layer.closePopup();
+});
+
+</script>
+
+</body>
+</html>

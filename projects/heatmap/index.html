@@ -66,8 +66,11 @@ var map = L.mapbox.map('map', null)
 // };
 
 L.control.layers({
-    'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
-    'Mapbox Light': L.mapbox.tileLayer('mapbox.light')
+  'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
+  'Mapbox Outdoors': L.mapbox.tileLayer('mapbox.outdoors'),
+  'Mapbox Emerald': L.mapbox.tileLayer('mapbox.emerald'),
+  'Mapbox Light': L.mapbox.tileLayer('mapbox.light'),
+  'Mapbox Dark': L.mapbox.tileLayer('mapbox.dark'),
 }).addTo(map);
 
 // layers.Mabox.addTo(map);
