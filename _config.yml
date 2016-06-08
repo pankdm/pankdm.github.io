@@ -3,7 +3,13 @@ title: Welcome to Nowhere
 github_username:  pankdm
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+
+kramdown:
+  input: GFM
+  hard_wrap: false
 
 #Other
 permalink: /:categories/:title.html

@@ -49,6 +49,9 @@ $red-color:       #bd2c00;
 @import
         "base",
         "layout",
-        "syntax-highlighting",
+        // "syntax-highlighting",
+        // use sublime highlight scheme from
+        // http://vps.abeysuriya.com/2015/09/17/jekyll-syntax-highlighting.html
+        "syntax-sublime",
         "my"
 ;
