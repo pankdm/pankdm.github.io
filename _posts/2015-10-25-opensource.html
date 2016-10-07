@@ -40,27 +40,27 @@ String.format = function() {
 
 function addToTable(table, info) {
   currentRow = '';
+  repo_link = String.format('https://github.com/{0}/{1}/commits/master?author={2}',
+    info['org'],
+    info['repo'],
+    info['author']
+  );
   {
-    link = String.format('https://github.com/{0}/{1}',
-      info['org'],
-      info['repo']
-    );
+    // link = String.format('https://github.com/{0}/{1}',
+    //   info['org'],
+    //   info['repo']
+    // );
     s = String.format('<a href = {0}> {1} </a>',
-      link,
+      repo_link,
       info['repo']
     );
     currentRow += tableCell(s);
   }
   {
     s = '<span class="github">';
-    link = String.format('https://github.com/{0}/{1}/commits/master?author={2}',
-      info['org'],
-      info['repo'],
-      info['author']
-    );
     cc = '';
     cc += String.format('<a href ={0}>{1} commits </a>',
-      link,
+      repo_link,
       info['commits']
     );
     cc += String.format(' / <span class="a"> {0}++ </span>',
