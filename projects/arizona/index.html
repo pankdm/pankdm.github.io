@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset=utf-8 />
-<title>Canada Trip 2016</title>
+<title>Arizona Trip 2016</title>
 <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
 
 <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
@@ -16,6 +16,23 @@
 <style>
   body { margin:0; padding:0; }
   #map { position:absolute; top:0; bottom:0; width:100%; }
+  #marker-list {
+    position:absolute;
+    top:0; right:0; width:200px;
+    bottom:0;
+    overflow-x:auto;
+    background:#fff;
+    margin:0;
+    padding:5px;
+  }
+  #marker-list li {
+      padding:5px;
+      margin:0;
+      list-style-type:none;
+  }
+  #marker-list li:hover {
+      background:#eee;
+  }
 </style>
 </head>
 
@@ -34,15 +51,16 @@
 </style>
 
 <div id='map'></div>
+<!-- <ul id='marker-list'></ul> -->
 
 
 <script>
 // Provide your access token
 L.mapbox.accessToken = 'pk.eyJ1IjoicGFua2RtIiwiYSI6Ik5rdUFuak0ifQ.zDNPCTkra_ocxGs-SxwcYA';
 
-startPoint = [52.387876, -115.774817];
-var map = L.mapbox.map('map', null)
-    .setView(startPoint, 7);
+// startPoint = [52.387876, -115.774817];
+var map = L.mapbox.map('map', null);
+//     .setView(startPoint, 7);
 L.control.layers({
   'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
   'Mapbox Outdoors': L.mapbox.tileLayer('mapbox.outdoors'),
@@ -52,7 +70,9 @@ L.control.layers({
 }).addTo(map);
 
 
-$.getJSON('canada-trip.geojson', function(data) {
+var markerList = document.getElementById('marker-list');
+
+$.getJSON('arizona-trip-2.geojson', function(data) {
     myLayer = L.mapbox.featureLayer(data);
     myLayer.addTo(map);
     myLayer.setFilter(function(feature) {
@@ -60,8 +80,50 @@ $.getJSON('canada-trip.geojson', function(data) {
       // return true;
       return feature.geometry.type == "LineString";
     });
-    myLayer.setStyle({color: 'blue'});
+    myLayer.setStyle({
+      color: 'blue',
+    });
     map.fitBounds(myLayer.getBounds());
+    console.log(myLayer)
+    for (i in myLayer._layers) {
+      layer = myLayer._layers[i]
+      if (layer.feature.geometry.type != "LineString") {
+        continue;
+      }
+      // title is of the form "Day X"
+      title = layer.feature.properties.title;
+      // extract X from title
+      number = title.match(/\d+/g);
+
+      c = layer.feature.geometry.coordinates;
+      lastPoint = c[c.length - 1];
+      var marker = L.marker([lastPoint[1], lastPoint[0]], {
+        icon: L.mapbox.marker.icon({
+            'marker-color': '#1087bf',
+            // 'marker-size': 'large',
+            'marker-symbol': number,
+        })
+      })
+      marker.addTo(map)
+    }
+
+    // myLayer.eachLayer(function(layer) {
+    //   var item = markerList.appendChild(document.createElement('li'));
+    //   item.innerHTML = layer.feature.properties.title;
+    //   var isSet = false
+    //   item.onclick = function() {
+    //     if (isSet) {
+    //       layer.setStyle({
+    //         color : 'blue',
+    //       })
+    //     } else {
+    //       layer.setStyle({
+    //         color : 'red',
+    //       })
+    //     }
+    //     isSet = !isSet
+    //   }
+    // });
 });
 
 $.getJSON("photos.json", function(data) {
@@ -78,7 +140,6 @@ $.getJSON("photos.json", function(data) {
       })
 
       popupContent = "<img src=" + img_link + " width=280 height=280>";
-      // popupContent = 'AAA
       marker.bindPopup(popupContent, {
           closeButton: false,
       })
