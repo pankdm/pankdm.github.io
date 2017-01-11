@@ -5,11 +5,32 @@ title:  "Personal MacOS setup"
 
 ## Trackpad settings
 
-System Preferences -> Trackpad
+`System Preferences -> Trackpad`:
 
 * Secondary click by right corner
 * Enable `Tap to Click`
 * Disable `Scroll Direction: Natural`
+
+## Keyboard settings
+
+`System Preferences -> Keyboard`:
+
+* Maximum `Key Repeat`
+* Maximum `Delay Until Repeat`
+* Enable `Use F1, F2, etc as standard`
+
+
+## CapsLock to switch languages
+
+Reference: [stackoverflow](http://apple.stackexchange.com/questions/256342/use-caps-lock-to-switch-to-and-from-languages-on-sierra)
+
+
+1. Install Karabiner-elements: <https://github.com/tekezo/Karabiner-Elements>
+2. Remap CapsLock to f19
+3. `System Preferences -> Keyboard -> Key modifiers`: disable CapsLock
+4. `System Preferences -> Keyboard -> Shortcuts -> Input Sources`:
+press CapsLock to change languages
+
 
 ## Configs
 
@@ -37,7 +58,7 @@ export CLICOLOR=1 # enable colored `ls`
 
 ## Install brew
 
-See [http://brew.sh/](http://brew.sh/)
+See <http://brew.sh>
 
 
 ## Install mosh
