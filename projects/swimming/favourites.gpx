@@ -1,0 +1,1005 @@
+
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="32.95169" lon="-116.30582">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.807292" lon="-122.423542">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.9293" lon="-121.0385">
+    <name>CLARKS HOLE [CLAH]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.9293" lon="-121.0385">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.9507" lon="-122.7645">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.24828" lon="-121.77803">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.25026" lon="-121.78214">
+    <name>CAMPGROUND [CAMP]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.24815" lon="-121.76988">
+    <name>GORGE [GORG]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.126250" lon="-121.641742">
+    <name>ESALEN HOT SPRINGS [ESAL]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="35.81601" lon="-121.35673">
+    <name>SALMON CREEK FALLS [SALF]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="33.12470 " lon="-116.80211">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat=" 33.12718" lon="-116.80351">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="33.52696" lon="-117.77018">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.24569" lon="-119.20494">
+    <name>TRAVERTINE [TRAV]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.23881" lon="-119.32633">
+    <name>BUCKEYE [BUCE]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.19346" lon="-119.75297">
+    <name>CARSON HOT SPRINGS RESORT [CARS]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="32.9898" lon="-116.730">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.7622" lon="-121.7923">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.72900" lon="-121.70528">
+    <name>BUTTE CREEK[BUTT]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.8576" lon="-121.3904">
+    <name>FEATHER RIVER [FEAT]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.64306" lon="-121.27333">
+    <name>FEATHER FALLS [FEAF]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.8611" lon="-121.3628">
+    <name>GRIZZLY CREEK [GRIC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.9078" lon="-121.3636">
+    <name>ROCK CREEK [ROCK]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.65512" lon="-120.66586">
+    <name>HAPPY VALLEY [HAPP]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.625633" lon="-120.7009">
+    <name>TWIN BRIDGES [TWIN]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.70769" lon="-122.05476">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.32077" lon="-117.5245">
+    <name>DARWIN FALLS [DARW]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="35.85609" lon="-117.3809">
+    <name>GREAT FALLS [GREA]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.37702315" lon="-123.3269428">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.9858" lon="-120.0530">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.87892" lon="-123.43273">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.74770" lon="-123.3554">
+    <name>ELK CREEK HOLES[ELKC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.66062 " lon="-123.31937">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.72866" lon="-95.07253">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.71012" lon="-123.44805">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.78767" lon="-122.65556">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.87232" lon="-121.8955">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.6903" lon="-118.8403">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.3225" lon="-123.9928">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.47573" lon="-124.10759">
+    <name>SCOTIA FIREMENS PARK [SCOT]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.35385" lon="-123.92775">
+    <name>LEATHERWOOD BAR [LEAT]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.34269" lon="-123.93881">
+    <name>WOMENS FEDERATION GROVE [WOME]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.29219" lon="-123.90210">
+    <name>GARDEN CLUB GROVE [GARD]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="35.965980" lon="-118.480017">
+    <name>LIMESTONE CAMPGROUND [LIME]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="35.9711" lon="-118.4714">
+    <name>BRUSH CREEK [BRUS]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.2797" lon="-117.1286">
+    <name>AZTEC FALLS [AZTC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.36370" lon="-117.16198">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.3394" lon="-117.1769">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.11312" lon="-122.11827">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.27350" lon="-122.28983">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.326" lon="-119.018">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.17876" lon="-123.70181">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.08553" lon="-123.48508">
+    <name>PHILO [PHIL]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.06116" lon="-123.43658">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.09677" lon="-118.7168">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.50409" lon="-122.93080">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.43106" lon="-123.06983">
+    <name>WILLOW CREEK BEACH [WICB]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.172683" lon="-121.492538">
+    <name>CHINA HOLE [CHIN]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.23472" lon="-121.48333">
+    <name>ARROYO SECO RIVER[ARRO]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.4732" lon="-119.70799">
+    <name>SEVEN FALLS [SEVE]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.54389" lon="-119.8047">
+    <name>WHITE ROCK [WHIT]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.53932" lon="-119.70625">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.580343" lon="-119.260846">
+    <name>SESPE GORGE [SESP]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.427571" lon="-119.089664">
+    <name>PUNCHBOWLS [PUNC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.023392" lon="-122.058262">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.12609" lon="-122.12131">
+    <name>JUNCTION PARK [JUNC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.5196" lon="-118.8013">
+    <name>MARBLE FORK [MARB]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.51831" lon="-118.76064">
+    <name>PARADISE CREEK [PARC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.6085" lon="-118.6909">
+    <name>TOKOPAH FALLS [TOKO]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.665693" lon="-118.834486">
+    <name>STONY CREEK [STON]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.8182" lon="-124.0383">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.65347" lon="-123.86478">
+    <name>SOUTH FORK SMITH RIVER [SOUS]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.6505" lon="-123.8461">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.6433" lon="-123.8097">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.87931" lon="-123.73806">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.8986" lon="-123.7511">
+    <name>SMITHE REDWOODS STATE RESERVE [SMIT]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="34.26640" lon="-118.14483">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.139" lon="-120.244">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.203892" lon="-120.251241">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.20217" lon="-120.27053">
+    <name>SHIRLEY LAKE [SHIL]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.17535" lon="-120.25227">
+    <name>FIVE LAKES [FIVL]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.16503" lon="-120.17415">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.67906" lon="-120.13127">
+    <name>THE POTHOLES ON SILVER FORK [POTH]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.47883" lon="-120.26864">
+    <name>MOORE CREEK [MOOR]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.7008" lon="-119.8392">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="38.69819" lon="-119.86321">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.2569" lon="-118.6625">
+    <name>HIDDEN FALLS [HIDD]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.1490" lon="-118.7525">
+    <name>LOWER COFFEE CAMP [LOWC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="36.18899" lon="-118.66119">
+    <name>CAMP WISHON [CAMW]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.49955" lon="-123.98236">
+    <name>PAMPLIN GROVE [PAMP]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.48748" lon="-123.97184">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.48913" lon="-123.97874">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.48326" lon="-123.96289">
+    <name>CHEATHAM GROVE [CHEA]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.48684" lon="-123.90512">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.78722" lon="-123.135">
+    <name>PARADISE POOLS [PARA]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.73628" lon="-123.19359">
+    <name>BIG FLAT [BIGF]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.73655" lon="-123.23438">
+    <name>SKUNK POINT [SKUN]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.023" lon="-123.638">
+    <name>TISH TANG [TISH]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="41.25210" lon="-123.63610">
+    <name>BIG BAR [BIGB]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="40.9466" lon="-123.65968">
+    <name>BOISE [BOIS]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.59589" lon="-119.98450">
+    <name>BRYCEBURG RECREATION AREA [BRYC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.64972" lon="-119.88503">
+    <name>HITES COVE [HITE]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.74178" lon="-119.58331">
+    <name>MERCED RIVER [MERC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.47073" lon="-119.61622">
+    <name>FISH CAMP FALLS [FISF]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.46694444" lon="-119.6041667">
+    <name>SKINNY DIP [SKIN]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.4672" lon="-119.6075">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.53869" lon="-119.65583">
+    <name>WAWONA [WAWO]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.55544" lon="-119.62722">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.82156" lon="-120.01236">
+    <name>RAINBOW POOLS [RAIP]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.7425" lon="-119.7055">
+    <name>CASCADE CREEK [CASC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.7166" lon="-119.666">
+    <name>POHONO BRIDGE [POHO]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.93172" lon="-119.46569">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="37.7433" lon="-120.0455">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.330197" lon="-120.984125">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.3322" lon="-120.98944">
+    <name>MOUNTAIN DOG  [MOUN]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.34028" lon="-120.9489">
+    <name>NORTH CANYON [NORC]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.29799" lon="-121.08922">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.29222" lon="-121.19381">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.39407" lon="-121.08455">
+    <name>MIDDLE YUBA BRIDGE [MIDB]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.38353" lon="-121.10006">
+    <name>MUSHROOM HOLE [MUSH]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.404972" lon="-121.0754">
+    <name>Unknown</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.55952" lon="-120.82770">
+    <name>DOWNIEVILLE AREA[DOWN]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.33419" lon="-120.58503">
+    <name>INDIAN SPRINGS [INDI]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.70064" lon="-120.65908">
+    <name>LAKES BASIN CAMPGROUND [LAKE]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+  <wpt lat="39.7607303" lon="-120.6954985">
+    <name>JOHNSVILLE [JOHN]</name>
+    <type>Swimming holes</type>
+
+            <extensions>
+              <color>#b410c0f0</color>
+            </extensions>
+  </wpt>
+</gpx>

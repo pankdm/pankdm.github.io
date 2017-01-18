@@ -1,0 +1,1444 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+ 
+
+    <name>Swimming Holes</name>
+    <visibility>1</visibility>
+
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-116.30582,32.95169</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.423542,37.807292</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>CLARKS HOLE [CLAH]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.0385,38.9293</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.0385,38.9293</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.7645,37.9507</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.77803,36.24828</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>CAMPGROUND [CAMP]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.78214,36.25026</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>GORGE [GORG]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.76988,36.24815</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>ESALEN HOT SPRINGS [ESAL]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.641742,36.126250</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SALMON CREEK FALLS [SALF]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.35673,35.81601</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-116.80211,33.12470 </coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-116.80351, 33.12718</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-117.77018,33.52696</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>TRAVERTINE [TRAV]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.20494,38.24569</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>BUCKEYE [BUCE]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.32633,38.23881</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>CARSON HOT SPRINGS RESORT [CARS]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.75297,39.19346</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-116.730,32.9898</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.7923,39.7622</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>BUTTE CREEK[BUTT]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.70528,39.72900</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>FEATHER RIVER [FEAT]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.3904,39.8576</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>FEATHER FALLS [FEAF]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.27333,39.64306</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>GRIZZLY CREEK [GRIC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.3628,39.8611</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>ROCK CREEK [ROCK]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.3636,39.9078</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>HAPPY VALLEY [HAPP]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.66586,38.65512</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>TWIN BRIDGES [TWIN]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.7009,38.625633</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.05476,37.70769</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>DARWIN FALLS [DARW]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-117.5245,36.32077</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>GREAT FALLS [GREA]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-117.3809,35.85609</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.3269428,40.37702315</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.0530,37.9858</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.43273,41.87892</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>ELK CREEK HOLES[ELKC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.3554,41.74770</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.31937,41.66062 </coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-95.07253,41.72866</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.44805,41.71012</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.65556,38.78767</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.8955,40.87232</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.8403,37.6903</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.9928,40.3225</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SCOTIA FIREMENS PARK [SCOT]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-124.10759,40.47573</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>LEATHERWOOD BAR [LEAT]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.92775,40.35385</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>WOMENS FEDERATION GROVE [WOME]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.93881,40.34269</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>GARDEN CLUB GROVE [GARD]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.90210,40.29219</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>LIMESTONE CAMPGROUND [LIME]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.480017,35.965980</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>BRUSH CREEK [BRUS]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.4714,35.9711</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>AZTEC FALLS [AZTC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-117.1286,34.2797</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-117.16198,34.36370</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-117.1769,34.3394</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.11827,41.11312</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.28983,37.27350</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.018,37.326</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.70181,39.17876</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>PHILO [PHIL]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.48508,39.08553</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.43658,39.06116</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.7168,34.09677</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.93080,38.50409</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>WILLOW CREEK BEACH [WICB]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.06983,38.43106</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>CHINA HOLE [CHIN]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.492538,37.172683</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>ARROYO SECO RIVER[ARRO]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.48333,36.23472</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SEVEN FALLS [SEVE]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.70799,34.4732</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>WHITE ROCK [WHIT]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.8047,34.54389</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.70625,34.53932</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SESPE GORGE [SESP]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.260846,34.580343</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>PUNCHBOWLS [PUNC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.089664,34.427571</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.058262,37.023392</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>JUNCTION PARK [JUNC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-122.12131,37.12609</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>MARBLE FORK [MARB]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.8013,36.5196</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>PARADISE CREEK [PARC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.76064,36.51831</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>TOKOPAH FALLS [TOKO]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.6909,36.6085</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>STONY CREEK [STON]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.834486,36.665693</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-124.0383,41.8182</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SOUTH FORK SMITH RIVER [SOUS]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.86478,41.65347</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.8461,41.6505</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.8097,41.6433</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.73806,39.87931</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SMITHE REDWOODS STATE RESERVE [SMIT]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.7511,39.8986</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.14483,34.26640</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.244,39.139</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.251241,39.203892</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SHIRLEY LAKE [SHIL]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.27053,39.20217</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>FIVE LAKES [FIVL]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.25227,39.17535</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.17415,39.16503</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>THE POTHOLES ON SILVER FORK [POTH]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.13127,38.67906</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>MOORE CREEK [MOOR]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.26864,38.47883</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.8392,38.7008</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.86321,38.69819</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>HIDDEN FALLS [HIDD]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.6625,36.2569</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>LOWER COFFEE CAMP [LOWC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.7525,36.1490</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>CAMP WISHON [CAMW]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-118.66119,36.18899</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>PAMPLIN GROVE [PAMP]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.98236,40.49955</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.97184,40.48748</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.97874,40.48913</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>CHEATHAM GROVE [CHEA]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.96289,40.48326</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.90512,40.48684</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>PARADISE POOLS [PARA]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.135,40.78722</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>BIG FLAT [BIGF]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.19359,40.73628</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SKUNK POINT [SKUN]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.23438,40.73655</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>TISH TANG [TISH]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.638,41.023</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>BIG BAR [BIGB]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.63610,41.25210</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>BOISE [BOIS]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-123.65968,40.9466</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>BRYCEBURG RECREATION AREA [BRYC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.98450,37.59589</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>HITES COVE [HITE]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.88503,37.64972</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>MERCED RIVER [MERC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.58331,37.74178</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>FISH CAMP FALLS [FISF]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.61622,37.47073</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>SKINNY DIP [SKIN]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.6041667,37.46694444</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.6075,37.4672</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>WAWONA [WAWO]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.65583,37.53869</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.62722,37.55544</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>RAINBOW POOLS [RAIP]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.01236,37.82156</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>CASCADE CREEK [CASC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.7055,37.7425</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>POHONO BRIDGE [POHO]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.666,37.7166</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-119.46569,37.93172</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.0455,37.7433</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.984125,39.330197</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>MOUNTAIN DOG  [MOUN]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.98944,39.3322</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>NORTH CANYON [NORC]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.9489,39.34028</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.08922,39.29799</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.19381,39.29222</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>MIDDLE YUBA BRIDGE [MIDB]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.08455,39.39407</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>MUSHROOM HOLE [MUSH]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.10006,39.38353</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>Unknown</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-121.0754,39.404972</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>DOWNIEVILLE AREA[DOWN]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.82770,39.55952</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>INDIAN SPRINGS [INDI]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.58503,39.33419</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>LAKES BASIN CAMPGROUND [LAKE]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.65908,39.70064</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+          <Placemark>
+            <name>JOHNSVILLE [JOHN]</name>
+            <TimeStamp><when>2015-08-15T15:17:13Z</when></TimeStamp>
+            <styleUrl>#placemark-red</styleUrl>
+            <Point><coordinates>-120.6954985,39.7607303</coordinates></Point>
+            <ExtendedData xmlns:mwm="http://mapswith.me">
+              <mwm:scale>15</mwm:scale>
+            </ExtendedData>
+          </Placemark>
+        
+
+</Document>
+</kml>
+

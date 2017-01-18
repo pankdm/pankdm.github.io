@@ -1,0 +1,627 @@
+[
+    {
+        "lat": "32.95169", 
+        "lon": "-116.30582", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.807292", 
+        "lon": "-122.423542", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "38.9293", 
+        "lon": "-121.0385", 
+        "name": "CLARKS HOLE [CLAH]"
+    }, 
+    {
+        "lat": "38.9293", 
+        "lon": "-121.0385", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.9507", 
+        "lon": "-122.7645", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "36.24828", 
+        "lon": "-121.77803", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "36.25026", 
+        "lon": "-121.78214", 
+        "name": "CAMPGROUND [CAMP]"
+    }, 
+    {
+        "lat": "36.24815", 
+        "lon": "-121.76988", 
+        "name": "GORGE [GORG]"
+    }, 
+    {
+        "lat": "36.126250", 
+        "lon": "-121.641742", 
+        "name": "ESALEN HOT SPRINGS [ESAL]"
+    }, 
+    {
+        "lat": "35.81601", 
+        "lon": "-121.35673", 
+        "name": "SALMON CREEK FALLS [SALF]"
+    }, 
+    {
+        "lat": "33.12470 ", 
+        "lon": "-116.80211", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": " 33.12718", 
+        "lon": "-116.80351", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "33.52696", 
+        "lon": "-117.77018", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "38.24569", 
+        "lon": "-119.20494", 
+        "name": "TRAVERTINE [TRAV]"
+    }, 
+    {
+        "lat": "38.23881", 
+        "lon": "-119.32633", 
+        "name": "BUCKEYE [BUCE]"
+    }, 
+    {
+        "lat": "39.19346", 
+        "lon": "-119.75297", 
+        "name": "CARSON HOT SPRINGS RESORT [CARS]"
+    }, 
+    {
+        "lat": "32.9898", 
+        "lon": "-116.730", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.7622", 
+        "lon": "-121.7923", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.72900", 
+        "lon": "-121.70528", 
+        "name": "BUTTE CREEK[BUTT]"
+    }, 
+    {
+        "lat": "39.8576", 
+        "lon": "-121.3904", 
+        "name": "FEATHER RIVER [FEAT]"
+    }, 
+    {
+        "lat": "39.64306", 
+        "lon": "-121.27333", 
+        "name": "FEATHER FALLS [FEAF]"
+    }, 
+    {
+        "lat": "39.8611", 
+        "lon": "-121.3628", 
+        "name": "GRIZZLY CREEK [GRIC]"
+    }, 
+    {
+        "lat": "39.9078", 
+        "lon": "-121.3636", 
+        "name": "ROCK CREEK [ROCK]"
+    }, 
+    {
+        "lat": "38.65512", 
+        "lon": "-120.66586", 
+        "name": "HAPPY VALLEY [HAPP]"
+    }, 
+    {
+        "lat": "38.625633", 
+        "lon": "-120.7009", 
+        "name": "TWIN BRIDGES [TWIN]"
+    }, 
+    {
+        "lat": "37.70769", 
+        "lon": "-122.05476", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "36.32077", 
+        "lon": "-117.5245", 
+        "name": "DARWIN FALLS [DARW]"
+    }, 
+    {
+        "lat": "35.85609", 
+        "lon": "-117.3809", 
+        "name": "GREAT FALLS [GREA]"
+    }, 
+    {
+        "lat": "40.37702315", 
+        "lon": "-123.3269428", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.9858", 
+        "lon": "-120.0530", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "41.87892", 
+        "lon": "-123.43273", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "41.74770", 
+        "lon": "-123.3554", 
+        "name": "ELK CREEK HOLES[ELKC]"
+    }, 
+    {
+        "lat": "41.66062 ", 
+        "lon": "-123.31937", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "41.72866", 
+        "lon": "-95.07253", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "41.71012", 
+        "lon": "-123.44805", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "38.78767", 
+        "lon": "-122.65556", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "40.87232", 
+        "lon": "-121.8955", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.6903", 
+        "lon": "-118.8403", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "40.3225", 
+        "lon": "-123.9928", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "40.47573", 
+        "lon": "-124.10759", 
+        "name": "SCOTIA FIREMENS PARK [SCOT]"
+    }, 
+    {
+        "lat": "40.35385", 
+        "lon": "-123.92775", 
+        "name": "LEATHERWOOD BAR [LEAT]"
+    }, 
+    {
+        "lat": "40.34269", 
+        "lon": "-123.93881", 
+        "name": "WOMENS FEDERATION GROVE [WOME]"
+    }, 
+    {
+        "lat": "40.29219", 
+        "lon": "-123.90210", 
+        "name": "GARDEN CLUB GROVE [GARD]"
+    }, 
+    {
+        "lat": "35.965980", 
+        "lon": "-118.480017", 
+        "name": "LIMESTONE CAMPGROUND [LIME]"
+    }, 
+    {
+        "lat": "35.9711", 
+        "lon": "-118.4714", 
+        "name": "BRUSH CREEK [BRUS]"
+    }, 
+    {
+        "lat": "34.2797", 
+        "lon": "-117.1286", 
+        "name": "AZTEC FALLS [AZTC]"
+    }, 
+    {
+        "lat": "34.36370", 
+        "lon": "-117.16198", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "34.3394", 
+        "lon": "-117.1769", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "41.11312", 
+        "lon": "-122.11827", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.27350", 
+        "lon": "-122.28983", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.326", 
+        "lon": "-119.018", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.17876", 
+        "lon": "-123.70181", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.08553", 
+        "lon": "-123.48508", 
+        "name": "PHILO [PHIL]"
+    }, 
+    {
+        "lat": "39.06116", 
+        "lon": "-123.43658", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "34.09677", 
+        "lon": "-118.7168", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "38.50409", 
+        "lon": "-122.93080", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "38.43106", 
+        "lon": "-123.06983", 
+        "name": "WILLOW CREEK BEACH [WICB]"
+    }, 
+    {
+        "lat": "37.172683", 
+        "lon": "-121.492538", 
+        "name": "CHINA HOLE [CHIN]"
+    }, 
+    {
+        "lat": "36.23472", 
+        "lon": "-121.48333", 
+        "name": "ARROYO SECO RIVER[ARRO]"
+    }, 
+    {
+        "lat": "34.4732", 
+        "lon": "-119.70799", 
+        "name": "SEVEN FALLS [SEVE]"
+    }, 
+    {
+        "lat": "34.54389", 
+        "lon": "-119.8047", 
+        "name": "WHITE ROCK [WHIT]"
+    }, 
+    {
+        "lat": "34.53932", 
+        "lon": "-119.70625", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "34.580343", 
+        "lon": "-119.260846", 
+        "name": "SESPE GORGE [SESP]"
+    }, 
+    {
+        "lat": "34.427571", 
+        "lon": "-119.089664", 
+        "name": "PUNCHBOWLS [PUNC]"
+    }, 
+    {
+        "lat": "37.023392", 
+        "lon": "-122.058262", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.12609", 
+        "lon": "-122.12131", 
+        "name": "JUNCTION PARK [JUNC]"
+    }, 
+    {
+        "lat": "36.5196", 
+        "lon": "-118.8013", 
+        "name": "MARBLE FORK [MARB]"
+    }, 
+    {
+        "lat": "36.51831", 
+        "lon": "-118.76064", 
+        "name": "PARADISE CREEK [PARC]"
+    }, 
+    {
+        "lat": "36.6085", 
+        "lon": "-118.6909", 
+        "name": "TOKOPAH FALLS [TOKO]"
+    }, 
+    {
+        "lat": "36.665693", 
+        "lon": "-118.834486", 
+        "name": "STONY CREEK [STON]"
+    }, 
+    {
+        "lat": "41.8182", 
+        "lon": "-124.0383", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "41.65347", 
+        "lon": "-123.86478", 
+        "name": "SOUTH FORK SMITH RIVER [SOUS]"
+    }, 
+    {
+        "lat": "41.6505", 
+        "lon": "-123.8461", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "41.6433", 
+        "lon": "-123.8097", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.87931", 
+        "lon": "-123.73806", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.8986", 
+        "lon": "-123.7511", 
+        "name": "SMITHE REDWOODS STATE RESERVE [SMIT]"
+    }, 
+    {
+        "lat": "34.26640", 
+        "lon": "-118.14483", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.139", 
+        "lon": "-120.244", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.203892", 
+        "lon": "-120.251241", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.20217", 
+        "lon": "-120.27053", 
+        "name": "SHIRLEY LAKE [SHIL]"
+    }, 
+    {
+        "lat": "39.17535", 
+        "lon": "-120.25227", 
+        "name": "FIVE LAKES [FIVL]"
+    }, 
+    {
+        "lat": "39.16503", 
+        "lon": "-120.17415", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "38.67906", 
+        "lon": "-120.13127", 
+        "name": "THE POTHOLES ON SILVER FORK [POTH]"
+    }, 
+    {
+        "lat": "38.47883", 
+        "lon": "-120.26864", 
+        "name": "MOORE CREEK [MOOR]"
+    }, 
+    {
+        "lat": "38.7008", 
+        "lon": "-119.8392", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "38.69819", 
+        "lon": "-119.86321", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "36.2569", 
+        "lon": "-118.6625", 
+        "name": "HIDDEN FALLS [HIDD]"
+    }, 
+    {
+        "lat": "36.1490", 
+        "lon": "-118.7525", 
+        "name": "LOWER COFFEE CAMP [LOWC]"
+    }, 
+    {
+        "lat": "36.18899", 
+        "lon": "-118.66119", 
+        "name": "CAMP WISHON [CAMW]"
+    }, 
+    {
+        "lat": "40.49955", 
+        "lon": "-123.98236", 
+        "name": "PAMPLIN GROVE [PAMP]"
+    }, 
+    {
+        "lat": "40.48748", 
+        "lon": "-123.97184", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "40.48913", 
+        "lon": "-123.97874", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "40.48326", 
+        "lon": "-123.96289", 
+        "name": "CHEATHAM GROVE [CHEA]"
+    }, 
+    {
+        "lat": "40.48684", 
+        "lon": "-123.90512", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "40.78722", 
+        "lon": "-123.135", 
+        "name": "PARADISE POOLS [PARA]"
+    }, 
+    {
+        "lat": "40.73628", 
+        "lon": "-123.19359", 
+        "name": "BIG FLAT [BIGF]"
+    }, 
+    {
+        "lat": "40.73655", 
+        "lon": "-123.23438", 
+        "name": "SKUNK POINT [SKUN]"
+    }, 
+    {
+        "lat": "41.023", 
+        "lon": "-123.638", 
+        "name": "TISH TANG [TISH]"
+    }, 
+    {
+        "lat": "41.25210", 
+        "lon": "-123.63610", 
+        "name": "BIG BAR [BIGB]"
+    }, 
+    {
+        "lat": "40.9466", 
+        "lon": "-123.65968", 
+        "name": "BOISE [BOIS]"
+    }, 
+    {
+        "lat": "37.59589", 
+        "lon": "-119.98450", 
+        "name": "BRYCEBURG RECREATION AREA [BRYC]"
+    }, 
+    {
+        "lat": "37.64972", 
+        "lon": "-119.88503", 
+        "name": "HITES COVE [HITE]"
+    }, 
+    {
+        "lat": "37.74178", 
+        "lon": "-119.58331", 
+        "name": "MERCED RIVER [MERC]"
+    }, 
+    {
+        "lat": "37.47073", 
+        "lon": "-119.61622", 
+        "name": "FISH CAMP FALLS [FISF]"
+    }, 
+    {
+        "lat": "37.46694444", 
+        "lon": "-119.6041667", 
+        "name": "SKINNY DIP [SKIN]"
+    }, 
+    {
+        "lat": "37.4672", 
+        "lon": "-119.6075", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.53869", 
+        "lon": "-119.65583", 
+        "name": "WAWONA [WAWO]"
+    }, 
+    {
+        "lat": "37.55544", 
+        "lon": "-119.62722", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.82156", 
+        "lon": "-120.01236", 
+        "name": "RAINBOW POOLS [RAIP]"
+    }, 
+    {
+        "lat": "37.7425", 
+        "lon": "-119.7055", 
+        "name": "CASCADE CREEK [CASC]"
+    }, 
+    {
+        "lat": "37.7166", 
+        "lon": "-119.666", 
+        "name": "POHONO BRIDGE [POHO]"
+    }, 
+    {
+        "lat": "37.93172", 
+        "lon": "-119.46569", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "37.7433", 
+        "lon": "-120.0455", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.330197", 
+        "lon": "-120.984125", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.3322", 
+        "lon": "-120.98944", 
+        "name": "MOUNTAIN DOG  [MOUN]"
+    }, 
+    {
+        "lat": "39.34028", 
+        "lon": "-120.9489", 
+        "name": "NORTH CANYON [NORC]"
+    }, 
+    {
+        "lat": "39.29799", 
+        "lon": "-121.08922", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.29222", 
+        "lon": "-121.19381", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.39407", 
+        "lon": "-121.08455", 
+        "name": "MIDDLE YUBA BRIDGE [MIDB]"
+    }, 
+    {
+        "lat": "39.38353", 
+        "lon": "-121.10006", 
+        "name": "MUSHROOM HOLE [MUSH]"
+    }, 
+    {
+        "lat": "39.404972", 
+        "lon": "-121.0754", 
+        "name": "Unknown"
+    }, 
+    {
+        "lat": "39.55952", 
+        "lon": "-120.82770", 
+        "name": "DOWNIEVILLE AREA[DOWN]"
+    }, 
+    {
+        "lat": "39.33419", 
+        "lon": "-120.58503", 
+        "name": "INDIAN SPRINGS [INDI]"
+    }, 
+    {
+        "lat": "39.70064", 
+        "lon": "-120.65908", 
+        "name": "LAKES BASIN CAMPGROUND [LAKE]"
+    }, 
+    {
+        "lat": "39.7607303", 
+        "lon": "-120.6954985", 
+        "name": "JOHNSVILLE [JOHN]"
+    }
+]
