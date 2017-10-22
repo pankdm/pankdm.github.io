@@ -83,7 +83,6 @@ var processJson = function(data) {
     myLayer.setStyle({
       color: 'blue',
     });
-    map.fitBounds(myLayer.getBounds());
     console.log(myLayer)
     for (i in myLayer._layers) {
       layer = myLayer._layers[i]
@@ -160,6 +159,7 @@ $.getJSON("photos.json", function(data) {
       markers.addLayer(marker)
     }
   // markers.addTo(map);
+  map.fitBounds(markers.getBounds());
 })
 
 // var myLayer = L.mapbox.featureLayer()
