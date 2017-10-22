@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=utf-8 />
+<title>Alaska-Canada Trip 2017</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.css' rel='stylesheet' />
+
+<script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+
+<style>
+  body { margin:0; padding:0; }
+  #map { position:absolute; top:0; bottom:0; width:100%; }
+  #marker-list {
+    position:absolute;
+    top:0; right:0; width:200px;
+    bottom:0;
+    overflow-x:auto;
+    background:#fff;
+    margin:0;
+    padding:5px;
+  }
+  #marker-list li {
+      padding:5px;
+      margin:0;
+      list-style-type:none;
+  }
+  #marker-list li:hover {
+      background:#eee;
+  }
+</style>
+</head>
+
+<body>
+
+<style>
+.filter-ui {
+  background:#fff;
+  position:absolute;
+  top:50px;
+  right:10px;
+  z-index:100;
+  padding:10px;
+  border-radius:3px;
+  }
+</style>
+
+<div id='map'></div>
+<!-- <ul id='marker-list'></ul> -->
+
+
+<script>
+// Provide your access token
+L.mapbox.accessToken = 'pk.eyJ1IjoicGFua2RtIiwiYSI6Ik5rdUFuak0ifQ.zDNPCTkra_ocxGs-SxwcYA';
+
+// startPoint = [52.387876, -115.774817];
+var map = L.mapbox.map('map', null);
+//     .setView(startPoint, 7);
+L.control.layers({
+  'Mapbox Streets': L.mapbox.tileLayer('mapbox.streets').addTo(map),
+  'Mapbox Outdoors': L.mapbox.tileLayer('mapbox.outdoors'),
+  'Mapbox Emerald': L.mapbox.tileLayer('mapbox.emerald'),
+  'Mapbox Light': L.mapbox.tileLayer('mapbox.light'),
+  'Mapbox Dark': L.mapbox.tileLayer('mapbox.dark'),
+}).addTo(map);
+
+
+var markerList = document.getElementById('marker-list');
+
+var processJson = function(data) {
+    myLayer = L.mapbox.featureLayer(data);
+    myLayer.addTo(map);
+    myLayer.setFilter(function(feature) {
+      // console.log(feature);
+      // return true;
+      return feature.geometry.type == "LineString";
+    });
+    myLayer.setStyle({
+      color: 'blue',
+    });
+    map.fitBounds(myLayer.getBounds());
+    console.log(myLayer)
+    for (i in myLayer._layers) {
+      layer = myLayer._layers[i]
+      if (layer.feature.geometry.type != "LineString") {
+        continue;
+      }
+      // title is of the form "Day X"
+      title = layer.feature.properties.title;
+      // extract X from title
+      number = title.match(/\d+/g);
+      if (number != null) {
+        c = layer.feature.geometry.coordinates;
+        lastPoint = c[c.length - 1];
+        var marker = L.marker([lastPoint[1], lastPoint[0]], {
+          icon: L.mapbox.marker.icon({
+              'marker-color': '#1087bf',
+              // 'marker-size': 'large',
+              'marker-symbol': number,
+          })
+        })
+        marker.addTo(map)
+      }
+    }
+
+    // myLayer.eachLayer(function(layer) {
+    //   var item = markerList.appendChild(document.createElement('li'));
+    //   item.innerHTML = layer.feature.properties.title;
+    //   var isSet = false
+    //   item.onclick = function() {
+    //     if (isSet) {
+    //       layer.setStyle({
+    //         color : 'blue',
+    //       })
+    //     } else {
+    //       layer.setStyle({
+    //         color : 'red',
+    //       })
+    //     }
+    //     isSet = !isSet
+    //   }
+    // });
+};
+
+$.getJSON('canada-trip-1.geojson', processJson);
+$.getJSON('canada-trip-2.geojson', processJson);
+$.getJSON('canada-trip-3.geojson', processJson);
+
+$.getJSON("photos.json", function(data) {
+    var markers = new L.MarkerClusterGroup();
+    for (c in data) {
+      d = data[c]
+
+      img_link = "data/th_" + c + ".jpg"
+      var marker = L.marker([d["lat"], d["lon"]], {
+        "icon": L.icon({
+          iconUrl: img_link,
+          iconSize: [50, 50],
+        })
+      })
+
+      popupContent = "<img src=" + img_link + " width=280 height=280>";
+      marker.bindPopup(popupContent, {
+          closeButton: false,
+      })
+      marker.on('mouseover', function(e) {
+          // console.log(e);
+          e.target.openPopup();
+      });
+      marker.on('mouseout', function(e) {
+          e.target.closePopup();
+      });
+
+      marker.addTo(map)
+      markers.addLayer(marker)
+    }
+  // markers.addTo(map);
+})
+
+// var myLayer = L.mapbox.featureLayer()
+//   .loadURL('canada-trip.geojson')
+//   .on('ready', function() {
+//     map.fitBounds(myLayer.getBounds());
+//   })
+//   .addTo(map);
+//
+// myLayer.setFilter(function(feature) {
+//   // console.log(feature);
+//   return true;
+//   // return feature.geometry.type == "LineString";
+// });
+// myLayer.setStyle({
+//   color: 'red',
+//   fillColor: 'red',
+// });
+//
+// console.log(myLayer)
+
+
+
+</script>
+</body>
+</html>
