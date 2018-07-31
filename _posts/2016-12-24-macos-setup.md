@@ -7,7 +7,7 @@ title:  "Personal MacOS setup"
 
 `System Preferences -> Trackpad`:
 
-* Secondary click by right corner
+* `Secondary click`: click in bottom right corner
 * Enable `Tap to Click`
 * Disable `Scroll Direction: Natural`
 
@@ -21,6 +21,14 @@ title:  "Personal MacOS setup"
 
 
 ## CapsLock to switch languages
+
+**After High Sierra:**
+
+* `System Preferences -> Keyboard -> Input Sources`:
+  * Enable `Use the CapsLock key to switch`
+
+**Before High Sierra:**
+
 
 Reference: [stackoverflow](http://apple.stackexchange.com/questions/256342/use-caps-lock-to-switch-to-and-from-languages-on-sierra)
 
@@ -50,6 +58,20 @@ ln -s configs/.vimrc ~/.vimrc
 ```
 
 `.bash_profile`
+
+```bash
+if [ -f ~/.bashrc ]; then
+    source ~/.bashrc
+fi
+```
+
+To avoid confusion, consolidate everything in `.bashrc`.
+
+* Reference: <https://apple.stackexchange.com/questions/51036/what-is-the-difference-between-bash-profile-and-bashrc>
+
+
+
+`.bashrc`
 
 ```bash
 export CLICOLOR=1 # enable colored `ls`
@@ -90,13 +112,40 @@ cp -r powerline/powerline/ $POWERLINE_PATH/powerline
 cp -r powerline/scripts/ $POWERLINE_PATH/scripts
 
 # create directory with configs
-mkdir ~/.config/powerline
+mkdir -p ~/.config/powerline
 cp -r ./powerline/powerline/config_files/ .config/powerline/
 ```
 
-Enable powerline for bash by adding the following line to `~/.bash_profile`:
+Enable powerline for bash by adding the following line to `~/.bashrc`:
 
 ```bash
 POWERLINE_PATH=~/Library/Python/2.7/lib/python/site-packages/
 source $POWERLINE_PATH/powerline/bindings/bash/powerline.sh
+```
+
+Customize powerline config. In `.config/powerline/config.json` switch to `default_leftonly` theme.
+Then in `.config/powerline/themes/shell/default_leftonly.json` add time field:
+
+```json
+{
+  "function": "powerline.segments.common.time.date",
+  "args": {
+    "istime": true,
+    "format": "%X"
+  }
+},
+```
+
+
+Finally, install special symbols as fallback font. Reference:
+
+* <https://powerline.readthedocs.io/en/latest/installation.html#fonts-installation>
+* <https://gitlab.com/zerustech/font-fallbacks-tutorial>
+
+## pankdm.github.io
+
+Install jekyll and dependencies
+
+```bash
+gem install bundler jekyll redcarpet pygments.rb
 ```
