@@ -1,0 +1,22 @@
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+table td {
+  /* padding:7px;  */
+  border:1px solid #ebebeb;
+}
+table pre {
+    padding: 5px;
+    margin: 5px;
+}
+
+pre {
+    /* padding: 20px; */
+    overflow: auto;
+    text-shadow: none;
+    background: #fff;
+    border: solid 1px #f2f2f2;
+}
