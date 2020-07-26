@@ -3,9 +3,9 @@ title: Welcome to Nowhere
 github_username:  pankdm
 
 # Build settings
-# markdown: kramdown
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+# markdown: redcarpet
+# highlighter: pygments
 
 kramdown:
   input: GFM
