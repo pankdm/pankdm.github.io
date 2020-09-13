@@ -149,3 +149,18 @@ Install jekyll and dependencies
 ```bash
 gem install bundler jekyll redcarpet pygments.rb
 ```
+
+
+## VSCode
+
+* [Custom CSS Extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+
+After update need to enable it back:
+
+```bash
+sudo chown -R $(whoami) "/Applications/Visual Studio Code.app/Contents/MacOS/Electron"
+```
+
+Then `Cmd + Shift + P` -> `Reload Custom CSS` -> `Restart`
+
+
