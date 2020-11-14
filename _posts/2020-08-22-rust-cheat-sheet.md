@@ -167,3 +167,19 @@ mod tests {
 * Running specific test: `cargo test <test_name>`
 * Show output from passing tests: `cargo test -- --nocapture`
 
+## Files
+
+* Read from file:
+
+```rust
+pub fn read_input(filename: &str) -> Vec<String> {
+    let file = File::open(filename).unwrap();
+    let reader = BufReader::new(file);
+    let mut res = Vec::new();
+    for line in reader.lines() {
+        let line = line.unwrap();
+        res.push(line.to_string());
+    }
+    return res;
+}
+```
