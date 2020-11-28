@@ -9,6 +9,25 @@ title:  "Rust Cheat Sheet"
 * [github: donbright/rust-lang-cheat-sheet](https://github.com/donbright/rust-lang-cheat-sheet)
 
 
+## Cargo
+
+Create new project:
+
+```bash
+cargo new project_name --bin
+```
+
+Format code:
+
+```bash
+cargo fmt
+```
+
+Environment variables:
+
+ - `RUSTFLAGS=-Awarnings cargo ...` - disable all warnings when running/building
+
+
 ## Declaration
 
  * global constants:
@@ -64,8 +83,6 @@ vec.sort_by(|a, b| a.partial_cmp(b).unwrap());
  ```
 
 
-
-
 ### HashMap
 
 ```rust
@@ -76,6 +93,11 @@ foo.insert(key, value);
 
 if (foo.contains_key(&key)) {
    println!("{}", f[&key]);
+}
+
+// iteration
+for (k, v) in foo.iter() {
+   println!("key = {}, value = {}", key, value);
 }
 ```
 
@@ -164,8 +186,11 @@ mod tests {
 }
 ```
 
+* Run all tests: `cargo test`
 * Running specific test: `cargo test <test_name>`
 * Show output from passing tests: `cargo test -- --nocapture`
+* Show output from passing tests and run specific test: `cargo test <test_name> -- --nocapture`
+* Run tests in release mode: `cargo test --release`
 
 ## Files
 
