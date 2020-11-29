@@ -105,13 +105,13 @@ for (k, v) in foo.iter() {
 
  * repeat string
 
-```
+```rust
 let repeated = "Repeat".repeat(4);
 ```
 
 ### VecDeque
 
-Implmenentation of queue
+Implemenation of queue
 
 ```rust
 use std::collections::VecDeque;
@@ -144,6 +144,7 @@ println!("This is debug x={:?}", x);
 
 ```rust
 println!("This is float: {:.n}", x);
+```
 
 * Print without new lines:
 
