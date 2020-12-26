@@ -101,6 +101,13 @@ for (k, v) in foo.iter() {
 }
 ```
 
+- Update elements
+
+```rust
+*foo.entry(key).or_insert(default_value) += 1;
+```
+
+
 ### String
 
  * repeat string
