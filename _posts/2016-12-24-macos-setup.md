@@ -57,6 +57,13 @@ git clone https://github.com/pankdm/configs.git
 ln -s configs/.vimrc ~/.vimrc
 ```
 
+`.gitconfig`
+
+```
+git clone https://github.com/pankdm/configs.git
+ln -s configs/.gitconfig ~/.gitconfig
+```
+
 `.bash_profile`
 
 ```bash
@@ -68,7 +75,6 @@ fi
 To avoid confusion, consolidate everything in `.bashrc`.
 
 * Reference: <https://apple.stackexchange.com/questions/51036/what-is-the-difference-between-bash-profile-and-bashrc>
-
 
 
 `.bashrc`
@@ -190,3 +196,8 @@ Then `Cmd + Shift + P` -> `Reload Custom CSS` -> `Restart`
 
 <https://stackoverflow.com/questions/39245966/vs-code-possible-to-switch-tabs-files-with-cmdnumbers>
 
+## Iterm
+
+Set keymaps:
+ * `Cmd + Option + Left` -> Next Tab
+ * `Cmd + Option + Right` -> Previous Tab
