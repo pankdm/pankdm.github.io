@@ -153,9 +153,18 @@ gem install bundler jekyll redcarpet pygments.rb
 
 ## VSCode
 
-* [Custom CSS Extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+* Multi-tab rows
 
-After update need to enable it back:
+```json
+"workbench.editor.wrapTabs": true
+```
+
+**Before [1.53 version update](https://github.com/Microsoft/vscode/issues/70413#issuecomment-753870712):**
+
+
+Install [Custom CSS Extension](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css)
+
+Then reload the app:
 
 ```bash
 sudo chown -R $(whoami) "/Applications/Visual Studio Code.app/Contents/MacOS/Electron"
@@ -163,4 +172,21 @@ sudo chown -R $(whoami) "/Applications/Visual Studio Code.app/Contents/MacOS/Ele
 
 Then `Cmd + Shift + P` -> `Reload Custom CSS` -> `Restart`
 
+
+* Switch tabs with cmd-number:
+
+
+```json
+{ "key": "cmd+1","command": "workbench.action.openEditorAtIndex1" },
+{ "key": "cmd+2","command": "workbench.action.openEditorAtIndex2" },
+{ "key": "cmd+3","command": "workbench.action.openEditorAtIndex3" },
+{ "key": "cmd+4","command": "workbench.action.openEditorAtIndex4" },
+{ "key": "cmd+5","command": "workbench.action.openEditorAtIndex5" },
+{ "key": "cmd+6","command": "workbench.action.openEditorAtIndex6" },
+{ "key": "cmd+7","command": "workbench.action.openEditorAtIndex7" },
+{ "key": "cmd+8","command": "workbench.action.openEditorAtIndex8" },
+{ "key": "cmd+9","command": "workbench.action.openEditorAtIndex9" }
+```
+
+<https://stackoverflow.com/questions/39245966/vs-code-possible-to-switch-tabs-files-with-cmdnumbers>
 
