@@ -39,6 +39,14 @@ Reference: [stackoverflow](http://apple.stackexchange.com/questions/256342/use-c
 4. `System Preferences -> Keyboard -> Shortcuts -> Input Sources`:
 press CapsLock to change languages
 
+## Disable bouncing of icons in Dock
+
+```
+defaults write com.apple.dock no-bouncing -bool True
+killall Dock
+```
+
+Reference: [dicussions.apple.com](https://discussions.apple.com/thread/7641571)
 
 ## Configs
 
