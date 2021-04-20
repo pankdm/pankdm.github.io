@@ -204,6 +204,20 @@ Then `Cmd + Shift + P` -> `Reload Custom CSS` -> `Restart`
 
 <https://stackoverflow.com/questions/39245966/vs-code-possible-to-switch-tabs-files-with-cmdnumbers>
 
+
+* Add additional file associations:
+
+In `settings.json`:
+
+```json
+    "files.associations": {
+        "*requirements.3.in": "pip-requirements",
+        "*requirements.3.txt": "pip-requirements"
+    }
+```
+
+<https://stackoverflow.com/questions/29973619/how-to-make-vs-code-to-treat-other-file-extensions-as-certain-language>
+
 ## Iterm
 
 Set keymaps:
