@@ -18,6 +18,10 @@ title:  "Personal MacOS setup"
 * Maximum `Key Repeat`
 * Maximum `Delay Until Repeat`
 * Enable `Use F1, F2, etc as standard`
+* Set `Touchbar shows` to `Expanded Control Strip`
+
+<img src="img/macos-setup/keyboard.png" style="width: 75%;"/>
+
 
 
 ## CapsLock to switch languages
@@ -189,6 +193,7 @@ Then `Cmd + Shift + P` -> `Reload Custom CSS` -> `Restart`
 
 * Switch tabs with cmd-number:
 
+In `Preferences -> Keyboard ShortCuts`:
 
 ```json
 { "key": "cmd+1","command": "workbench.action.openEditorAtIndex1" },
