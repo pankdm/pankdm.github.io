@@ -225,6 +225,15 @@ In `settings.json`:
 
 ## Iterm
 
-Set keymaps:
+Set keymaps
+
+Tabs navigation:
  * `Cmd + Option + Left` -> Next Tab
  * `Cmd + Option + Right` -> Previous Tab
+
+Line navigation:
+ * `Cmd + Left` -> Send Hex Code 0x01 (beginning of the line)
+ * `Cmd + Right` -> Send Hex Code 0x05 (end of line)
+ 
+ <https://superuser.com/questions/585518/how-to-make-commandarrow-go-to-begining-and-end-of-line-in-iterm2>
+ 
