@@ -162,11 +162,15 @@ Finally, install special symbols as fallback font. Reference:
 
 ## pankdm.github.io
 
-Install jekyll and dependencies
+Install jekyll and dependencies:
 
 ```bash
-gem install bundler jekyll redcarpet pygments.rb
+gem install --user-install bundler jekyll redcarpet pygments.rb
 ```
+
+Reference:
+* <https://jekyllrb.com/docs/installation/macos/#install-jekyll>
+
 
 
 ## VSCode
