@@ -202,7 +202,7 @@ mod tests {
 
 ## Files
 
-* Read from file:
+* Read from file by lines:
 
 ```rust
 pub fn read_input(filename: &str) -> Vec<String> {
@@ -215,4 +215,22 @@ pub fn read_input(filename: &str) -> Vec<String> {
     }
     return res;
 }
+```
+
+* Read the whole file to `String` ([link](https://doc.rust-lang.org/std/fs/fn.read_to_string.html)):
+
+```rust
+use std::fs;
+
+fs::read_to_string("foo.txt") // returns Result<String>
+```
+
+
+## Commandline
+
+Reading commandline args:
+
+```rust
+let args = std::env::args().collect::<Vec<String>>();
+println!("args: {:?}", args);
 ```
