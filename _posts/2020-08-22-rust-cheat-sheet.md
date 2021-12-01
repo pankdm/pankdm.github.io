@@ -74,7 +74,7 @@ vec.retain(|&x| x % 2 == 0);
 assert_eq!(vec, [2, 4]);
 ```
 
- * [Sorting Vectors](https://rust-lang-nursery.github.io/rust-cookbook/algorithms/sorting.html)
+ * [Sorting floats](https://rust-lang-nursery.github.io/rust-cookbook/algorithms/sorting.html)
 
  ```rust
  //floats
