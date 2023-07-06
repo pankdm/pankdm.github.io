@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Rust Cheat Sheet"
+title: "Rust Cheat Sheet"
 ---
 
 ## Links
 
-* [cheats.rs](https://cheats.rs/)
-* [github: donbright/rust-lang-cheat-sheet](https://github.com/donbright/rust-lang-cheat-sheet)
-
+- [cheats.rs](https://cheats.rs/)
+- [github: donbright/rust-lang-cheat-sheet](https://github.com/donbright/rust-lang-cheat-sheet)
 
 ## Cargo
 
@@ -25,15 +24,29 @@ cargo fmt
 
 Environment variables:
 
- - `RUSTFLAGS=-Awarnings cargo ...` - disable all warnings when running/building
-
+- `RUSTFLAGS=-Awarnings cargo ...` - disable all warnings when running/building
 
 ## Declaration
 
- * global constants:
+- global constants:
 
 ```rust
 const SOME_VALUE: i32 = 42;
+```
+
+- Custom operators on structs:
+
+```rust
+use std::ops::Add;
+impl Add for Vec2 {
+   type Output = Vec2;
+   fn add(self, rhs: Self) -> Self::Output {
+       Vec2 {
+           x: self.x + rhs.x,
+           y: self.y + rhs.y,
+       }
+   }
+}
 ```
 
 ### enums
@@ -59,14 +72,14 @@ use GlyphType::*;
 a = vec![0; n]; // create vector of size n with default values to 0
 ```
 
- * join vector of String-s
+- join vector of String-s
 
 ```rust
 a = vec!["Hello", "World!"];
 a.join(", ");
 ```
 
- * retain: to filter vector
+- retain: to filter vector
 
 ```rust
 let mut vec = vec![1, 2, 3, 4];
@@ -74,14 +87,13 @@ vec.retain(|&x| x % 2 == 0);
 assert_eq!(vec, [2, 4]);
 ```
 
- * [Sorting floats](https://rust-lang-nursery.github.io/rust-cookbook/algorithms/sorting.html)
+- [Sorting floats](https://rust-lang-nursery.github.io/rust-cookbook/algorithms/sorting.html)
 
- ```rust
- //floats
+```rust
+//floats
 let mut vec = vec![1.1, 1.15, 5.5, 1.123, 2.0];
 vec.sort_by(|a, b| a.partial_cmp(b).unwrap());
- ```
-
+```
 
 ### HashMap
 
@@ -107,10 +119,9 @@ for (k, v) in foo.iter() {
 *foo.entry(key).or_insert(default_value) += 1;
 ```
 
-
 ### String
 
- * repeat string
+- repeat string
 
 ```rust
 let repeated = "Repeat".repeat(4);
@@ -132,28 +143,27 @@ q.pop_back(); // -> Some(1)
 q.pop_front(); // -> Some(2)
 ```
 
-
 ## Print
 
-* Print the value of x:
+- Print the value of x:
 
 ```rust
 println!("This is x={}", x);
 ```
 
-* Print `Debug` output of the variable x:
+- Print `Debug` output of the variable x:
 
 ```rust
 println!("This is debug x={:?}", x);
 ```
 
-* Print float with n decimal digits:
+- Print float with n decimal digits:
 
 ```rust
 println!("This is float: {:.n}", x);
 ```
 
-* Print without new lines:
+- Print without new lines:
 
 ```rust
 use std::io::{self};
@@ -162,7 +172,7 @@ print!(" ");
 io::stdout().flush().unwrap(); // flush output
 ```
 
-* Print to stderr:
+- Print to stderr:
 
 ```rust
 eprintln!("Debug message...");
@@ -177,10 +187,9 @@ let now = Instant::now();
 let elapsed_ms = now.elapsed().as_millis();
 ```
 
-
 ## Testing
 
-* Writing tests:
+- Writing tests:
 
 ```rust
 #[cfg(test)]
@@ -194,15 +203,15 @@ mod tests {
 }
 ```
 
-* Run all tests: `cargo test`
-* Running specific test: `cargo test <test_name>`
-* Show output from passing tests: `cargo test -- --nocapture`
-* Show output from passing tests and run specific test: `cargo test <test_name> -- --nocapture`
-* Run tests in release mode: `cargo test --release`
+- Run all tests: `cargo test`
+- Running specific test: `cargo test <test_name>`
+- Show output from passing tests: `cargo test -- --nocapture`
+- Show output from passing tests and run specific test: `cargo test <test_name> -- --nocapture`
+- Run tests in release mode: `cargo test --release`
 
 ## Files
 
-* Read from file by lines:
+- Read from file by lines:
 
 ```rust
 pub fn read_input(filename: &str) -> Vec<String> {
@@ -217,14 +226,13 @@ pub fn read_input(filename: &str) -> Vec<String> {
 }
 ```
 
-* Read the whole file to `String` ([link](https://doc.rust-lang.org/std/fs/fn.read_to_string.html)):
+- Read the whole file to `String` ([link](https://doc.rust-lang.org/std/fs/fn.read_to_string.html)):
 
 ```rust
 use std::fs;
 
 fs::read_to_string("foo.txt") // returns Result<String>
 ```
-
 
 ## Commandline
 
