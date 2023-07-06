@@ -30,6 +30,7 @@ title:  "ICFPC Participation"
 | 2019 | Lambda-coins | 6 = 3 (SF) + 3 (LA) | `C++` | **9** | [Writeup](/icfpc-2019.html) / [Code](https://github.com/pankdm/icfpc-2019) |
 | 2020 | Running galaxy.txt | 5 | `python` | **40** | [Writeup](/icfpc-2020.html) / [Code](https://github.com/pankdm/icfpc-2020) |
 | 2021 | Brain Wall | 6 | `javascript`[3] | **25** | [Writeup](/icfpc-2021.html) / [Code](https://github.com/pankdm/icfpc-2021) |
+| 2022 | Robovinci | 6 | `python / java` | **18** | [Writeup](/icfpc-2022.html) / [Code](https://github.com/pankdm/icfpc-2022) |
 
 <br><br>
 [1] The exact rank is unknown as they never released the final standings.
