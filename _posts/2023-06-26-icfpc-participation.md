@@ -27,7 +27,7 @@ title:  "ICFPC Participation"
 | 7 | 2016 | Origami | 4 (+1 remote expert) | `python` | **26** |  [Writeup](/icfpc-2016.html) / [Code](https://github.com/pankdm/icfpc-2016) |
 | 8 | 2017 | Ticket to Ride | 4 | `python` | **15** | [Writeup](/icfpc-2017.html) / [Code](https://github.com/pankdm/icfpc-2017) |
 | 9 | 2018 | 3D printing | 5 = 3 (SF) + 2 (LA) | `C++` | **51**[2] | [Writeup](/icfpc-2018.html) / [Code](https://github.com/pankdm/icfpc-2018) |
-| 10 | 2019 | Lambda-coins | 6 = 3 (SF) + 3 (LA) | `C++` | **9** | [Writeup](/icfpc-2019.html) / [Code](https://github.com/pankdm/icfpc-2019) |
+| 10 | 2019 | Sweeping the Maze | 6 = 3 (SF) + 3 (LA) | `C++` | **9** | [Writeup](/icfpc-2019.html) / [Code](https://github.com/pankdm/icfpc-2019) |
 | 11 | 2020 | Running galaxy.txt | 5 | `python` | **40** | [Writeup](/icfpc-2020.html) / [Code](https://github.com/pankdm/icfpc-2020) |
 | 12 | 2021 | Human Tetris | 6 | `javascript`[3] | **25** | [Writeup](/icfpc-2021.html) / [Code](https://github.com/pankdm/icfpc-2021) |
 | 13 | 2022 | Robovinci | 6 | `python` / `java` | **18** | [Writeup](/icfpc-2022.html) / [Code](https://github.com/pankdm/icfpc-2022) |
